@@ -302,6 +302,7 @@
                     {
                         "fields": "utility_id_ferc1",
                         "reference": {
+                            "package": "../glue-test/datapackage.json",
                             "resource": "plants_ferc",
                             "fields": "utility_id_ferc1"
                         }
@@ -309,6 +310,7 @@
                     {
                         "fields": "plant_name",
                         "reference": {
+                            "package": "../glue-test/datapackage.json",
                             "resource": "plants_ferc",
                             "fields": "plant_name"
                         }
