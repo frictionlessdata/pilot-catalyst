@@ -1,0 +1,669 @@
+{
+    "name": "ferc1-test",
+    "profile": "tabular-data-package",
+    "title": "FERC Form1 Testing Pakage",
+    "id": "397e843d-4075-4e04-9e2c-b97655dbb6b6",
+    "description": "blahhhh",
+    "homepage": "https://catalyst.coop/pudl/",
+    "created": "2019-07-02T21:50:44Z",
+    "contributors": [
+        {
+            "title": "Alana Wilson",
+            "email": "alana.wilson@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Karl Dunkle Werner",
+            "email": "karldw@berkeley.edu",
+            "path": "https://karldw.org/",
+            "role": "contributor",
+            "organization": "UC Berkeley"
+        },
+        {
+            "title": "Climate Policy Initiative",
+            "path": "https://climatepolicyinitiative.org/",
+            "role": "contributor",
+            "organization": "Climate Policy Initiative"
+        },
+        {
+            "title": "Zane Selvans",
+            "email": "zane.selvans@catalyst.coop",
+            "path": "https://amateurearthling.org/",
+            "role": "wrangler",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Catalyst Cooperative",
+            "path": "https://catalyst.coop/",
+            "role": "publisher",
+            "email": "pudl@catalyst.coop",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Steven Winter",
+            "email": "steven.winter@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Christina Gosnell",
+            "email": "christina.gosnell@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        }
+    ],
+    "sources": [
+        {
+            "title": "ferc1",
+            "path": "ftp://eforms1.ferc.gov/f1allyears"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "CC-BY-4.0",
+            "title": "Creative Commons Attribution 4.0",
+            "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "resources": [
+        {
+            "profile": "tabular-data-resource",
+            "name": "ferc_accounts",
+            "path": "data/ferc_accounts.csv",
+            "title": "ferc_accounts",
+            "description": "Account numbers from the FERC Uniform System of Accounts for Electric Plant, which is defined in Code of Federal Regulations (CFR) Title 18, Chapter I, Subchapter C, Part 101. (See e.g. https://www.law.cornell.edu/cfr/text/18/part-101).",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "ferc_account_id",
+                        "type": "string",
+                        "description": "Account number, from FERC's Uniform System of Accounts for Electric Plant. Also includes higher level labeled categories.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "description",
+                        "type": "string",
+                        "description": "Long description of the FERC Account.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "ferc_account_id"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 4878,
+            "hash": "sha1:65bcb62dc3e26d70f334ededfd3c641d92241120",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": [
+                "2019-07-02T21:50:43Z"
+            ]
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "ferc_depreciation_lines",
+            "path": "data/ferc_depreciation_lines.csv",
+            "title": "ferc_depreciation_lines",
+            "description": "PUDL assigned FERC Form 1 line identifiers and long descriptions from FERC Form 1 page 219, Accumulated Provision for Depreciation of Electric Utility Plant (Account 108).",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "line_id",
+                        "type": "string",
+                        "description": "A human readable string uniquely identifying the FERC depreciation account. Used in lieu of the actual line number, as those numbers are not guaranteed to be consistent from year to year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "description",
+                        "type": "string",
+                        "description": "Description of the FERC depreciation account, as listed on FERC Form 1, Page 219.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "line_id"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 1647,
+            "hash": "sha1:bb53589d96f66e6948a57fe8f68ae6adaeeaa6d4",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": [
+                "2019-07-02T21:50:44Z"
+            ]
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "fuel_ferc1",
+            "path": "data/fuel_ferc1.csv",
+            "title": "fuel_ferc1",
+            "description": "Annual fuel consumed by large thermal generating plants. As reported on page 402 of FERC Form 1.",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "record_id",
+                        "type": "string",
+                        "description": "Identifier indicating original FERC Form 1 source record. format: {report_year}_{respondent_id}_{spplmnt_num}_{row_number}. Unique within each FERC Form 1 DB table.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "utility_id_ferc1",
+                        "type": "integer",
+                        "description": "FERC assigned respondent_id, identifying the reporting entity. Stable from year to year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_year",
+                        "type": "year",
+                        "description": "Four-digit year in which the data was reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_name",
+                        "type": "string",
+                        "description": "Name of the plant, as reported to FERC. This is a freeform string, not guaranteed to be consistent across references to the same plant.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_type_code_pudl",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "coal",
+                                "oil",
+                                "gas",
+                                "solar",
+                                "wind",
+                                "hydro",
+                                "nuclear",
+                                "waste",
+                                "other"
+                            ]
+                        },
+                        "description": "PUDL assigned code indicating the general fuel type.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_unit",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "ton",
+                                "mcf",
+                                "bbl",
+                                "gal",
+                                "1kgal",
+                                "gramsU",
+                                "kgU",
+                                "mmbtu",
+                                "mwdth",
+                                "mwhth"
+                            ]
+                        },
+                        "description": "PUDL assigned code indicating reported fuel unit of measure.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_qty_burned",
+                        "type": "number",
+                        "description": "Quantity of fuel consumed in the report year, in terms of the reported fuel units.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_mmbtu_per_unit",
+                        "type": "number",
+                        "description": "Average heat content of fuel consumed in the report year, in mmBTU per reported fuel unit.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_cost_per_unit_burned",
+                        "type": "number",
+                        "description": "Average cost of fuel consumed in the report year, in nominal USD per reported fuel unit.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_cost_per_unit_delivered",
+                        "type": "number",
+                        "description": "Average cost of fuel delivered in the report year, in nominal USD per reported fuel unit.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_cost_per_mmbtu",
+                        "type": "number",
+                        "description": "Average cost of fuel consumed in the report year, in nominal USD per mmBTU of fuel heat content.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "utility_id_ferc1",
+                        "reference": {
+                            "resource": "plants_ferc",
+                            "fields": "utility_id_ferc1"
+                        }
+                    },
+                    {
+                        "fields": "plant_name",
+                        "reference": {
+                            "resource": "plants_ferc",
+                            "fields": "plant_name"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 72244,
+            "hash": "sha1:c5727d3dfa6a5fae7aa9424c015becc6bc6fa118",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "ferc1",
+                    "path": "ftp://eforms1.ferc.gov/f1allyears"
+                }
+            ],
+            "created": [
+                "2019-07-02T21:50:44Z"
+            ]
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "plants_steam_ferc1",
+            "path": "data/plants_steam_ferc1.csv",
+            "title": "plants_steam_ferc1",
+            "description": "Large thermal generating plants, as reported on page 402 of FERC Form 1.",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "record_id",
+                        "type": "string",
+                        "description": "Identifier indicating original FERC Form 1 source record. format: {report_year}_{respondent_id}_{spplmnt_num}_{row_number}. Unique within each FERC Form 1 DB table.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "utility_id_ferc1",
+                        "type": "integer",
+                        "description": "FERC assigned respondent_id, identifying the reporting entity. Stable from year to year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_year",
+                        "type": "year",
+                        "description": "Four-digit year in which the data was reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_ferc1",
+                        "type": "integer",
+                        "description": "Algorithmically assigned PUDL FERC Plant ID. WARNING: NOT STABLE BETWEEN PUDL DB INITIALIZATIONS.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_name",
+                        "type": "string",
+                        "description": "Name of the plant, as reported to FERC. This is a freeform string, not guaranteed to be consistent across references to the same plant.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_type",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "steam",
+                                "combustion_turbine",
+                                "combined_cycle",
+                                "nuclear",
+                                "geothermal",
+                                "internal_combustion",
+                                "wind",
+                                "photovoltaic",
+                                "solar_thermal"
+                            ]
+                        },
+                        "description": "Simplified plant type, categorized by PUDL based on our best guess of what was intended based on freeform string reported to FERC. Unidentifiable types are null.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "construction_type",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "outdoor",
+                                "conventional"
+                            ]
+                        },
+                        "description": "Type of plant construction ('outdoor' or 'conventional'). Categorized by PUDL based on our best guess of intended value in FERC1 freeform strings.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "construction_year",
+                        "type": "year",
+                        "description": "Year the plant's oldest still operational unit was built.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "installation_year",
+                        "type": "year",
+                        "description": "Year the plant's most recently built unit was installed.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "capacity_mw",
+                        "type": "number",
+                        "description": "Total installed plant capacity in MW.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "peak_demand_mw",
+                        "type": "number",
+                        "description": "Net peak demand experienced by the plant in MW in report year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_hours_connected_while_generating",
+                        "type": "number",
+                        "description": "Total number hours the plant was generated and connected to load during report year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_capability_mw",
+                        "type": "number",
+                        "description": "Net continuous plant capability in MW",
+                        "format": "default"
+                    },
+                    {
+                        "name": "water_limited_capacity_mw",
+                        "type": "number",
+                        "description": "Plant capacity in MW when limited by condenser water.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "not_water_limited_capacity_mw",
+                        "type": "number",
+                        "description": "Plant capacity in MW when not limited by condenser water.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "avg_num_employees",
+                        "type": "number",
+                        "description": "Average number of plant employees during report year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "net_generation_mwh",
+                        "type": "number",
+                        "description": "Net generation (exclusive of plant use) in MWh during report year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "capex_land",
+                        "type": "number",
+                        "description": "Capital expense for land and land rights.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "capex_structures",
+                        "type": "number",
+                        "description": "Capital expense for structures and improvements.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "capex_equipment",
+                        "type": "number",
+                        "description": "Capital expense for equipment.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "capex_total",
+                        "type": "number",
+                        "description": "Total capital expenses.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "capex_per_mw",
+                        "type": "number",
+                        "description": "Capital expenses per MW of installed plant capacity.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_operations",
+                        "type": "number",
+                        "description": "Production expenses: operations, supervision, and engineering.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_fuel",
+                        "type": "number",
+                        "description": "Total cost of fuel.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_coolants",
+                        "type": "number",
+                        "description": "Cost of coolants and water (nuclear plants only)",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_steam",
+                        "type": "number",
+                        "description": "Steam expenses.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_steam_other",
+                        "type": "number",
+                        "description": "Steam from other sources.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_transfer",
+                        "type": "number",
+                        "description": "Steam transferred (Credit).",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_electric",
+                        "type": "number",
+                        "description": "Electricity expenses.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_misc_power",
+                        "type": "number",
+                        "description": "Miscellaneous steam (or nuclear) expenses.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_rents",
+                        "type": "number",
+                        "description": "Rents.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_allowances",
+                        "type": "number",
+                        "description": "Allowances.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_engineering",
+                        "type": "number",
+                        "description": "Maintenance, supervision, and engineering.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_structures",
+                        "type": "number",
+                        "description": "Maintenance of structures.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_boiler",
+                        "type": "number",
+                        "description": "Maintenance of boiler (or reactor) plant.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_plants",
+                        "type": "number",
+                        "description": "Maintenance of electrical plant.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_misc_steam",
+                        "type": "number",
+                        "description": "Maintenance of miscellaneous steam (or nuclear) plant.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_production_total",
+                        "type": "number",
+                        "description": "Total operating epxenses.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "opex_per_mwh",
+                        "type": "number",
+                        "description": "Total operating expenses per MWh of net generation.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "asset_retirement_cost",
+                        "type": "number",
+                        "description": "Asset retirement cost.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "utility_id_ferc1",
+                        "reference": {
+                            "resource": "plants_ferc",
+                            "fields": "utility_id_ferc1"
+                        }
+                    },
+                    {
+                        "fields": "plant_name",
+                        "reference": {
+                            "resource": "plants_ferc",
+                            "fields": "plant_name"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 240907,
+            "hash": "sha1:f9e40678303de49e5b40fdf64860dc902a3470ac",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "ferc1",
+                    "path": "ftp://eforms1.ferc.gov/f1allyears"
+                }
+            ],
+            "created": [
+                "2019-07-02T21:50:44Z"
+            ]
+        }
+    ]
+}

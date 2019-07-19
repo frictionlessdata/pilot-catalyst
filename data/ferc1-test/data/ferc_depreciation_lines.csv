@@ -1,0 +1,29 @@
+line_id,description
+balance_beginning_of_year,Balance Beginning of Year
+depreciation_expense,(403) Depreciation Expense
+depreciation_expense_asset_retirement,(403.1) Depreciation Expense for Asset Retirement Costs
+expense_electric_plant_leased_to_others,(413) Exp. of Elec. Plt. Leas. to Others
+transportation_expenses_clearing,Transportation Expenses-Clearing
+other_clearing_accounts,Other Clearing Accounts
+other_accounts_specified,"Other Accounts (Specify, details in footnote):"
+other_charges,Other Charges:
+total_depreciation_provision_for_year,TOTAL Deprec. Prov for Year (Enter Total of lines 3 thru 9)
+net_charges_for_plant_retired,Net Charges for Plant Retired:
+book_cost_of_plant_retired,Book Cost of Plant Retired
+cost_of_removal,Cost of Removal
+salvage_credit,Salvage (Credit)
+total_net_charges_for_plant_retired,TOTAL Net Chrgs. for Plant Ret. (Enter Total of lines 12 thru 14)
+other_debit_or_credit_items,"Other Debit or Cr. Items (Describe, details in footnote):"
+other_charges_2,Other Charges 2
+book_cost_or_asset_retirement_costs_retired,Book Cost or Asset Retirement Costs Retired
+balance_end_of_year,"Balance End of Year (Enter Totals of lines 1, 10, 15, 16, and 18)"
+steam_production_end_of_year,Steam Production
+nuclear_production_end_of_year,Nuclear Production
+hydraulic_production_end_of_year,Hydraulic Production-Conventional
+pumped_storage_end_of_year,Hydraulic Production-Pumped Storage
+other_production,Other Production
+transmission,Transmission
+distribution,Distribution
+regional_transmission_and_market_operation,Regional Transmission and Market Operation
+general,General
+total,TOTAL (Enter Total of lines 20 thru 28)

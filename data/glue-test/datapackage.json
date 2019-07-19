@@ -1,0 +1,387 @@
+{
+    "name": "glue-test",
+    "profile": "tabular-data-package",
+    "title": "Glue between EIA and FERC plants and utilities",
+    "id": "397e843d-4075-4e04-9e2c-b97655dbb6b6",
+    "description": "we stick things together",
+    "homepage": "https://catalyst.coop/pudl/",
+    "created": "2019-07-02T21:49:38Z",
+    "contributors": [
+        {
+            "title": "Alana Wilson",
+            "email": "alana.wilson@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Karl Dunkle Werner",
+            "email": "karldw@berkeley.edu",
+            "path": "https://karldw.org/",
+            "role": "contributor",
+            "organization": "UC Berkeley"
+        },
+        {
+            "title": "Climate Policy Initiative",
+            "path": "https://climatepolicyinitiative.org/",
+            "role": "contributor",
+            "organization": "Climate Policy Initiative"
+        },
+        {
+            "title": "Zane Selvans",
+            "email": "zane.selvans@catalyst.coop",
+            "path": "https://amateurearthling.org/",
+            "role": "wrangler",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Catalyst Cooperative",
+            "path": "https://catalyst.coop/",
+            "role": "publisher",
+            "email": "pudl@catalyst.coop",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Steven Winter",
+            "email": "steven.winter@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Christina Gosnell",
+            "email": "christina.gosnell@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        }
+    ],
+    "sources": [],
+    "licenses": [
+        {
+            "name": "CC-BY-4.0",
+            "title": "Creative Commons Attribution 4.0",
+            "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "resources": [
+        {
+            "profile": "tabular-data-resource",
+            "name": "plants",
+            "path": "data/plants.csv",
+            "title": "plants",
+            "description": "Home table for PUDL assigned plant IDs. These IDs are manually generated each year when new FERC and EIA reporting is integrated, and any newly identified plants are added to the list with a new ID. Each ID maps to a power plant which is reported in at least one FERC or EIA data set. This table is read in from a spreadsheet stored in the PUDL repository: results/id_mapping/mapping_eia923_ferc1.xlsx",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "plant_id_pudl",
+                        "type": "integer",
+                        "description": "A manually assigned PUDL plant ID. Should probably be constant over time.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Plant name, chosen arbitrarily from the several possible plant names available in the plant matching process. Included for human readability only.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "plant_id_pudl"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 72011,
+            "hash": "sha1:7d473646f827ae0bda15f3304743fe3e42cea8c0",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": [
+                "2019-07-02T21:49:38Z"
+            ]
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "plants_ferc",
+            "path": "data/plants_ferc.csv",
+            "title": "plants_ferc",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "utility_id_ferc1",
+                        "type": "integer",
+                        "description": "FERC assigned respondent_id, identifying the reporting entity. Stable from year to year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_name",
+                        "type": "string",
+                        "description": "Name of the plant, as reported to FERC. This is a freeform string, not guaranteed to be consistent across references to the same plant.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_pudl",
+                        "type": "integer",
+                        "description": "A manually assigned PUDL plant ID. Should probably be constant over time.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "utility_id_ferc1",
+                    "plant_name"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "utility_id_ferc1",
+                        "reference": {
+                            "resource": "utilities_ferc",
+                            "fields": "utility_id_ferc1"
+                        }
+                    },
+                    {
+                        "fields": "plant_id_pudl",
+                        "reference": {
+                            "resource": "plants",
+                            "fields": "plant_id_pudl"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 22375,
+            "hash": "sha1:85b523024c14a6be5f843cc9f4b1cf87dc2c361f",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": [
+                "2019-07-02T21:49:38Z"
+            ]
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "utilities",
+            "path": "data/utilities.csv",
+            "title": "utilities",
+            "description": "Home table for PUDL assigned utility IDs. These IDs are manually generated each year when new FERC and EIA reporting is integrated, and any newly found utilities are added to the list with a new ID. Each ID maps to a power plant owning or operating entity which is reported in at least one FERC or EIA data set. This table is read in from a spreadsheet stored in the PUDL repository: results/id_mapping/mapping_eia923_ferc1.xlsx",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "utility_id_pudl",
+                        "type": "integer",
+                        "description": "A manually assigned PUDL utility ID. Should probably be constant over time.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Utility name, chosen arbitrarily from the several possible utility names available in the utility matching process. Included for human readability only.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "utility_id_pudl"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 31998,
+            "hash": "sha1:cc6bd0073ca091c8acc3023caf208927a6b549bc",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": [
+                "2019-07-02T21:49:38Z"
+            ]
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "utilities_ferc",
+            "path": "data/utilities_ferc.csv",
+            "title": "utilities_ferc",
+            "description": "This table maps the manually assigned PUDL utility ID to a FERC respondent ID, enabling a connection between the FERC and EIA data sets. It also stores the utility name associated with the FERC respondent ID. Those values originate in the f1_respondent_id table in FERC's FoxPro database, which is stored in a file called F1_1.DBF. This table is generated from a spreadsheet stored in the PUDL repository: results/id_mapping/mapping_eia923_ferc1.xlsx",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "utility_id_ferc1",
+                        "type": "integer",
+                        "description": "FERC assigned respondent_id, identifying the reporting entity. Stable from year to year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "utility_name_ferc1",
+                        "type": "string",
+                        "description": "Name of the responding utility, as it is reported in FERC Form 1. For human readability only.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "utility_id_pudl",
+                        "type": "integer",
+                        "description": "A manually assigned PUDL utility ID. Should probably be constant over time.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "utility_id_ferc1"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "utility_id_pudl",
+                        "reference": {
+                            "resource": "utilities",
+                            "fields": "utility_id_pudl"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 14763,
+            "hash": "sha1:eea21a138dd48442cca994501d087c352003593d",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": [
+                "2019-07-02T21:49:38Z"
+            ]
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "utility_plant_assn",
+            "path": "data/utility_plant_assn.csv",
+            "title": "utility_plant_assn",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "utility_id_pudl",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_pudl",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "utility_id_pudl",
+                    "plant_id_pudl"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "utility_id_pudl",
+                        "reference": {
+                            "resource": "utilities",
+                            "fields": "utility_id_pudl"
+                        }
+                    },
+                    {
+                        "fields": "plant_id_pudl",
+                        "reference": {
+                            "resource": "plants",
+                            "fields": "plant_id_pudl"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 106758,
+            "hash": "sha1:5b7dcdd43261287f6bf3d64fd12a59177562b451",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": [
+                "2019-07-02T21:49:38Z"
+            ]
+        }
+    ]
+}

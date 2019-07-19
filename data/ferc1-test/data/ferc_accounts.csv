@@ -1,0 +1,98 @@
+ferc_account_id,description
+301,Intangible: Organization
+302,Intangible: Franchises and consents
+303,Intangible: Miscellaneous intangible plant
+subtotal_intangible,Subtotal: Intangible Plant
+310,Steam production: Land and land rights
+311,Steam production: Structures and improvements
+312,Steam production: Boiler plant equipment
+313,Steam production: Engines and engine-driven generators
+314,Steam production: Turbogenerator units
+315,Steam production: Accessory electric equipment
+316,Steam production: Miscellaneous power plant equipment
+317,Steam production: Asset retirement costs for steam production plant
+subtotal_steam_production,Subtotal: Steam Production Plant
+320,Nuclear production: Land and land rights (Major only)
+321,Nuclear production: Structures and improvements (Major only)
+322,Nuclear production: Reactor plant equipment (Major only)
+323,Nuclear production: Turbogenerator units (Major only)
+324,Nuclear production: Accessory electric equipment (Major only)
+325,Nuclear production: Miscellaneous power plant equipment (Major only)
+326,Nuclear production: Asset retirement costs for nuclear production plant (Major only)
+subtotal_nuclear_produciton,Subtotal: Nuclear Production Plant
+330,Hydraulic production: Land and land rights
+331,Hydraulic production: Structures and improvements
+332,"Hydraulic production: Reservoirs, dams, and waterways"
+333,"Hydraulic production: Water wheels, turbines and generators"
+334,Hydraulic production: Accessory electric equipment
+335,Hydraulic production: Miscellaneous power plant equipment
+336,"Hydraulic production: Roads, railroads and bridges"
+337,Hydraulic production: Asset retirement costs for hydraulic production plant
+subtotal_hydraulic_production,Subtotal: Hydraulic Production Plant
+340,Other production: Land and land rights
+341,Other production: Structures and improvements
+342,"Other production: Fuel holders, producers, and accessories"
+343,Other production: Prime movers
+344,Other production: Generators
+345,Other production: Accessory electric equipment
+346,Other production: Miscellaneous power plant equipment
+347,Other production: Asset retirement costs for other production plant
+348,Other production: Energy Storage Equipment
+subtotal_other_production,Subtotal: Other Production Plant
+subtotal_production,Subtotal: Production Plant
+350,Transmission: Land and land rights
+351,Transmission: Energy Storage Equipment
+352,Transmission: Structures and improvements
+353,Transmission: Station equipment
+354,Transmission: Towers and fixtures
+355,Transmission: Poles and fixtures
+356,Transmission: Overhead conductors and devices
+357,Transmission: Underground conduit
+358,Transmission: Underground conductors and devices
+359,Transmission: Roads and trails
+359.1,Transmission: Asset retirement costs for transmission plant
+subtotal_transmission,Subtotal: Transmission Plant
+360,Distribution: Land and land rights
+361,Distribution: Structures and improvements
+362,Distribution: Station equipment
+363,Distribution: Storage battery equipment
+364,"Distribution: Poles, towers and fixtures"
+365,Distribution: Overhead conductors and devices
+366,Distribution: Underground conduit
+367,Distribution: Underground conductors and devices
+368,Distribution: Line transformers
+369,Distribution: Services
+370,Distribution: Meters
+371,Distribution: Installations on customers' premises
+372,Distribution: Leased property on customers' premises
+373,Distribution: Street lighting and signal systems
+374,Distribution: Asset retirement costs for distribution plant
+subtotal_distribution,Subtotal: Distribution Plant
+380,Regional transmission: Land and land rights
+381,Regional transmission: Structures and improvements
+382,Regional transmission: Computer hardware
+383,Regional transmission: Computer software
+384,Regional transmission: Communication Equipment
+385,Regional transmission: Miscellaneous Regional Transmission and Market Operation Plant
+386,Regional transmission: Asset Retirement Costs for Regional Transmission and Market Operation Plant
+subtotal_regional_transmission,Subtotal: Transmission and Market Operation Plant
+387,Regional transmission: [Reserved]
+389,General: Land and land rights
+390,General: Structures and improvements
+391,General: Office furniture and equipment
+392,General: Transportation equipment
+393,General: Stores equipment
+394,"General: Tools, shop and garage equipment"
+395,General: Laboratory equipment
+396,General: Power operated equipment
+397,General: Communication equipment
+398,General: Miscellaneous equipment
+subtotal_general,Subtotal: General Plant
+399,General: Other tangible property
+399.1,General: Asset retirement costs for general plant
+total_general,TOTAL General Plant
+101_and_106,Electric plant in service (Major only)
+102_purchased,Electric plant purchased
+102_sold,Electric plant sold
+103,Experimental plant unclassified
+total_electric_plant,TOTAL Electric Plant in Service
