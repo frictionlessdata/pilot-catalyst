@@ -1,375 +1,375 @@
 utility_id_ferc1,utility_name_ferc1,utility_id_pudl
-423,"{Test 423 (do not use) Sharyland Utilities, L.P.)}",1
-999,{Test Company - A},2
-998,{Test Company - B1},3
-400,Access Energy Cooperative,4
-248,Adirondack Hydro Development Corporation,5
-436,"AEP Appalachian Transmission Company, Inc.",6
-1,AEP Generating Company,7
-452,AEP Generation Resources Inc.,8
-440,"AEP Indiana Michigan Transmission Company, Inc.",9
-439,"AEP Kentucky Transmission Company, Inc.",10
-438,"AEP Ohio Transmission Company, Inc.",11
-442,"AEP Oklahoma Transmission Company, Inc.",12
-441,"AEP Southwestern Transmission Company, Inc.",13
-24,AEP Texas Central Company,14
-189,AEP Texas North Company,15
-437,"AEP West Virginia Transmission Company, Inc.",16
-401,AJO Improvement Company,17
-2,ALABAMA POWER COMPANY,18
-3,Alaska Electric Light and Power Company,19
-4,Alcoa Generating Corporation,20
-171,Alcoa Power Generating Inc.,21
-254,"Alfalfa Electric Cooperative, Inc.",22
-98,"ALLETE, Inc.",23
-243,Amerada Hess Corporation,24
-443,Ameren Illinois Company,25
-444,Ameren Transmission Company of Illinois,26
-275,American Transmission Company LLC,27
-258,"American Transmission Systems, Incorporated",28
-6,Appalachian Power Company,29
-303,APS Energy Services Company,30
-7,Arizona Public Service Company,31
-200,AROOSTOOK VALLEY ELECTRIC COMPANY,32
-9,Atlantic City Electric Company,33
-301,Attala Transmission LLC,34
-187,Avista Corporation,35
-10,Baltimore Gas and Electric Company,36
-434,Beacon Power Corporation,37
-212,BeeBee Island Corporation,38
-233,Berea College Utilities,39
-201,Big Rivers Electric Corporation,40
-211,"Black Creek Hydro, Inc.",41
-12,"Black Hills Power, Inc.",42
-432,"Black Hills/Colorado Electric Utility Company, LP",43
-13,Blackstone Valley Electric Company,44
-14,Boston Edison Company,45
-402,"Bridger Valley Electric Association, Inc.",46
-245,"Buckeye Power, Inc.",47
-229,California Independent System Operator Corporation,48
-240,California Power Exchange Corporation,49
-15,Cambridge Electric Light Company,50
-16,CANAL ELECTRIC COMPANY,51
-249,"Carr Street Generating, L.P.",52
-18,Catalyst Old River Hydroelectric Limited Partnership,53
-68,"CenterPoint Energy Houston Electric, LLC",54
-19,CENTRAL HUDSON GAS & ELECTRIC CORPORATION,55
-20,Central Illinois Light Company,56
-21,Central Illinois Public Service Company,57
-23,Central Maine Power Company,58
-25,Central Vermont Public Service Corporation,59
-26,Century Power Corporation,60
-287,Chattahoochee EMC,61
-403,"Cheyenne Light, Fuel and Power Company",62
-202,"Chugach Electric Association, Inc.",63
-29,CITIZENS COMMUNCIATIONS COMPANY,64
-284,Citizens Electric Corporation,65
-321,Citizens Sunrise Transmission LLC.,66
-28,CITIZENS' ELECTRIC COMPANY,67
-285,Clark Fork & Blackfoot LLC,68
-22,Cleco Power LLC,69
-30,"Cleveland Electric Illuminating Company, The",70
-31,Columbus Southern Power Company,71
-32,Commonwealth Edison Company,72
-33,"Commonwealth Edison Company of Indiana, Inc.",73
-34,Commonwealth Electric Company,74
-39,"Connecticut Light and Power Company, The",75
-37,Connecticut Valley Electric Company Inc.,76
-38,Connecticut Yankee Atomic Power Company,77
-218,Connexus Energy,78
-36,"Consolidated Edison Company of New York, Inc.",79
-40,Consolidated Water Power Company,80
-41,Consumers Energy Company,81
-292,"Cross Sound Cable Company, LLC",82
-295,"DATC Path 15, LLC",83
-43,Delmarva Power & Light Company,84
-234,"Delta Natural Gas Company, Inc.",85
-226,Deseret Generation & Transmission Cooperative,86
-405,Dixie-Escalante Rural Electric Association,87
-241,"Dixie-Escalante Rural Electric Association, Inc.",88
-44,DTE Electric Company,89
-45,"Duke Energy Carolinas, LLC",90
-55,"Duke Energy Florida, Inc.",91
-144,"Duke Energy Indiana, Inc.",92
-178,"Duke Energy Kentucky, Inc.",93
-235,Duke Energy Moss Landing LLC,94
-236,Duke Energy Oakland LLC,95
-27,"Duke Energy Ohio, Inc.",96
-17,"Duke Energy Progress, Inc.",97
-46,Duquesne Light Company,98
-449,"EAM Nelson Holding, LLC",99
-203,"East Texas Electric Cooperative, Inc.",100
-47,Eastern Edison Company,101
-48,Edison Sault Electric Company,102
-49,El Paso Electric Company,103
-50,"Electric Energy, Inc.",104
-11,Emera Maine,105
-8,"Entergy Arkansas, Inc.",106
-63,"Entergy Gulf States Louisiana, L.L.C.",107
-87,"Entergy Louisiana, LLC",108
-100,"Entergy Mississippi, Inc.",109
-114,"Entergy New Orleans, Inc.",110
-306,"Entergy Power Ventures, LP",111
-52,"Entergy Power, LLC",112
-315,"Entergy Texas, Inc.",113
-454,"Entergy Louisiana, LLC",114
-305,"EWO Marketing, LLC",115
-53,Exeter & Hampton Electric Company,116
-406,"Fall River Electric Cooperative, Inc",117
-257,First Electric Cooperative Corporation,118
-54,Fitchburg Gas and Electric Light Company,119
-407,"Florida Keys Electric Cooperative Assoc., Inc.",120
-56,Florida Power & Light Company,121
-408,"Flowell Electric Association, Inc.",122
-57,Georgia Power Company,123
-58,"Golden Spread Electric Cooperative, Inc.",124
-269,Golden State Water Company,125
-232,"Graham County Electric Cooperative, Inc.",126
-60,Great Bay Power Corporation,127
-61,Green Mountain Power Corp,128
-293,GRIDAMERICA LLC,129
-62,Gulf Power Company,130
-404,Hagerstown Light Department,131
-64,Hardee Power Partners Limited,132
-409,Harney Electric Cooperative,133
-300,"Hawaii Electric Light Company, Inc.",134
-65,"Hawaiian Electric Company, Inc.",135
-230,"Hermiston Generating Company, L.P.",136
-66,Holyoke Power and Electric Company,137
-67,Holyoke Water Power Company,138
-410,Idaho County Light & Power Coop. Assoc. Inc.,139
-70,Idaho Power Company,140
-69,IES Utilities Inc.,141
-71,Illinois Power Company,142
-266,Illinois Power Generating Company,143
-73,Indiana Michigan Power Company,144
-72,Indiana-Kentucky Electric Corporation,145
-74,Indianapolis Power & Light Company,146
-228,Inland Power & Light Company,147
-278,International Transmission Company,148
-289,International Transmission Company,149
-281,Interstate Power and Light Company,150
-75,Interstate Power Company,151
-76,Iowa-Illinois Gas and Electric Company,152
-231,ISO New England Inc.,153
-433,"ITC Great Plains, LLC",154
-316,ITC Midwest LLC,155
-77,Jersey Central Power & Light Company,156
-78,Kanawha Valley Power Company,157
-411,Kandiyohi  Power Cooperative,158
-79,Kansas City Power & Light Company,159
-80,Kansas Gas and Electric Company,160
-182,KCP&L Greater Missouri Operations Company,161
-81,Kentucky Power Company,162
-82,Kentucky Utilities Company,163
-239,KeySpan Generation LLC,164
-83,Kingsport Power Company,165
-59,Liberty Utilities (Granite State Electric) Corp.,166
-84,Lockhart Power Company,167
-86,"Long Sault, Inc.",168
-88,Louisville Gas and Electric Company,169
-412,Lyon Rural Electric Cooperative,170
-89,Madison Gas and Electric Company,171
-90,"Maine Electric Power Company, Inc.",172
-91,Maine Public Service Company,173
-92,Maine Yankee Atomic Power Company,174
-93,Massachusetts Electric Company,175
-94,"MAUI ELECTRIC COMPANY, LIMITED",176
-413,McDonough Power Cooperative,177
-95,"MDU Resources Group, Inc.",178
-209,Medina Power Company,179
-96,Metropolitan Edison Company,180
-273,Michigan Electric Transmission Company (04/02),181
-308,Michigan Electric Transmission Company LLC (10/06),182
-280,Michigan Electric Transmission Company LLC (12/9/03),183
-291,"Michigan Electric Transmission Company, LLC",184
-210,MidAmerican Energy Company,185
-274,"Midcontinent Independent System Operator, Inc",186
-262,"Midwest Electric Power, Inc",187
-213,Midwest Energy Inc.,188
-97,Midwest Power Systems Inc.,189
-99,Mississippi Power Company,190
-101,MONONGAHELA POWER COMPANY,191
-102,"Montana Power Company, The",192
-103,Montana-Dakota Utilities Company,193
-104,Montaup Electric Company,194
-414,"Moon Lake Electric Association, Inc.",195
-214,Moreau Manufacturing,196
-302,"Mountainview Power Company, LLC",197
-105,Mt. Carmel Public Utility Co,198
-242,"Mt. Wheeler Power, Inc.",199
-415,"Mt. Wheeler Power, Inc.",200
-106,Nantahala Power and Light Company,201
-416,Nantucket Electric Company,202
-85,National Grid Generation LLC,203
-108,"Nevada Power Company, d/b/a NV Energy",204
-109,Nevada Sun-Peak Limited Partnership,205
-110,New England Electric Transmission Corporation,206
-111,"New England Hydro-Trans. Elec. Co., Inc.",207
-112,New England Hydro-Transmission Corporation,208
-113,New England Power Company,209
-204,"New Hampshire Electric Cooperative, Inc.",210
-435,"New Hampshire Transmission, LLC",211
-250,New York Independent System Operator,212
-115,New York State Electric & Gas Corporation,213
-215,"Newcorp Resources Electric Cooperative, Inc.",214
-116,Newport Electric Corporation,215
-117,Niagara Mohawk Power Corporation,216
-118,North Atlantic Energy Corporation,217
-256,"North Central Missouri Electric Cooperative, Inc.",218
-418,"North Central Power Co., Inc.",219
-417,North West Rural Electric Cooperative,220
-260,Northeast Generation Company,221
-119,Northern Indiana Public Service Company,222
-265,"Northern Maine Independent System Administrator, Inc",223
-120,Northern States Power Company (Minnesota),224
-121,Northern States Power Company (Wisconsin),225
-122,NorthWestern Corporation,226
-123,Northwestern Wisconsin Electric Company,229
-309,NSTAR Electric Company,230
-124,Ocean State Power,231
-125,"Ocean State Power, II",232
-205,Oconto Electric Cooperative,233
-126,Ohio Edison Company,234
-127,Ohio Power Company,235
-128,Ohio Valley Electric Corporation,236
-130,Oklahoma Gas and Electric Company,237
-129,Old Dominion Electric Cooperative,238
-419,"Omya, Inc.",239
-282,Oncor Electric Delivery Company LLC,240
-131,"Orange and Rockland Utilities, Inc",241
-420,"Oregon Trail Electric Consumers Coop, Inc.",242
-132,Otter Tail Power Company,243
-133,PACIFIC GAS AND ELECTRIC COMPANY,244
-222,Pacific Northwest Generating Cooperative,245
-134,PacifiCorp,246
-313,"Path Allegheny Transmission Company, LLC",247
-314,"Path West Virginia Transmission Company, L.L.C.",248
-135,PECO Energy Company,249
-136,Pennsylvania Electric Company,250
-137,Pennsylvania Power Company,251
-421,Penoyer Valley Electric Company,252
-206,Peoples Electric Cooperative,253
-139,"Pepperell Power Association, Limited Partnership",254
-298,"Perryville Energy Partners, L.L.C",255
-422,Pike County Light and Power Company,256
-304,Pinnacle West Capital Corporation,257
-310,Pinnacle West Marketing & Trading Co. LLC,258
-140,Pioneer Power and Light Company,259
-255,"PJM Interconnection, LLC",260
-447,"PJM Settlement, Inc.",261
-259,Platte-Clay Electric Cooperative Inc.,262
-141,Portland General Electric Company,263
-143,Potomac Electric Power Company,264
-138,PPL Electric Utilities Corporation,265
-319,"Prairie Wind Transmission, LLC",266
-272,PSEG Energy Resources & Trade LLC,267
-270,PSEG Fossil LLC,268
-271,PSEG Nuclear LLC,269
-261,PSEG Power LLC,270
-263,PSEG Power New York Inc.,271
-145,Public Service Company of Colorado,272
-146,Public Service Company of New Hampshire,273
-147,Public Service Company of New Mexico,274
-148,Public Service Company of Oklahoma,275
-149,Public Service Electric and Gas Company,276
-150,"Puget Sound Energy, Inc.",277
-207,"Rayburn Country Electric Cooperative, Inc.",278
-450,"RITELine Illinois, LLC",279
-151,Rochester Gas and Electric Corporation,280
-152,Rockland Electric Company,281
-153,Safe Harbor Water Power Corporation,282
-431,"Salmon River Electric Cooperative, Inc.",283
-155,San Diego Gas & Electric Company,284
-156,Savannah Electric and Power Company,285
-268,"Sharyland Utilities, L.P.",286
-157,Sierra Pacific Power Company d/b/a NV Energy,287
-244,Smarr EMC,288
-451,Smoky Mountain Transmission LLC,289
-424,Somerset Rural Electric Cooperative Inc.,290
-158,"South Beloit Water, Gas and Electric Company",291
-159,South Carolina Electric & Gas Company,292
-160,"South Carolina Generating Company, Inc.",293
-317,"Southeast Chicago Energy Project, LLC",294
-161,Southern California Edison Company,295
-425,Southern California Water Company,296
-162,SOUTHERN ELECTRIC GENERATING COMPANY,297
-163,Southern Indiana Gas and Electric Company,298
-296,Southern Maryland Electric Cooperative,299
-297,"Southwest Power Pool, Inc.",300
-164,Southwestern Electric Power Company,301
-166,Southwestern Public Service Company,302
-221,"Soyland Power Cooperative, Inc",303
-154,St. Joseph Light & Power Company,304
-318,"Startrans IO, LLC",305
-445,SU FERC L.L.C,306
-426,Sun River Electric Cooperative,307
-167,"Superior Water, Light and Power Company",308
-168,Susquehanna Electric Company,309
-427,Sussex Rural Electric Cooperative,310
-169,"System Energy Resources, Inc.",311
-283,Talbot EMC,312
-170,Tampa Electric Company,313
-172,Terra Comfort Corporation,314
-174,Texas-New Mexico Power Company,315
-5,THE ALLEGHENY GENERATING COMPANY,316
-42,The Dayton Power and Light Company,317
-51,The Empire District Electric Company,318
-238,The Morenci Water & Electric Company,319
-107,The Narragansett Electric Company,320
-142,THE POTOMAC EDISON COMPANY,321
-179,The United Illuminating Company,322
-277,The Walton E.M.C.,323
-175,"Toledo Edison Company, The",324
-446,Trans Bay Cable LLC,325
-311,Trans-Allegheny Interstate Line Company,326
-299,TransCanada Hydro NorthEast Inc.,327
-453,"Transource Missouri, LLC",328
-237,Trigen-Kansas City Energy Corporation,329
-176,Tucson Electric Power Company,330
-173,TXU Electric Company,331
-165,TXU SESCO Company,332
-428,"UGI Utilities, Inc.",333
-177,UNION ELECTRIC COMPANY,334
-429,"United Power, Inc.",335
-290,"Unitil Energy Systems, Inc.",336
-35,UNITIL Power Corp.,337
-180,UNITIL Power Corp.,338
-288,"UNS Electric, Inc.",339
-181,Upper Peninsula Power Company,340
-225,Valley Electric Association Inc.,341
-448,"Verde Energy USA, Inc.",342
-247,"Vermont Electric Cooperative, Inc.",343
-183,"Vermont Electric Power Company, Inc.",344
-184,"Vermont Electric Transmission Company, Inc.",345
-320,Vermont Transco LLC,346
-185,Vermont Yankee Nuclear Power Corporation,347
-224,Village of Morrisville Water and Light Department,348
-186,VIRGINIA ELECTRIC AND POWER COMPANY,349
-208,W.F. Wyman Unit No. 4 Composite Data 100%,350
-312,"Wabash Valley Energy Marketing, Inc.",351
-294,"Wabash Valley Power Association, Inc.",352
-307,"Warren Power, LLC",353
-246,"Washington Electric Cooperative, Inc.",354
-251,Wayne-White Counties Electric Cooperative,355
-264,Wells Rural Electric Company,356
-267,Wellsboro Electric Company,357
-188,WEST PENN POWER COMPANY,358
-191,"Westar Energy, Inc.",359
-276,"Westar Generating, Inc.",360
-190,Western Massachusetts Electric Company,361
-192,Wheeling Power Company,362
-430,"White River Electric Association, Inc.",363
-193,Wisconsin Electric Power Company,364
-194,Wisconsin Power and Light Company,365
-195,Wisconsin Public Service Corporation,366
-196,Wisconsin River Power Company,367
-279,Wolf Creek Nuclear Operating Corporation,368
-227,"Wolverine Power Supply Cooperative, Inc.",369
-197,"Yadkin, Inc.",370
-198,Yankee Atomic Electric Company,371
-199,York Haven Power Company,372
-513,"4C Acquisition, Llc",4838
-512,"Transource West Virginia, LLC",4839
-455,ITC Interconnection LLC,4840
-322,South Central MCN LLC,4841
+423,,1
+999,,2
+998,,3
+400,,4
+248,,5
+436,,6
+1,,7
+452,,8
+440,,9
+439,,10
+438,,11
+442,,12
+441,,13
+24,,14
+189,,15
+437,,16
+401,,17
+2,,18
+3,,19
+4,,20
+171,,21
+254,,22
+98,,23
+243,,24
+443,,25
+444,,26
+275,,27
+258,,28
+6,,29
+303,,30
+7,,31
+200,,32
+9,,33
+301,,34
+187,,35
+10,,36
+434,,37
+212,,38
+233,,39
+201,,40
+211,,41
+12,,42
+432,,43
+13,,44
+14,,45
+402,,46
+245,,47
+229,,48
+240,,49
+15,,50
+16,,51
+249,,52
+18,,53
+68,,54
+19,,55
+20,,56
+21,,57
+23,,58
+25,,59
+26,,60
+287,,61
+403,,62
+202,,63
+29,,64
+284,,65
+321,,66
+28,,67
+285,,68
+22,,69
+30,,70
+31,,71
+32,,72
+33,,73
+34,,74
+39,,75
+37,,76
+38,,77
+218,,78
+36,,79
+40,,80
+41,,81
+292,,82
+295,,83
+43,,84
+234,,85
+226,,86
+405,,87
+241,,88
+44,,89
+45,,90
+55,,91
+144,,92
+178,,93
+235,,94
+236,,95
+27,,96
+17,,97
+46,,98
+449,,99
+203,,100
+47,,101
+48,,102
+49,,103
+50,,104
+11,,105
+8,,106
+63,,107
+87,,108
+100,,109
+114,,110
+306,,111
+52,,112
+315,,113
+454,,114
+305,,115
+53,,116
+406,,117
+257,,118
+54,,119
+407,,120
+56,,121
+408,,122
+57,,123
+58,,124
+269,,125
+232,,126
+60,,127
+61,,128
+293,,129
+62,,130
+404,,131
+64,,132
+409,,133
+300,,134
+65,,135
+230,,136
+66,,137
+67,,138
+410,,139
+70,,140
+69,,141
+71,,142
+266,,143
+73,,144
+72,,145
+74,,146
+228,,147
+278,,148
+289,,149
+281,,150
+75,,151
+76,,152
+231,,153
+433,,154
+316,,155
+77,,156
+78,,157
+411,,158
+79,,159
+80,,160
+182,,161
+81,,162
+82,,163
+239,,164
+83,,165
+59,,166
+84,,167
+86,,168
+88,,169
+412,,170
+89,,171
+90,,172
+91,,173
+92,,174
+93,,175
+94,,176
+413,,177
+95,,178
+209,,179
+96,,180
+273,,181
+308,,182
+280,,183
+291,,184
+210,,185
+274,,186
+262,,187
+213,,188
+97,,189
+99,,190
+101,,191
+102,,192
+103,,193
+104,,194
+414,,195
+214,,196
+302,,197
+105,,198
+242,,199
+415,,200
+106,,201
+416,,202
+85,,203
+108,,204
+109,,205
+110,,206
+111,,207
+112,,208
+113,,209
+204,,210
+435,,211
+250,,212
+115,,213
+215,,214
+116,,215
+117,,216
+118,,217
+256,,218
+418,,219
+417,,220
+260,,221
+119,,222
+265,,223
+120,,224
+121,,225
+122,,226
+123,,229
+309,,230
+124,,231
+125,,232
+205,,233
+126,,234
+127,,235
+128,,236
+130,,237
+129,,238
+419,,239
+282,,240
+131,,241
+420,,242
+132,,243
+133,,244
+222,,245
+134,,246
+313,,247
+314,,248
+135,,249
+136,,250
+137,,251
+421,,252
+206,,253
+139,,254
+298,,255
+422,,256
+304,,257
+310,,258
+140,,259
+255,,260
+447,,261
+259,,262
+141,,263
+143,,264
+138,,265
+319,,266
+272,,267
+270,,268
+271,,269
+261,,270
+263,,271
+145,,272
+146,,273
+147,,274
+148,,275
+149,,276
+150,,277
+207,,278
+450,,279
+151,,280
+152,,281
+153,,282
+431,,283
+155,,284
+156,,285
+268,,286
+157,,287
+244,,288
+451,,289
+424,,290
+158,,291
+159,,292
+160,,293
+317,,294
+161,,295
+425,,296
+162,,297
+163,,298
+296,,299
+297,,300
+164,,301
+166,,302
+221,,303
+154,,304
+318,,305
+445,,306
+426,,307
+167,,308
+168,,309
+427,,310
+169,,311
+283,,312
+170,,313
+172,,314
+174,,315
+5,,316
+42,,317
+51,,318
+238,,319
+107,,320
+142,,321
+179,,322
+277,,323
+175,,324
+446,,325
+311,,326
+299,,327
+453,,328
+237,,329
+176,,330
+173,,331
+165,,332
+428,,333
+177,,334
+429,,335
+290,,336
+35,,337
+180,,338
+288,,339
+181,,340
+225,,341
+448,,342
+247,,343
+183,,344
+184,,345
+320,,346
+185,,347
+224,,348
+186,,349
+208,,350
+312,,351
+294,,352
+307,,353
+246,,354
+251,,355
+264,,356
+267,,357
+188,,358
+191,,359
+276,,360
+190,,361
+192,,362
+430,,363
+193,,364
+194,,365
+195,,366
+196,,367
+279,,368
+227,,369
+197,,370
+198,,371
+199,,372
+513,,4838
+512,,4839
+455,,4840
+322,,4841
