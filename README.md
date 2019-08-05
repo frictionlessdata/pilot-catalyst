@@ -199,3 +199,9 @@ We will checks the exported data using PgAdmin3. **Using FD software one can exp
 > There is no support for external foreign keys for SQL export at the moment.
 
 ## Visualising Data (ElasticSearch)
+
+> To be written
+
+## Getting Data (Datapackage Pipelines)
+
+> To be written
