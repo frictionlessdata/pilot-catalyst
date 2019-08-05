@@ -89,7 +89,7 @@
                         "format": "default"
                     },
                     {
-                        "name": "name",
+                        "name": "plant_name",
                         "type": "string",
                         "description": "Plant name, chosen arbitrarily from the several possible plant names available in the plant matching process. Included for human readability only.",
                         "format": "default"

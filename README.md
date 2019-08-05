@@ -127,3 +127,51 @@ except RelationError as exception:
 #   'fuel_cost_per_unit_delivered': Decimal('26.842'),
 #   'fuel_cost_per_mmbtu': Decimal('1.928')}
 ```
+
+## Exploring Data
+
+Let's use the data we have to get some computed information. **It shows how one can use FD software to explore PUDL data.** Here we look at `fuel-test.plants` to get normilized plant names and use foreign keys dereferencing to get most common plant names:
+
+```python
+from collections import Counter
+from datapackage import Package
+from datapackage.exceptions import RelationError
+
+# Explore data
+
+# Get fuel
+ferc1 = Package('data/ferc1-test/datapackage.json')
+fuel = ferc1.get_resource('fuel_ferc1').read(keyed=True, relations=True)
+
+# Get plants
+glue = Package('data/glue-test/datapackage.json')
+plants = glue.get_resource('plants').read(keyed=True)
+plants_map = {row['plant_id_pudl']: row['plant_name'] for row in plants}
+
+# Count plants
+counter = {}
+for row in fuel:
+    plant_id_pudl = row['plant_name']['plant_id_pudl']
+    plant_name = plants_map[plant_id_pudl]
+    counter.setdefault(plant_name, 0)
+    counter[plant_name] += 1
+
+# Get most common plants
+print('Most common plants:')
+for item in Counter(counter).most_common(10):
+    print('- %s: %s' % (item[0], item[1]))
+
+# Output
+# ------
+# Most common plants:
+#  - Weston: 10
+#  - Iatan: 9
+#  - Rockport: 8
+#  - Mitchell (WV): 8
+#  - La Cygne: 8
+#  - w: 7
+#  - Columbia (WI): 7
+#  - Pulliam: 7
+#  - Edgewater: 6
+#  - Yucca: 6
+```
