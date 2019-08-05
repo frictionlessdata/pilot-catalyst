@@ -35,13 +35,16 @@ The idea behind the `glue-test` data package is to have a reference table for ot
 ],
 ```
 
-## Checking relations
+## Checking Relations
 
 ### datapackage
 
 Let's check the `ferc1-test.fuel_ferc1`'s relations. Because the data in the repository is valid we will get sucesseful results:
 
 ```python
+from datapackage import Package
+from datapackage.exceptions import RelationError
+
 # Check relations
 
 package = Package('data/ferc1-test/datapackage.json')
@@ -50,7 +53,6 @@ try:
     print('Relations are checked')
 except RelationError as exception:
     print(exception)
-
 
 # Output
 # ------
@@ -81,3 +83,47 @@ Looking at row 326 of the `ferc1-test.fuel_ferc1` resource we see the now data i
 ### goodtables
 
 > The Foreing Keys check is not a part of `goodtables` because it's not a part of the [`Data Quality Spec`](https://github.com/frictionlessdata/data-quality-spec/blob/master/spec.json). As a part of this pilot we can implement an [advanced check](https://github.com/frictionlessdata/data-quality-spec/blob/master/spec.json) to validate foreign keys including external foreign keys support.
+
+## Dereferencing Relations
+
+Let's read the `ferc1-test.fuel_ferc1` resource dereferencing relations. In this case, every row will have data from both data packages:
+- `ferc1-test` (provides data for top-level fields)
+- `glue-test` (provides data for `utility_id_ferc1` and `plant_name`)
+
+```python
+from datapackage import Package
+from datapackage.exceptions import RelationError
+
+# Dereference relations
+
+package = Package('data/ferc1-test/datapackage.json')
+try:
+    keyed_rows = package.get_resource('fuel_ferc1').read(keyed=True, relations=True)
+    print(keyed_rows[0])
+except RelationError as exception:
+    print(exception)
+
+# Output
+# ------
+# {
+#   'id': 0,
+#   'record_id': 'f1_fuel_2017_122_0_4',
+#   'utility_id_ferc1': {
+#     'utility_id_ferc1': 122,
+#     'plant_name': 'aberdeen #1',
+#     'plant_id_pudl': 9
+#   },
+#   'report_year': 2017,
+#   'plant_name': {
+#     'utility_id_ferc1': 95,
+#     'plant_name': 'coyote',
+#     'plant_id_pudl': 132
+#   },
+#   'fuel_type_code_pudl': 'coal',
+#   'fuel_unit': 'ton',
+#   'fuel_qty_burned': Decimal('225315.0'),
+#   'fuel_mmbtu_per_unit': Decimal('13.925999999999998'),
+#   'fuel_cost_per_unit_burned': Decimal('26.842'),
+#   'fuel_cost_per_unit_delivered': Decimal('26.842'),
+#   'fuel_cost_per_mmbtu': Decimal('1.928')}
+```

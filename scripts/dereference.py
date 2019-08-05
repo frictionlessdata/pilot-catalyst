@@ -1,12 +1,11 @@
 from datapackage import Package
 from datapackage.exceptions import RelationError
 
-
-# Check relations
+# Dereference relations
 
 package = Package('data/ferc1-test/datapackage.json')
 try:
-    package.get_resource('fuel_ferc1').check_relations()
-    print('Relations are checked')
+    keyed_rows = package.get_resource('fuel_ferc1').read(keyed=True, relations=True)
+    print(keyed_rows[0])
 except RelationError as exception:
     print(exception)
