@@ -2,7 +2,7 @@
 
 This is a short introduction to the FrictionlessData software for the PUDL by Catalyst project.
 
-> Code and data for this article is available here https://github.com/frictionlessdata/pilot-catalyst
+> Code and data for this article is available [here](https://github.com/frictionlessdata/pilot-catalyst). After cloning the repo run `pip install -r requirements.txt` to install dependencies. All code beclow can be run using `python script/<name>.py`
 
 ## Datasets
 
@@ -175,3 +175,27 @@ for item in Counter(counter).most_common(10):
 #  - Edgewater: 6
 #  - Yucca: 6
 ```
+
+## Exporting Data (SQL)
+
+Let's now export the `glue-test` data package to a relational database (PostgreSQL). It's the most popular driver for `tableschema/datapackage` but the same can be done for `bigquery`, `pandas` and other "storages":
+
+```python
+from sqlalchemy import create_engine
+from datapackage import Package
+
+DATABASE_URL = 'postgresql://roll:roll@localhost:5432/pudl'
+
+# Export data
+
+package = Package('data/glue-test/datapackage.json')
+package.save(storage='sql', engine=create_engine(DATABASE_URL))
+```
+
+We will checks the exported data using PgAdmin3. **Using FD software one can export PUDL data to SQL and then explore it as a normal relational database**. As we can see the foreign key constaints are exported as well:
+
+![](https://i.imgur.com/l8ysDKV.png)
+
+> There is no support for external foreign keys for SQL export at the moment.
+
+## Visualising Data (ElasticSearch)

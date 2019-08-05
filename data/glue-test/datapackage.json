@@ -219,7 +219,7 @@
                         "format": "default"
                     },
                     {
-                        "name": "name",
+                        "name": "utility_name",
                         "type": "string",
                         "description": "Utility name, chosen arbitrarily from the several possible utility names available in the utility matching process. Included for human readability only.",
                         "format": "default"
