@@ -2,7 +2,23 @@
 
 This is a short introduction to the FrictionlessData software for the PUDL by Catalyst project.
 
-> Code and data for this article is available [here](https://github.com/frictionlessdata/pilot-catalyst). After cloning the repo run `pip install -r requirements.txt` to install dependencies. All code beclow can be run using `python script/<name>.py`
+> Code and data for this article is available [here](https://github.com/frictionlessdata/pilot-catalyst). After cloning the repo run `make install` to install dependencies. All code beclow can be run using `python script/<name>.py`
+
+## Contents
+
+<!--TOC-->
+
+  - [Datasets](#datasets)
+  - [Checking Relations](#checking-relations)
+    - [datapackage](#datapackage)
+    - [goodtables](#goodtables)
+  - [Dereferencing Relations](#dereferencing-relations)
+  - [Exploring Data](#exploring-data)
+  - [Exporting Data (SQL)](#exporting-data-sql)
+  - [Visualising Data (ElasticSearch)](#visualising-data-elasticsearch)
+  - [Getting Data (Datapackage Pipelines)](#getting-data-datapackage-pipelines)
+
+<!--TOC-->
 
 ## Datasets
 
