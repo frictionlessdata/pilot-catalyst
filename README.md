@@ -220,4 +220,4 @@ We will checks the exported data using PgAdmin3. **Using FD software one can exp
 
 ## Getting Data (Datapackage Pipelines)
 
-> To be written
+The ["Data Management for TEDDINET"](https://frictionlessdata.io/articles/dm4t/) pilot provides great introduction to how data can be extracted and cleaned using `datapackage-pipelines`.
