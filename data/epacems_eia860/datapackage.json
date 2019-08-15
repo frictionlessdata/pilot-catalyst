@@ -1,0 +1,2341 @@
+{
+    "name": "epacems_eia860",
+    "profile": "tabular-data-package",
+    "title": "CEMS stuff",
+    "id": "5f608db8-0ceb-415d-b36d-660504687a2a",
+    "description": "stuff about cems",
+    "homepage": "https://catalyst.coop/pudl/",
+    "created": "2019-08-05T22:36:50Z",
+    "contributors": [
+        {
+            "title": "Climate Policy Initiative",
+            "path": "https://climatepolicyinitiative.org/",
+            "role": "contributor",
+            "organization": "Climate Policy Initiative"
+        },
+        {
+            "title": "Steven Winter",
+            "email": "steven.winter@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Zane Selvans",
+            "email": "zane.selvans@catalyst.coop",
+            "path": "https://amateurearthling.org/",
+            "role": "wrangler",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Karl Dunkle Werner",
+            "email": "karldw@berkeley.edu",
+            "path": "https://karldw.org/",
+            "role": "contributor",
+            "organization": "UC Berkeley"
+        },
+        {
+            "title": "Christina Gosnell",
+            "email": "christina.gosnell@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Alana Wilson",
+            "email": "alana.wilson@catalyst.coop",
+            "role": "contributor",
+            "organization": "Catalyst Cooperative"
+        },
+        {
+            "title": "Catalyst Cooperative",
+            "path": "https://catalyst.coop/",
+            "role": "publisher",
+            "email": "pudl@catalyst.coop",
+            "organization": "Catalyst Cooperative"
+        }
+    ],
+    "sources": [
+        {
+            "title": "eia923",
+            "path": "https://www.eia.gov/electricity/data/eia923"
+        },
+        {
+            "title": "epacems",
+            "path": "ftp://newftp.epa.gov/dmdnload/emissions/hourly/monthly"
+        },
+        {
+            "title": "eia860",
+            "path": "https://www.eia.gov/electricity/data/eia860"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "CC-BY-4.0",
+            "title": "Creative Commons Attribution 4.0",
+            "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "resources": [
+        {
+            "profile": "tabular-data-resource",
+            "name": "boiler_fuel_eia923",
+            "path": "data/boiler_fuel_eia923.csv",
+            "title": "boiler_fuel_eia923",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "boiler_id",
+                        "type": "string",
+                        "description": "Boiler identification code. Alphanumeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_type_code",
+                        "type": "string",
+                        "description": "The fuel code reported to EIA. Two or three letter alphanumeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_type_code_pudl",
+                        "type": "string",
+                        "description": "Standardized fuel codes in PUDL.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_date",
+                        "type": "date",
+                        "description": "Date reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_consumed_units",
+                        "type": "number",
+                        "description": "Consumption of the fuel type in physical units. Note: this is the total quantity consumed for both electricity and, in the case of combined heat and power plants, process steam production.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_mmbtu_per_unit",
+                        "type": "number",
+                        "description": "Heat content of the fuel in millions of Btus per physical unit.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "sulfur_content_pct",
+                        "type": "number",
+                        "description": "Sulfur content percentage by weight to the nearest 0.01 percent.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ash_content_pct",
+                        "type": "number",
+                        "description": "Ash content percentage by weight to the nearest 0.1 percent.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "fuel_type_code",
+                        "reference": {
+                            "resource": "fuel_type_eia923",
+                            "fields": "abbr"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 12259497,
+            "hash": "sha256:387a1a8baa75aff0f39336be4a614fab164bb78e3dfaf9e4480041b6b47dc57b",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia923",
+                    "path": "https://www.eia.gov/electricity/data/eia923"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "boiler_generator_assn_eia860",
+            "path": "data/boiler_generator_assn_eia860.csv",
+            "title": "boiler_generator_assn_eia860",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_date",
+                        "type": "date",
+                        "description": "Date reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "generator_id",
+                        "type": "string",
+                        "description": "EIA-assigned generator identification code.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "boiler_id",
+                        "type": "string",
+                        "description": "EIA-assigned boiler identification code.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "unit_id_eia",
+                        "type": "string",
+                        "description": "EIA-assigned unit identification code.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "unit_id_pudl",
+                        "type": "integer",
+                        "description": "PUDL-assigned unit identification number.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "bga_source",
+                        "type": "string",
+                        "description": "The source from where the unit_id_pudl is compiled. The unit_id_pudl comes directly from EIA 860, or string association (which looks at all the boilers and generators that are not associated with a unit and tries to find a matching string in the respective collection of boilers or generator), or from a unit connection (where the unit_id_eia is employed to find additional boiler generator connections).",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "plant_id_eia",
+                        "reference": {
+                            "resource": "generators_entity_eia",
+                            "fields": "plant_id_eia"
+                        }
+                    },
+                    {
+                        "fields": "generator_id",
+                        "reference": {
+                            "resource": "generators_entity_eia",
+                            "fields": "generator_id"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 1150168,
+            "hash": "sha256:55982094152f9535875e72e6a5c3a655b74830f654703963b5ea06975ea0c241",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia860",
+                    "path": "https://www.eia.gov/electricity/data/eia860"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "boilers_entity_eia",
+            "path": "data/boilers_entity_eia.csv",
+            "title": "boilers_entity_eia",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "boiler_id",
+                        "type": "string",
+                        "description": "The EIA-assigned boiler identification code. Alphanumeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "prime_mover_code",
+                        "type": "string",
+                        "description": "Code for the type of prime mover (e.g. CT, CG)",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "plant_id_eia",
+                    "boiler_id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "plant_id_eia",
+                        "reference": {
+                            "resource": "plants_entity_eia",
+                            "fields": "plant_id_eia"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 70969,
+            "hash": "sha256:db817abbac04a2bef64d8860ab8886880246112b2ae57e781301c65a9daf3a40",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "energy_source_eia923",
+            "path": "data/energy_source_eia923.csv",
+            "title": "energy_source_eia923",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "abbr",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "source",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "abbr"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 891,
+            "hash": "sha256:d7e6452221e6fa5982525fc6a9118b18bd5ae5e46b01f7870dc13cc7c0f22371",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia923",
+                    "path": "https://www.eia.gov/electricity/data/eia923"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "fuel_type_aer_eia923",
+            "path": "data/fuel_type_aer_eia923.csv",
+            "title": "fuel_type_aer_eia923",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "abbr",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_type",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "abbr"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 410,
+            "hash": "sha256:8eddb5108fb6244ea0d2af464d5189fb35744dfe60e432d40acb3974ef32c4aa",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia923",
+                    "path": "https://www.eia.gov/electricity/data/eia923"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "fuel_type_eia923",
+            "path": "data/fuel_type_eia923.csv",
+            "title": "fuel_type_eia923",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "abbr",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_unit",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "mcf",
+                                "short_tons",
+                                "barrels"
+                            ]
+                        },
+                        "description": "The type of physical units fuel consumption is reported in. All consumption is reported in either short tons for solids, thousands of cubic feet for gases, or barrels for liquids. ",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "abbr"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 2018,
+            "hash": "sha256:75d53b7320a7304a35996a774665a90e59174b1d437995f168910c7a5f25368e",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia923",
+                    "path": "https://www.eia.gov/electricity/data/eia923"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "generation_eia923",
+            "path": "data/generation_eia923.csv",
+            "title": "generation_eia923",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "generator_id",
+                        "type": "string",
+                        "description": "Generator identification code. Alphanumeric",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_date",
+                        "type": "date",
+                        "description": "Date reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "net_generation_mwh",
+                        "type": "number",
+                        "description": "Net generation for specified period in megawatthours (MWh).",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "plant_id_eia",
+                        "reference": {
+                            "resource": "generators_entity_eia",
+                            "fields": "plant_id_eia"
+                        }
+                    },
+                    {
+                        "fields": "generator_id",
+                        "reference": {
+                            "resource": "generators_entity_eia",
+                            "fields": "generator_id"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 3204517,
+            "hash": "sha256:96312cd15b5dcafc9517bd7ee3594ebf504d141ff6cd10476a100a34a52d83a0",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia923",
+                    "path": "https://www.eia.gov/electricity/data/eia923"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "generators_eia860",
+            "path": "data/generators_eia860.csv",
+            "title": "generators_eia860",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "generator_id",
+                        "type": "string",
+                        "description": "Generator identification number.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_date",
+                        "type": "date",
+                        "description": "Date reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "operational_status_code",
+                        "type": "string",
+                        "description": "The operating status of the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "operational_status",
+                        "type": "string",
+                        "description": "The operating status of the generator. This is based on which tab the generator was listed in in EIA 860.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ownership_code",
+                        "type": "string",
+                        "description": "Identifies the ownership for each generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "capacity_mw",
+                        "type": "number",
+                        "description": "The highest value on the generator nameplate in megawatts rounded to the nearest tenth.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "summer_capacity_mw",
+                        "type": "number",
+                        "description": "The net summer capacity.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "winter_capacity_mw",
+                        "type": "number",
+                        "description": "The net winter capacity.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "energy_source_code_1",
+                        "type": "string",
+                        "description": "The code representing the most predominant type of energy that fuels the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "energy_source_code_2",
+                        "type": "string",
+                        "description": "The code representing the second most predominant type of energy that fuels the generator",
+                        "format": "default"
+                    },
+                    {
+                        "name": "energy_source_code_3",
+                        "type": "string",
+                        "description": "The code representing the third most predominant type of energy that fuels the generator",
+                        "format": "default"
+                    },
+                    {
+                        "name": "energy_source_code_4",
+                        "type": "string",
+                        "description": "The code representing the fourth most predominant type of energy that fuels the generator",
+                        "format": "default"
+                    },
+                    {
+                        "name": "energy_source_code_5",
+                        "type": "string",
+                        "description": "The code representing the fifth most predominant type of energy that fuels the generator",
+                        "format": "default"
+                    },
+                    {
+                        "name": "energy_source_code_6",
+                        "type": "string",
+                        "description": "The code representing the sixth most predominant type of energy that fuels the generator",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fuel_type_code_pudl",
+                        "type": "string",
+                        "description": "Standardized fuel codes in PUDL.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "multiple_fuels",
+                        "type": "boolean",
+                        "description": "Can the generator burn multiple fuels?",
+                        "format": "default"
+                    },
+                    {
+                        "name": "deliver_power_transgrid",
+                        "type": "boolean",
+                        "description": "Indicate whether the generator can deliver power to the transmission grid.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "syncronized_transmission_grid",
+                        "type": "boolean",
+                        "description": "Indicates whether standby generators (SB status) can be synchronized to the grid.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "turbines_num",
+                        "type": "integer",
+                        "description": "Number of wind turbines, or hydrokinetic buoys.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_modifications",
+                        "type": "boolean",
+                        "description": "Indicates whether there are any planned capacity uprates/derates, repowering, other modifications, or generator retirements scheduled for the next 5 years.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_net_summer_capacity_uprate_mw",
+                        "type": "number",
+                        "description": "Increase in summer capacity expected to be realized from the modification to the equipment.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_net_winter_capacity_uprate_mw",
+                        "type": "number",
+                        "description": "Increase in winter capacity expected to be realized from the uprate modification to the equipment.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_uprate_date",
+                        "type": "date",
+                        "description": "Planned effective date that the generator is scheduled to enter operation after the uprate modification.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_net_summer_capacity_derate_mw",
+                        "type": "number",
+                        "description": "Decrease in summer capacity expected to be realized from the derate modification to the equipment.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_net_winter_capacity_derate_mw",
+                        "type": "number",
+                        "description": "Decrease in winter capacity expected to be realized from the derate modification to the equipment.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_derate_date",
+                        "type": "date",
+                        "description": "Planned effective month that the generator is scheduled to enter operation after the derate modification.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_new_prime_mover_code",
+                        "type": "string",
+                        "description": "New prime mover for the planned repowered generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_energy_source_code_1",
+                        "type": "string",
+                        "description": "New energy source code for the planned repowered generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_repower_date",
+                        "type": "date",
+                        "description": "Planned effective date that the generator is scheduled to enter operation after the repowering is complete.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "other_planned_modifications",
+                        "type": "boolean",
+                        "description": "Indicates whether there are there other modifications planned for the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "other_modifications_date",
+                        "type": "date",
+                        "description": "Planned effective date that the generator is scheduled to enter commercial operation after any other planned modification is complete.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_retirement_date",
+                        "type": "date",
+                        "description": "Planned effective date of the scheduled retirement of the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "carbon_capture",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator uses carbon capture technology.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "startup_source_code_1",
+                        "type": "string",
+                        "description": "The code representing the first, second, third or fourth start-up and flame stabilization energy source used by the combustion unit(s) associated with this generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "startup_source_code_2",
+                        "type": "string",
+                        "description": "The code representing the first, second, third or fourth start-up and flame stabilization energy source used by the combustion unit(s) associated with this generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "startup_source_code_3",
+                        "type": "string",
+                        "description": "The code representing the first, second, third or fourth start-up and flame stabilization energy source used by the combustion unit(s) associated with this generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "startup_source_code_4",
+                        "type": "string",
+                        "description": "The code representing the first, second, third or fourth start-up and flame stabilization energy source used by the combustion unit(s) associated with this generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "technology_description",
+                        "type": "string",
+                        "description": "High level description of the technology used by the generator to produce electricity.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "turbines_inverters_hydrokinetics",
+                        "type": "string",
+                        "description": "Number of wind turbines, or hydrokinetic buoys.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "time_cold_shutdown_full_load_code",
+                        "type": "string",
+                        "description": "The minimum amount of time required to bring the unit to full load from shutdown.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "planned_new_capacity_mw",
+                        "type": "number",
+                        "description": "The expected new namplate capacity for the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "cofire_fuels",
+                        "type": "boolean",
+                        "description": "Can the generator co-fire fuels?.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "switch_oil_gas",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator switch between oil and natural gas.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "nameplate_power_factor",
+                        "type": "number",
+                        "description": "The nameplate power factor of the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "minimum_load_mw",
+                        "type": "number",
+                        "description": "The minimum load at which the generator can operate at continuosuly.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "uprate_derate_during_year",
+                        "type": "boolean",
+                        "description": "Was an uprate or derate completed on this generator during the reporting year?",
+                        "format": "default"
+                    },
+                    {
+                        "name": "uprate_derate_completed_date",
+                        "type": "date",
+                        "description": "The date when the uprate or derate was completed.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "current_planned_operating_date",
+                        "type": "date",
+                        "description": "The most recently updated effective date on which the generator is scheduled to start operation",
+                        "format": "default"
+                    },
+                    {
+                        "name": "summer_estimated_capability_mw",
+                        "type": "number",
+                        "description": "EIA estimated summer capacity (in MWh).",
+                        "format": "default"
+                    },
+                    {
+                        "name": "winter_estimated_capability_mw",
+                        "type": "number",
+                        "description": "EIA estimated winter capacity (in MWh).",
+                        "format": "default"
+                    },
+                    {
+                        "name": "operating_switch",
+                        "type": "string",
+                        "description": "Indicates whether the proposed unit will be able to switch fuels while operating.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "retirement_date",
+                        "type": "date",
+                        "description": "Date of the scheduled or effected retirement of the generator.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "plant_id_eia",
+                        "reference": {
+                            "resource": "generators_entity_eia",
+                            "fields": "plant_id_eia"
+                        }
+                    },
+                    {
+                        "fields": "generator_id",
+                        "reference": {
+                            "resource": "generators_entity_eia",
+                            "fields": "generator_id"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 9658524,
+            "hash": "sha256:1aa55ab22d0542b4a7b31c3ebd375b4ac44a4c0b475f8e195e0c63b3cdc93460",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia860",
+                    "path": "https://www.eia.gov/electricity/data/eia860"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "generators_entity_eia",
+            "path": "data/generators_entity_eia.csv",
+            "title": "generators_entity_eia",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "generator_id",
+                        "type": "string",
+                        "description": "Generator identification number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "prime_mover_code",
+                        "type": "string",
+                        "description": "EIA assigned code for the prime mover (i.e. the engine, turbine, water wheel, or similar machine that drives an electric generator)",
+                        "format": "default"
+                    },
+                    {
+                        "name": "duct_burners",
+                        "type": "boolean",
+                        "description": "Indicates whether the unit has duct-burners for supplementary firing of the turbine exhaust gas",
+                        "format": "default"
+                    },
+                    {
+                        "name": "operating_date",
+                        "type": "date",
+                        "description": "Date the generator began commercial operation",
+                        "format": "default"
+                    },
+                    {
+                        "name": "topping_bottoming_code",
+                        "type": "string",
+                        "description": "If the generator is associated with a combined heat and power system, indicates whether the generator is part of a topping cycle or a bottoming cycle",
+                        "format": "default"
+                    },
+                    {
+                        "name": "solid_fuel_gasification",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator is part of a solid fuel gasification system",
+                        "format": "default"
+                    },
+                    {
+                        "name": "pulverized_coal_tech",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator uses pulverized coal technology",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fluidized_bed_tech",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator uses fluidized bed technology",
+                        "format": "default"
+                    },
+                    {
+                        "name": "subcritical_tech",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator uses subcritical technology",
+                        "format": "default"
+                    },
+                    {
+                        "name": "supercritical_tech",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator uses supercritical technology",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ultrasupercritical_tech",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator uses ultra-supercritical technology",
+                        "format": "default"
+                    },
+                    {
+                        "name": "stoker_tech",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator uses stoker technology",
+                        "format": "default"
+                    },
+                    {
+                        "name": "other_combustion_tech",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator uses other combustion technologies",
+                        "format": "default"
+                    },
+                    {
+                        "name": "heat_bypass_recovery",
+                        "type": "boolean",
+                        "description": "Can this generator operate while bypassing the heat recovery steam generator?",
+                        "format": "default"
+                    },
+                    {
+                        "name": "rto_iso_lmp_node_id",
+                        "type": "string",
+                        "description": "The designation used to identify the price node in RTO/ISO Locational Marginal Price reports",
+                        "format": "default"
+                    },
+                    {
+                        "name": "rto_iso_location_wholesale_reporting_id",
+                        "type": "string",
+                        "description": "The designation used to report ths specific location of the wholesale sales transactions to FERC for the Electric Quarterly Report",
+                        "format": "default"
+                    },
+                    {
+                        "name": "associated_combined_heat_power",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator is associated with a combined heat and power system",
+                        "format": "default"
+                    },
+                    {
+                        "name": "original_planned_operating_date",
+                        "type": "date",
+                        "description": "The date the generator was originally scheduled to be operational",
+                        "format": "default"
+                    },
+                    {
+                        "name": "operating_switch",
+                        "type": "string",
+                        "description": "Indicates whether the fuel switching generator can switch when operating",
+                        "format": "default"
+                    },
+                    {
+                        "name": "previously_canceled",
+                        "type": "boolean",
+                        "description": "Indicates whether the generator was previously reported as indefinitely postponed or canceled",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "plant_id_eia",
+                    "generator_id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "plant_id_eia",
+                        "reference": {
+                            "resource": "plants_entity_eia",
+                            "fields": "plant_id_eia"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 2940932,
+            "hash": "sha256:b18f449f30d4fe95e66a49afccbf7e671ea5ab43e4d0c3feb2ab82e2e9a1676e",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "hourly_emissions_epacems",
+            "path": [
+                "data/hourly_emissions_epacems_2016.csv",
+                "data/hourly_emissions_epacems_2017.csv"
+            ],
+            "title": "hourly_emissions_epacems",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL-issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "state",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "AL",
+                                "AR",
+                                "AZ",
+                                "CA",
+                                "CO",
+                                "CT",
+                                "DC",
+                                "DE",
+                                "FL",
+                                "GA",
+                                "IA",
+                                "ID",
+                                "IL",
+                                "IN",
+                                "KS",
+                                "KY",
+                                "LA",
+                                "MA",
+                                "MD",
+                                "ME",
+                                "MI",
+                                "MN",
+                                "MO",
+                                "MS",
+                                "MT",
+                                "NC",
+                                "ND",
+                                "NE",
+                                "NH",
+                                "NJ",
+                                "NM",
+                                "NV",
+                                "NY",
+                                "OH",
+                                "OK",
+                                "OR",
+                                "PA",
+                                "RI",
+                                "SC",
+                                "SD",
+                                "TN",
+                                "TX",
+                                "UT",
+                                "VA",
+                                "VT",
+                                "WA",
+                                "WI",
+                                "WV",
+                                "WY"
+                            ]
+                        },
+                        "description": "State the plant is located in.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "unitid",
+                        "type": "string",
+                        "description": "Facility-specific unit id (e.g. Unit 4)",
+                        "format": "default"
+                    },
+                    {
+                        "name": "operating_datetime_utc",
+                        "type": "datetime",
+                        "description": "Date and time measurement began.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "operating_time_hours",
+                        "type": "number",
+                        "description": "Length of time interval measured.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "gross_load_mw",
+                        "type": "number",
+                        "description": "Power delivered during time interval measured.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "steam_load_1000_lbs",
+                        "type": "number",
+                        "description": "Total steam pressure produced by a unit or source in any calendar year (or other specified time period) produced by combusting a given heat input of fuel.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "so2_mass_lbs",
+                        "type": "number",
+                        "description": "Sulfur dioxide emissions in pounds.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "so2_mass_measurement_code",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "LME",
+                                "Measured",
+                                "Measured and Substitute",
+                                "Other",
+                                "Substitute",
+                                "Undetermined",
+                                "Unknown Code",
+                                ""
+                            ]
+                        },
+                        "description": "Identifies whether the reported value of emissions was measured, calculated, or measured and substitute.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "nox_rate_lbs_mmbtu",
+                        "type": "number",
+                        "description": "The average rate at which NOx was emitted during a given time period.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "nox_rate_measurement_code",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "Calculated",
+                                "LME",
+                                "Measured",
+                                "Measured and Substitute",
+                                "Not Applicable",
+                                "Other",
+                                "Substitute",
+                                "Undetermined",
+                                "Unknown Code",
+                                ""
+                            ]
+                        },
+                        "description": "Identifies whether the reported value of emissions was measured, calculated, or measured and substitute.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "nox_mass_lbs",
+                        "type": "number",
+                        "description": "Nitrogen oxide emissions in pounds.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "nox_mass_measurement_code",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "Calculated",
+                                "LME",
+                                "Measured",
+                                "Measured and Substitute",
+                                "Not Applicable",
+                                "Other",
+                                "Substitute",
+                                "Undetermined",
+                                "Unknown Code",
+                                ""
+                            ]
+                        },
+                        "description": "Identifies whether the reported value of emissions was measured, calculated, or measured and substitute.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "co2_mass_tons",
+                        "type": "number",
+                        "description": "Carbon dioxide emissions in short tons.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "co2_mass_measurement_code",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "LME",
+                                "Measured",
+                                "Measured and Substitute",
+                                "Other",
+                                "Substitute",
+                                "Undetermined",
+                                "Unknown Code",
+                                ""
+                            ]
+                        },
+                        "description": "Identifies whether the reported value of emissions was measured, calculated, or measured and substitute.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "heat_content_mmbtu",
+                        "type": "number",
+                        "description": "The measure of utilization that is calculated by multiplying the quantity of fuel by the fuel's heat content.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "facility_id",
+                        "type": "integer",
+                        "description": "The unique six-digit facility identification number, also called an ORISPL, assigned by the Energy Information Administration.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "unit_id_epa",
+                        "type": "integer",
+                        "description": "Unique EPA identifier for each unit at a facility.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 11957952,
+            "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "epacems",
+                    "path": "ftp://newftp.epa.gov/dmdnload/emissions/hourly/monthly"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "ownership_eia860",
+            "path": "data/ownership_eia860.csv",
+            "title": "ownership_eia860",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_date",
+                        "type": "date",
+                        "description": "Date reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "utility_id_eia",
+                        "type": "integer",
+                        "description": "EIA-assigned identification number for the company that is responsible for the day-to-day operations of the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "generator_id",
+                        "type": "string",
+                        "description": "Generator identification number.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "operational_status_code",
+                        "type": "string",
+                        "description": "The operating status of the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "owner_utility_id_eia",
+                        "type": "integer",
+                        "description": "EIA-assigned owner's identification number.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "owner_name",
+                        "type": "string",
+                        "description": "Name of owner.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "owner_state",
+                        "type": "string",
+                        "constraints": {
+                            "enum": [
+                                "AK",
+                                "AL",
+                                "AR",
+                                "AS",
+                                "AZ",
+                                "CA",
+                                "CO",
+                                "CT",
+                                "DC",
+                                "DE",
+                                "FL",
+                                "GA",
+                                "GU",
+                                "HI",
+                                "IA",
+                                "ID",
+                                "IL",
+                                "IN",
+                                "KS",
+                                "KY",
+                                "LA",
+                                "MA",
+                                "MD",
+                                "ME",
+                                "MI",
+                                "MN",
+                                "MO",
+                                "MP",
+                                "MS",
+                                "MT",
+                                "NA",
+                                "NC",
+                                "ND",
+                                "NE",
+                                "NH",
+                                "NJ",
+                                "NM",
+                                "NV",
+                                "NY",
+                                "OH",
+                                "OK",
+                                "OR",
+                                "PA",
+                                "PR",
+                                "RI",
+                                "SC",
+                                "SD",
+                                "TN",
+                                "TX",
+                                "UT",
+                                "VA",
+                                "VI",
+                                "VT",
+                                "WA",
+                                "WI",
+                                "WV",
+                                "WY",
+                                "AB",
+                                "BC",
+                                "CN",
+                                "MB",
+                                "NB",
+                                "NS",
+                                "NL",
+                                "NT",
+                                "NU",
+                                "ON",
+                                "PE",
+                                "QC",
+                                "SK",
+                                "YT"
+                            ]
+                        },
+                        "description": "Two letter US state and territory abbreviations.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "owner_city",
+                        "type": "string",
+                        "description": "City of owner.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "owner_street_address",
+                        "type": "string",
+                        "description": "Steet address of owner.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "owner_zip_code",
+                        "type": "string",
+                        "description": "Zip code of owner.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "fraction_owned",
+                        "type": "number",
+                        "description": "Percent of generator ownership.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "utility_id_eia",
+                        "reference": {
+                            "resource": "utilities_entity_eia",
+                            "fields": "utility_id_eia"
+                        }
+                    },
+                    {
+                        "fields": "plant_id_eia",
+                        "reference": {
+                            "resource": "generators_entity_eia",
+                            "fields": "plant_id_eia"
+                        }
+                    },
+                    {
+                        "fields": "generator_id",
+                        "reference": {
+                            "resource": "generators_entity_eia",
+                            "fields": "generator_id"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 952234,
+            "hash": "sha256:33492cde26d420616d8a25c5977a1dffaf7d8d71645ddc651806031ae30ff939",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia860",
+                    "path": "https://www.eia.gov/electricity/data/eia860"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "plants_eia860",
+            "path": "data/plants_eia860.csv",
+            "title": "plants_eia860",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_date",
+                        "type": "date",
+                        "description": "Date reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ash_impoundment",
+                        "type": "string",
+                        "description": "Is there an ash impoundment (e.g. pond, reservoir) at the plant?",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ash_impoundment_lined",
+                        "type": "string",
+                        "description": "If there is an ash impoundment at the plant, is the impoundment lined?",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ash_impoundment_status",
+                        "type": "string",
+                        "description": "If there is an ash impoundment at the plant, the ash impoundment status as of December 31 of the reporting year.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "energy_storage",
+                        "type": "string",
+                        "description": "Indicates if the facility has energy storage capabilities.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ferc_cogen_docket_no",
+                        "type": "string",
+                        "description": "The docket number relating to the FERC qualifying facility cogenerator status.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ferc_exempt_wholesale_generator_docket_no",
+                        "type": "string",
+                        "description": "The docket number relating to the FERC qualifying facility exempt wholesale generator status.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ferc_small_power_producer_docket_no",
+                        "type": "string",
+                        "description": "The docket number relating to the FERC qualifying facility small power producer status.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "liquefied_natural_gas_storage",
+                        "type": "string",
+                        "description": "Indicates if the facility have the capability to store the natural gas in the form of liquefied natural gas.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "natural_gas_local_distribution_company",
+                        "type": "string",
+                        "description": "Names of Local Distribution Company (LDC), connected to natural gas burning power plants.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "natural_gas_storage",
+                        "type": "string",
+                        "description": "Indicates if the facility have on-site storage of natural gas.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "natural_gas_pipeline_name_1",
+                        "type": "string",
+                        "description": "The name of the owner or operator of natural gas pipeline that connects directly to this facility or that connects to a lateral pipeline owned by this facility.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "natural_gas_pipeline_name_2",
+                        "type": "string",
+                        "description": "The name of the owner or operator of natural gas pipeline that connects directly to this facility or that connects to a lateral pipeline owned by this facility.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "natural_gas_pipeline_name_3",
+                        "type": "string",
+                        "description": "The name of the owner or operator of natural gas pipeline that connects directly to this facility or that connects to a lateral pipeline owned by this facility.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "net_metering",
+                        "type": "string",
+                        "description": "Did this plant have a net metering agreement in effect during the reporting year?  (Only displayed for facilities that report the sun or wind as an energy source).",
+                        "format": "default"
+                    },
+                    {
+                        "name": "pipeline_notes",
+                        "type": "string",
+                        "description": "Additional owner or operator of natural gas pipeline.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "regulatory_status_code",
+                        "type": "string",
+                        "description": "Indicates whether the plant is regulated or non-regulated.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "transmission_distribution_owner_id",
+                        "type": "string",
+                        "description": "EIA-assigned code for owner of transmission/distribution system to which the plant is interconnected.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "transmission_distribution_owner_name",
+                        "type": "string",
+                        "description": "Name of the owner of the transmission or distribution system to which the plant is interconnected.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "transmission_distribution_owner_state",
+                        "type": "string",
+                        "description": "State location for owner of transmission/distribution system to which the plant is interconnected.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "utility_id_eia",
+                        "type": "integer",
+                        "description": "EIA-assigned identification number for the company that is responsible for the day-to-day operations of the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "water_source",
+                        "type": "string",
+                        "description": "Name of water source associater with the plant.",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "plant_id_eia",
+                        "reference": {
+                            "resource": "plants_entity_eia",
+                            "fields": "plant_id_eia"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 2532154,
+            "hash": "sha256:f579c12aaf1e1cd5f76b8383ed32ea2af880f9434be2d74d8407e0a0b8a2ea8f",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia860",
+                    "path": "https://www.eia.gov/electricity/data/eia860"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "plants_entity_eia",
+            "path": "data/plants_entity_eia.csv",
+            "title": "plants_entity_eia",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "plant_id_eia",
+                        "type": "integer",
+                        "description": "EIA Plant Identification number. One to five digit numeric.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plant_name",
+                        "type": "string",
+                        "description": "Plant name.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "balancing_authority_code",
+                        "type": "string",
+                        "description": "The plant's balancing authority code.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "balancing_authority_name",
+                        "type": "string",
+                        "description": "The plant's balancing authority name.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "city",
+                        "type": "string",
+                        "description": "The plant's city.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "county",
+                        "type": "string",
+                        "description": "The plant's county.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ferc_cogen_status",
+                        "type": "string",
+                        "description": "Indicates whether the plant has FERC qualifying facility cogenerator status.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ferc_exempt_wholesale_generator",
+                        "type": "string",
+                        "description": "Indicates whether the plant has FERC qualifying facility exempt wholesale generator status",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ferc_small_power_producer",
+                        "type": "string",
+                        "description": "Indicates whether the plant has FERC qualifying facility small power producer status",
+                        "format": "default"
+                    },
+                    {
+                        "name": "grid_voltage_kv",
+                        "type": "number",
+                        "description": "Plant's grid voltage at point of interconnection to transmission or distibution facilities",
+                        "format": "default"
+                    },
+                    {
+                        "name": "grid_voltage_2_kv",
+                        "type": "number",
+                        "description": "Plant's grid voltage at point of interconnection to transmission or distibution facilities",
+                        "format": "default"
+                    },
+                    {
+                        "name": "grid_voltage_3_kv",
+                        "type": "number",
+                        "description": "Plant's grid voltage at point of interconnection to transmission or distibution facilities",
+                        "format": "default"
+                    },
+                    {
+                        "name": "iso_rto_name",
+                        "type": "string",
+                        "description": "The name of the plant's ISO or RTO.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "iso_rto_code",
+                        "type": "string",
+                        "description": "The code of the plant's ISO or RTO.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "latitude",
+                        "type": "number",
+                        "description": "The latitude of a plant's coordinates",
+                        "format": "default"
+                    },
+                    {
+                        "name": "longitude",
+                        "type": "number",
+                        "description": "The longitude of a plant's coordinates",
+                        "format": "default"
+                    },
+                    {
+                        "name": "nerc_region",
+                        "type": "string",
+                        "description": "NERC region in which the plant is located",
+                        "format": "default"
+                    },
+                    {
+                        "name": "primary_purpose_naics_id",
+                        "type": "number",
+                        "description": "North American Industry Classification System (NAICS) code that best describes the primary purpose of the reporting plant",
+                        "format": "default"
+                    },
+                    {
+                        "name": "sector_name",
+                        "type": "string",
+                        "description": "Plant-level sector name, designated by the primary purpose, regulatory status and plant-level combined heat and power status",
+                        "format": "default"
+                    },
+                    {
+                        "name": "sector_id",
+                        "type": "number",
+                        "description": "Plant-level sector number, designated by the primary purpose, regulatory status and plant-level combined heat and power status",
+                        "format": "default"
+                    },
+                    {
+                        "name": "state",
+                        "type": "string",
+                        "description": "Plant state. Two letter US state and territory abbreviations.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "street_address",
+                        "type": "string",
+                        "description": "Plant street address",
+                        "format": "default"
+                    },
+                    {
+                        "name": "zip_code",
+                        "type": "string",
+                        "description": "Plant street address",
+                        "format": "default"
+                    },
+                    {
+                        "name": "timezone",
+                        "type": "string",
+                        "description": "IANA timezone name",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "plant_id_eia"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 2067318,
+            "hash": "sha256:7b6da33d43acf7a80c631fa8efba8fd1e5f9b2ec65f94800181112f9b44b379a",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "prime_movers_eia923",
+            "path": "data/prime_movers_eia923.csv",
+            "title": "prime_movers_eia923",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "abbr",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "prime_mover",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "abbr"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 1025,
+            "hash": "sha256:b8b99866c2a744d55828822c69d28bc131e5074f74bde193da8c56b85d7f980e",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia923",
+                    "path": "https://www.eia.gov/electricity/data/eia923"
+                }
+            ],
+            "created": "2019-08-05T22:36:49Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "transport_modes_eia923",
+            "path": "data/transport_modes_eia923.csv",
+            "title": "transport_modes_eia923",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "abbr",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "mode",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "abbr"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 2579,
+            "hash": "sha256:b843ebd3150a234f627f9a3761f4ed3768e10bed7b992a9e8de860b05633113d",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia923",
+                    "path": "https://www.eia.gov/electricity/data/eia923"
+                }
+            ],
+            "created": "2019-08-05T22:36:50Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "utilities_eia860",
+            "path": "data/utilities_eia860.csv",
+            "title": "utilities_eia860",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "PUDL issued surrogate key.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "utility_id_eia",
+                        "type": "integer",
+                        "description": "EIA-assigned identification number for the company that is responsible for the day-to-day operations of the generator.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "report_date",
+                        "type": "date",
+                        "description": "Date reported.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "street_address",
+                        "type": "string",
+                        "description": "Street address of the operator/owner",
+                        "format": "default"
+                    },
+                    {
+                        "name": "city",
+                        "type": "string",
+                        "description": "Name of the city in which operator/owner is located",
+                        "format": "default"
+                    },
+                    {
+                        "name": "state",
+                        "type": "string",
+                        "description": "State of the operator/owner",
+                        "format": "default"
+                    },
+                    {
+                        "name": "zip_code",
+                        "type": "string",
+                        "description": "Zip code of the operator/owner",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plants_reported_owner",
+                        "type": "string",
+                        "description": "Is the reporting entity an owner of power plants reported on Schedule 2 of the form?",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plants_reported_operator",
+                        "type": "string",
+                        "description": "Is the reporting entity an operator of power plants reported on Schedule 2 of the form?",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plants_reported_asset_manager",
+                        "type": "string",
+                        "description": "Is the reporting entity an asset manager of power plants reported on Schedule 2 of the form?",
+                        "format": "default"
+                    },
+                    {
+                        "name": "plants_reported_other_relationship",
+                        "type": "string",
+                        "description": "Does the reporting entity have any other relationship to the power plants reported on Schedule 2 of the form?",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "utility_id_eia",
+                        "reference": {
+                            "resource": "utilities_entity_eia",
+                            "fields": "utility_id_eia"
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 775462,
+            "hash": "sha256:53252cf7ebe5828235277502789273eab36dfbf204114ba251ca1b4b139f4368",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "eia860",
+                    "path": "https://www.eia.gov/electricity/data/eia860"
+                }
+            ],
+            "created": "2019-08-05T22:36:50Z"
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "utilities_entity_eia",
+            "path": "data/utilities_entity_eia.csv",
+            "title": "utilities_entity_eia",
+            "encoding": "utf-8",
+            "mediatype": "text/csv",
+            "format": "csv",
+            "dialect": {
+                "delimiter": ",",
+                "header": true,
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "lineTerminator": "\r\n",
+                "skipInitialSpace": true,
+                "caseSensitiveHeader": false
+            },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "utility_id_eia",
+                        "type": "integer",
+                        "description": "The EIA Utility Identification number.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "utility_name",
+                        "type": "string",
+                        "description": "The name of the utility.",
+                        "format": "default"
+                    },
+                    {
+                        "name": "entity_type",
+                        "type": "string",
+                        "description": "Entity type of principle owner (C = Cooperative, I = Investor-Owned Utility, Q = Independent Power Producer, M = Municipally-Owned Utility, P = Political Subdivision, F = Federally-Owned Utility, S = State-Owned Utility, IND = Industrial, COM = Commercial",
+                        "format": "default"
+                    }
+                ],
+                "primaryKey": [
+                    "utility_id_eia"
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "bytes": 158516,
+            "hash": "sha256:331a5f26be661d70c0f6e86d66dd5a524485b38171db6362502193be712e5563",
+            "licenses": [
+                {
+                    "name": "CC-BY-4.0",
+                    "title": "Creative Commons Attribution 4.0",
+                    "path": "https://creativecommons.org/licenses/by/4.0/"
+                }
+            ],
+            "sources": [],
+            "created": "2019-08-05T22:36:50Z"
+        }
+    ]
+}

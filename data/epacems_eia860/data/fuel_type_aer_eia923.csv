@@ -1,0 +1,19 @@
+abbr,fuel_type
+SUN,Solar PV and thermal
+COL,Coal
+DFO,Distillate Petroleum
+GEO,Geothermal
+HPS,Hydroelectric Pumped Storage
+HYC,Hydroelectric Conventional
+MLG,Biogenic Municipal Solid Waste and Landfill Gas
+NG,Natural Gas
+NUC,Nuclear
+OOG,Other Gases
+ORW,Other Renewables
+OTH,Other (including nonbiogenic MSW)
+PC,Petroleum Coke
+RFO,Residual Petroleum
+WND,Wind
+WOC,Waste Coal
+WOO,Waste Oil
+WWW,Wood and Wood Waste

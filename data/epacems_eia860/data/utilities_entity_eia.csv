@@ -1,0 +1,4821 @@
+utility_id_eia,utility_name,entity_type
+61561,CCC Solar Holdings LLC,COM
+61560,"Willis Solar, LLC",C
+61559,"Whitt Solar, LLC",C
+61558,"Watauga Solar, LLC",C
+61557,"Vincent Solar, LLC",C
+61556,"South Solar, LLC",C
+61555,"Sapphire Solar, LLC",C
+61554,"River Solar, LLC",C
+61553,"Redwing Solar, LLC",C
+61552,"Pelzer Solar I, LLC",C
+61550,"Jessamine Solar, LLC",C
+61549,"Goldenrod Solar, LLC",C
+61548,"Gary Solar, LLC",C
+61547,"Bond Solar, LLC",C
+61546,"Bloom Solar, LLC",C
+61545,"Blacktip Solar, LLC",C
+61544,"Bani Solar, LLC",C
+61543,"ACE Solar, LLC",C
+61542,"Abbot Solar, LLC",C
+61541,"1634 Solar, LLC",C
+61540,"Coolridge Solar I, LLC",Q
+61538,Ecogy Delaware II LLC.,Q
+61537,"Pratt Wind, LLC",Q
+61536,"Consolidated Edison Energy, Inc.",Q
+61535,Techren Solar IV LLC,Q
+61534,Techren Solar III LLC,Q
+61533,Techren Solar II LLC,Q
+61532,Techren Solar I LLC,Q
+61531,"Casa Mesa Wind, LLC",Q
+61530,"Armadillo Flats Wind Project, LLC",Q
+61529,"Adams Nielson Solar, LLC",Q
+61528,"Cumberland Land Holdings, LLC",IND
+61527,"Tahoka Wind, LLC",Q
+61523,225DD 8me LLC,Q
+61522,"Viridity Energy Solutions, Inc.",Q
+61521,"Pegasus Wind, LLC",I
+61520,Kearsarge Oppenheim LLC,Q
+61519,"Blackville Solar Farm, LLC",C
+61518,Frontenac Holdco LLC,Q
+61516,"Stratford Solar Center, LLC",Q
+61515,"Phoebe Energy Project, LLC",Q
+61514,"Agilitas Energy, LLC",COM
+61513,"Redstone Solar I, LLC",Q
+61510,National Raisin,IND
+61509,"PGC Plano I, LLC",Q
+61508,BNB Camden Solar LLC,Q
+61507,Plumsted 537 LLC,Q
+61506,"Stryker 22, L.L.C.",Q
+61505,NRG Chalk Point CT,Q
+61502,"Sholes Wind Energy Center, LLC",I
+61499,Georgia-Pacific Wood Products LLC,IND
+61495,"Persimmon Creek Wind Farm 1, LLC",Q
+61494,Radian Generation,COM
+61492,StraightUp Solar,Q
+61491,"ReNew Petra Integrators, LLC",COM
+61487,Montevideo Solar LLC,Q
+61486,Scenic Hill Solar III LLC,IND
+61485,"Rio Bravo Windpower, LLC",Q
+61484,"Powergen Development Group, LLC",IND
+61483,"Dix Solar, L.L.C",Q
+61482,"AES ES GILBERT, LLC",Q
+61481,Dignity - San Martin,Q
+61480,Ontario Solar Center,Q
+61478,Toray Plastics America,IND
+61477,325MK 8me LLC,Q
+61476,Central Utah Water Conservancy District,F
+61474,Baker City Solar,Q
+61473,Morgan Solar Center,Q
+61472,Vale Solar Center,Q
+61470,"PYCO Industries, Inc.",IND
+61469,City of Binghamton,Q
+61467,"Central CA Fuel Cell 2, LLC",Q
+61466,"Bakersfield Fuel Cell 1, LLC",Q
+61465,Brush Solar Center,Q
+61461,Mustang Solar LLC,I
+61459,"Minco Wind V, LLC",Q
+61458,"Minco Wind IV, LLC",Q
+61457,"Cleveland Thermal, LLC",IND
+61456,"Hope Farm Solar, LLC",I
+61455,"Scituate RI Solar, LLC",I
+61454,"NorWest Energy 14, LLC",Q
+61453,Soboba Band of Luiseno Indians,Q
+61452,Andeavor,IND
+61451,"SP Solar 7, LLC",Q
+61450,"SP Solar 8, LLC",Q
+61449,"Silverton Solar, LLC",Q
+61448,"Sheep Solar, LLC",Q
+61447,"SP Solar 1, LLC",Q
+61446,"Freedom Solar, LLC",Q
+61445,"SP Solar 6, LLC",Q
+61444,"Terra-Gen 251 Wind, LLC",Q
+61443,"Solar Star RPUWD, LLC",Q
+61442,Dignity - Siena Campus,Q
+61441,"Sun Farm VI, LLC",Q
+61440,Princeton Energy Center LLC,I
+61436,"Titan Solar, LLC",I
+61435,"EGP Stillwater Solar PV II, LLC",Q
+61430,"Summit Lake Wind, LLC",Q
+61429,"Harvest Wind Energy, LLC",Q
+61428,Kearsarge Concord II LLC,Q
+61426,Kearsarge Granby LLC,Q
+61425,"Ranchland Solar, LLC",Q
+61423,"California Flats Solar 130, LLC",I
+61422,"Mason Dixon Solar Center, LLC",Q
+61421,"LeGore Bridge Solar Center, LLC",Q
+61420,ENGIE Storage Services NA LLC,Q
+61419,"Constellation Solar MC, LLC",Q
+61418,"Stage Gulch Solar, LLC",Q
+61417,"Lavio Solar, LLC",Q
+61416,"Cattle Ridge Wind Holdings, LLC",Q
+61415,"Hilltopper Power, LLC",Q
+61414,"Rattlesnake Creek Wind Project, LLC",Q
+61413,"Enel Green Power Diamond Vista Wind Project, LLC",Q
+61410,"Broad Street Fuel Cell, LLC",Q
+61409,Heyer CSG LLC,COM
+61407,"Delta Solar Power II, LLC",Q
+61406,"Delta Solar Power I, LLC",Q
+61404,Edenton Solar        ,Q
+61403,"Seminole Energy, LLC        ",Q
+61402,Hernando Energy        ,Q
+61401,North 301 Solar        ,Q
+61400,"Brevard Energy, LLC        ",Q
+61397,Town of Otis,M
+61396,"Midway Wind, LLC",Q
+61395,"Indeck Niles, LLC",Q
+61393,Douglas County Forest Products,IND
+61392,"Syncarpha Still River, LLC",Q
+61391,"Gore Mountain Solar II, LLC",Q
+61390,"Syncarpha Hancock III, LLC",Q
+61389,"Syncarpha Hancock II, LLC",Q
+61388,"Syncarpha Hancock I, LLC",Q
+61387,"HGS solar I, LLC",Q
+61386,"C4GT, LLC",Q
+61383,"MN Solar Community, LLC",Q
+61382,Gaston County Solid Waste and Recycling Division,M
+61381,Meadow Lake Wind Farm VI LLC,Q
+61379,ARP-Loyalton Cogen LLC        ,Q
+61376,SunSelect 1,COM
+61375,"Southern Current One, LLC",Q
+61374,"Foxtail Wind, LLC",I
+61373,MERIT SI,COM
+61369,"Kimball Wind, LLC",Q
+61366,"Woods Hill Solar, LLC",Q
+61365,"Hilltopper Wind Project, LLC",Q
+61364,Lockheed Martin RMS Syracuse,IND
+61363,Seneca Nation,M
+61362,GWCC PV Solar Farm,F
+61361,Walton Solar,Q
+61358,"Forked River Power, LLC",Q
+61357,Haywood Solar,IND
+61356,"Solten Randolph 4500, LLC",Q
+61354,"Solten Plainville 6000, LLC",Q
+61353,Philadelphia Authority for Industrial Development,M
+61351,APTIM Environmental & Infrastructure,Q
+61350,"Nautilus Hydro, LLC",Q
+61348,"PCS Energy, LLC         ",Q
+61347,Scotch Settlement        ,Q
+61346,Lisbon East,Q
+61345,Lisbon West,Q
+61344,Advanced Microgrid Solutions,COM
+61342,"Leo Community Solar, LLC",Q
+61340,"Hydra Community Solar, LLC",Q
+61339,"Deneb Community Solar Garden, LLC",Q
+61338,"Crux Community Solar Gardens, LLC",Q
+61337,"Cassiopeia Community Solar Garden, LLC",Q
+61336,Katahdin KI 50 LLC,Q
+61335,CommonWealth New Bedford Energy LLC,Q
+61334,"Libra Community Solar Garden, LLC",Q
+61333,"Sagitta Community Solar Garden, LLC",Q
+61332,Sikorsky Aircraft Corporation,IND
+61331,Popular Camp Wind Farm LLC,Q
+61330,Turtle Creek Wind Farm LLC,Q
+61329,"Canopus Community Solar Garden, LLC",Q
+61328,"Auriga Community Solar Garden, LLC",Q
+61327,"Arcturus Community Solar Garden, LLC",Q
+61326,"Aquila Community Solar Gardens, LLC",Q
+61325,"Aquarius Community Solar Gardens, LLC",Q
+61324,Yolo County Community Services Department,P
+61323,"PowerFin ASL 1, LLC",IND
+61322,"TIG Sun Energy IV, LLC",Q
+61321,"Seabrook Solar, LLC",Q
+61320,"Chambersburg Energy, LLC",Q
+61319,"Hunlock Energy, LLC",Q
+61318,"Buchanan Generation, LLC",Q
+61317,Gans Energy LLC,Q
+61315,Solarenewal LLC,Q
+61309,Johnson II CSG LLC,COM
+61307,Lockheed Martin RMS,IND
+61305,North Gooding Main Hydro LLC,Q
+61304,Foreman's Hill CSG LLC,COM
+61303,Grimm CSG LLC,COM
+61302,"Depot Solar Center, LLC",Q
+61301,Plum Creek Wind Farm LLC,Q
+61299,HQC Tatanka Wi Solar Power Generation LLC,Q
+61298,Pine Gate Renewables,Q
+61295,"Pinal Central Energy Center, LLC",I
+61292,"NC State University, Energy Systems",S
+61291,"Wildcat Ranch Wind Project, LLC",IND
+61289,"Kaus Community Solar Garden, LLC",Q
+61288,"Perennial Wind, LLC",Q
+61287,Johnson I CSG LLC,COM
+61286,CCP Power Solutions,COM
+61285,RJC II CSG LLC,COM
+61284,Scandia CSG LLC,COM
+61280,"Creston Ridge II, LLC",Q
+61279,"HH Management, LLC",Q
+61278,OEE XXVI LLC,Q
+61277,"Vista Energy Storage, LLC",Q
+61276,West Liberty Renewables LLC,Q
+61275,Seward Wind LLC,Q
+61269,"Cougar Solar, LLC",Q
+61267,Springdale Energy LLC,Q
+61266,"Fiber Recovery, Inc",Q
+61262,"Alexander & Baldwin, Inc.",COM
+61261,Berkeley Cogeneration Facility,S
+61260,"Capricornus Community Solar Garden, LLC",Q
+61259,"Altair Community Solar Garden, LLC",Q
+61257,Blazing Star 2 LLC,Q
+61256,Betcher CSG LLC,COM
+61254,"August Wind Energy, LLC",Q
+61253,"Hitchcock Hydro, LLC",Q
+61252,"C-S Canal Hydro, LLC",Q
+61251,"LA3 West Baton Rouge, L.L.C.",Q
+61249,"Entropy Investment Management, LLC",Q
+61247,"CBS Broadcasting, Inc.",Q
+61237,"Golden Renewable Energy, LLC",Q
+61236,"Energy Developments, Inc II",Q
+61234,NRG DG Dighton LLC,Q
+61233,NRG DG Tufts Science LLC,Q
+61232,NRG DG Webster LLC,Q
+61231,NRG DG Tufts Knoll LLC,Q
+61230,"CD Arevon USA, Inc.",Q
+61229,Waterville Solar Holdings LLC,I
+61228,Dundas Solar Holdings LLC,I
+61227,Nautilus Solar Solutions,Q
+61226,"SunE Wasco SP Owner, LLC",Q
+61225,"SunE Corcoran SP Owner, LLC",Q
+61224,"SunE Solano SP Owner, LLC",Q
+61217,"WED Stilson Solar, LLC",Q
+61216,"WED Kingstown Solar I, LLC",COM
+61215,Techren Solar LLC,Q
+61214,"Heartland Divide Wind Project, LLC",Q
+61213,"Hamakua Energy, LLC",Q
+61211,Montgomery County Solar,Q
+61210,Stenner Creek Solar LLC,Q
+61209,NC 102 Project LLC,Q
+61208,"Red Marlin Wind Ventures, LLC",Q
+61204,"Today's Power, Inc.",C
+61203,"Solar Park Gainesville, LLC",Q
+61202,"Flambeau Solar Partners, LLC",Q
+61199,"Peaker Power, LLC",Q
+61198,esVolta LP,Q
+61194,Generate Capital,Q
+61192,Elgin Energy Center LLC,Q
+61191,"Helix Maine Wind Development, LLC",Q
+61190,Town of Foxborough - Landfill (SREC II),Q
+61189,NRG DG Foxborough Elm LLC,Q
+61188,West Texas A&M University,P
+61187,"DG Minnesota CSG, LLC",Q
+61186,"DCII-250 Williams Street NW, LLC",COM
+61185,Cycle Power Partners,Q
+61176,Dominion Renewable Energy - Clipperton,Q
+61175,Dominion Renewable Energy - Fremont,Q
+61173,CXA La Paloma LLC,Q
+61172,Zumbro Solar LLC,Q
+61171,Lake Waconia Solar IV LLC,Q
+61170,Lake Waconia Solar LLC,Q
+61169,New Germany Solar I LLC,Q
+61168,Veseli Solar I LLC,Q
+61167,"Genesis Alkali, LLC",IND
+61166,Green Power Energy LLC,Q
+61165,Mount Sinai Beth Israel,COM
+61164,The Allen Hospital,COM
+61163,Denver Metro Solar LLC,Q
+61162,Woodhull Hospital,COM
+61161,"Norwest Energy 7, LLC",Q
+61160,"Woodline Solar, LLC",Q
+61159,"Palmer Solar Center, LLC",Q
+61158,"Martin Solar Center, LLC",Q
+61157,"Essex Solar Center, LLC",Q
+61156,"NMRD Data Center, LLC",Q
+61155,NRG DG Crystal Spring LLC,Q
+61153,"Montevue Lane Solar, LLC",COM
+61152,Good Samaritan Hospital,COM
+61151,NRG DG Haverhill LLC,Q
+61149,Fort Hays State University,IND
+61148,"Ameresco, Inc - GELD",Q
+61147,"Ameresco, Inc - Braintree",Q
+61146,"Ameresco, Inc - Weston",Q
+61144,"WasecaSun, LLC",Q
+61143,Bridge Energy LLC,IND
+61142,Westridge Windfarm LLC,I
+61141,TG Windfarm LLC,I
+61140,CG Windfarm LLC,I
+61139,Bisson Windfarm LLC,I
+61138,City Point Energy Center,Q
+61137,"Lawrenceburg Power, LLC",Q
+61136,"Waterford Power, LLC",I
+61135,"Gavin Power, LLC",Q
+61134,"Darby Power, LLC",I
+61133,"Lorenzo Wind, LLC",I
+61132,"Syncarpha Lexington, LLC",Q
+61130,"Helix Ravenswood, LLC",Q
+61129,Fremont Regional Digester,I
+61128,"Haley Solar, LLC",Q
+61127,"Champion Solar, LLC",Q
+61126,"Swamp Fox Solar, LLC",Q
+61125,"301 Chestnut Solar NG, LLC",I
+61124,"Great Valley Solar Portfolio Holdings, LLC",Q
+61123,Upton County Solar 2 LLC,Q
+61122,"Great River Hydro, LLC",Q
+61121,"Helix, Ironwood LLC",COM
+61120,"K-brink Windfarm, LLC",I
+61119,"SRE Utility Solar 1, LLC",Q
+61118,"Ameresco, Inc - Candlewood",Q
+61114,School Sisters CSG LLC,COM
+61113,"DG Camden, LLC",Q
+61112,"Cuyama Solar, LLC",Q
+61111,"DG New Jersey Solar, LLC",Q
+61110,Krause CSG LLC,COM
+61109,Huneke I CSG LLC,COM
+61108,RJC I CSG LLC,COM
+61107,ABEC #4 LLC,Q
+61106,ABEC #3 LLC,Q
+61105,ABEC #2 LLC,Q
+61104,Elbe Solar Center LLC,Q
+61103,Adams Solar Center LLC,Q
+61102,"Minnesota Solar CSG 8, LLC",Q
+61101,"Minnesota Solar CSG 1, LLC",Q
+61100,Harvest Moon Renewable Energy Company LLC,Q
+61099,First Citizens Bank,COM
+61097,"Estill Solar I, LLC",I
+61096,"Cameron Solar, LLC",I
+61095,"Hampton Solar II, LLC",I
+61094,NYU LANGONE HEALTH,COM
+61093,"SL Babylon, LLC",I
+61091,Hopewell Valley High School,I
+61090,San Luis Solar Garden LLC,Q
+61089,"CoreSite Real Estate 1656 McCarthy, L.P.",I
+61088,"CoreSite Real Estate 55 S. Market Street, LLC",I
+61087,"CoreSite Real Estate 3032 Coronado, L.P.",I
+61086,"CoreSite Real Estate 2901 Coronado, L.P.",I
+61082,"Vandenberg Solar I, LLC",Q
+61081,SR Platte,Q
+61080,"North Smithfield Solar Power 1, LLC",I
+61078,"CoreSite Real Estate 2972 Stender, L.P.",I
+61077,"IGS ORIX Solar I, LLC",Q
+61076,"Minnesota Solar CSG 4, LLC",Q
+61075,"Minnesota Solar CSG 19, LLC",Q
+61074,"Minnesota Solar CSG 21, LLC",Q
+61073,"Minnesota Solar CSG 9, LLC",Q
+61072,Waterford Holdco LLC,Q
+61071,Northfield Holdco LLC,Q
+61070,"Foundation CA Fund IX Manager, LLC",Q
+61069,RE Gaskell West LLC,COM
+61060,Cypress Creek Renewables,Q
+61058,"One Ten Partner, LLC",Q
+61055,FRB Solar LLC,Q
+61054,Fluvanna Wind Energy 2 LLC,Q
+61053,Mount Sinai Hospital,COM
+61050,The NY Times Production Facility,COM
+61049,NYC-HH Coney Island Hospital,COM
+61043,LSE Canis Minor LLC,Q
+61042,Cottonwood Wind Project,I
+61040,"Moorings Farm 2, LLC",Q
+61039,"Pikeville Farm, LLC",Q
+61038,"Cube District Energy, LLC",Q
+61037,"Foard City Wind, LLC",Q
+61036,"Boswell Wind Project IV, LLC",Q
+61035,"Boswell Wind Project III, LLC",Q
+61034,"Boswell Wind Project II, LLC",Q
+61033,"Boswell Wind Project I, LLC",Q
+61032,"Constellation Solar Georgia 2, LLC",Q
+61031,"Byers Wind, LLC",Q
+61030,"Bluegrove Wind, LLC",Q
+61029,Upper Michigan Energy Resources Company,I
+61028,LSE Cassiopeia LLC,Q
+61025,LSE Canis Major LLC,Q
+61024,"Deep Branch Farm, LLC",Q
+61023,Sabert Corporation,IND
+61019,"SunE St. Cloud 1, LLC",Q
+61018,"SunE Rengstorf 1, LLC",Q
+61017,"Lindstrom CSG 1, LLC",Q
+61016,"SunE Koppelman 1, LLC",Q
+61015,ETCAP NES CS MN 08 LLC,Q
+61014,"DodgeSun, LLC",Q
+61013,Northern Westchester Hospital,COM
+61012,AES Distributed Energy,Q
+61011,Kearsarge Bellingham LLC,Q
+61010,"Ord Mountain Solar, LLC",Q
+61009,LSE Centaurus LLC,Q
+61006,Bearkat TE Partnership LLC,I
+61005,Sweetwater Solar LLC,Q
+61004,Midway Solar LLC,Q
+61001,"Hu Honua Bioenergy, LLC",Q
+61000,"Equuleus Community Solar Gardens, LLC",COM
+60999,"Catalyst Paper Operations, Inc",IND
+60998,Utica Aero Solar Max,I
+60996,OEE XXV LLC,IND
+60995,Tarrant Regional Water District,P
+60994,"IGS Solar I, LLC",Q
+60993,Goya Foods Inc.,IND
+60991,"Westmont Solar, LLC",Q
+60990,"Cline Solar, LLC",Q
+60989,Prudential Insurance Company of America (NJ),COM
+60987,Lanikuhana Solar LLC,Q
+60986,"Imperial Valley Solar 2, LLC",Q
+60982,RE Maplewood LLC,Q
+60980,"BWC French River, LLC",Q
+60979,"BWC Salmon Brook, LLC",Q
+60978,"SP Solar 5, LLC",Q
+60975,"SR Innovation, LLC",IND
+60973,Energy Keepers Inc,Q
+60972,NRG DG Lakeland LLC,Q
+60971,NYC ENERGY LLC,IND
+60970,SunShare Management,Q
+60969,Hog Creek Wind Project LLC,IND
+60968,Delphinus Community Solar,Q
+60967,Crater Community Solar,Q
+60963,"Odyssey Solar, LLC",Q
+60962,"Saluda Solar II, LLC",Q
+60961,"Gemini Technologies Services, Inc.",COM
+60960,Deutsche Bank,COM
+60959,Scatter Solar - Mashpee Landfill,Q
+60958,Ohio River Partners Shareholder LLC,Q
+60955,"Summit Water Nexus, Mount Holly, LLC",Q
+60953,"Farmingdale Fuel Cell, LLC",Q
+60952,Mt. Jackson Solar LLC,Q
+60950,USPS LA Solar FiT A & B,Q
+60947,Tesla Inc.,COM
+60944,"Bluff Point Wind, LLC",I
+60932,Wrighter Energy LLC,Q
+60931,Stourbridge Energy LLC,Q
+60930,Red Glen Energy LLC,Q
+60929,Mineral Point Energy LLC,Q
+60928,Holdridge Energy LLC,Q
+60927,Anchor Energy LLC,Q
+60926,"Hatfield Renewables, LLC",Q
+60925,"Pleasantdale Road Solar, LLC",Q
+60924,"Upton Solar, LLC",Q
+60923,"Theodore Drive Solar, LLC",Q
+60922,"Belchertown Renewables, LLC",Q
+60921,"Farley Road Solar, LLC",Q
+60920,"Peterson Road Solar, LLC",Q
+60919,"Sampson Road Solar, LLC",Q
+60917,"Golden Hills Solar, LLC",Q
+60916,"SR Kersey, LLC",Q
+60911,"Town of Stafford, CT",M
+60910,"Sun Farm V, LLC",IND
+60905,ETCAP NES CS MN 03 LLC,Q
+60904,ETCAP NES CS MN 06 LLC,Q
+60901,ETCAP NES CS MN 12 LLC,Q
+60900,"Smith Creek Hydro, LLC",Q
+60899,"Bear Creek Solar Center, LLC",Q
+60898,Axium US Solar Holdings LLC,Q
+60897,Salinas Valley Solid Waste Authority,M
+60890,"US Dept of Army, Garrison, APG",IND
+60888,"GCL New Energy, Inc.",Q
+60886,"Gray Hawk Solar, LLC",Q
+60883,NY - PRESBYTERIAN HOSPITAL-525 E 68TH ST,COM
+60882,"Red Dirt Wind Project, LLC",Q
+60881,"Thunder Ranch Wind Project, LLC",Q
+60880,The Biltmore Company,Q
+60879,"NGI-Kayenta Solar Lessor I, LLC",Q
+60878,"Green Beanworks B, LLC",Q
+60877,"Antelope DSR 3, LLC",Q
+60876,"Antelope Expansion 2, LLC",Q
+60875,Wolf Run Energy LLC,Q
+60874,Niles Valley Energy LLC,Q
+60871,"Stuttgart Solar, LLC",Q
+60865,"CD Global Solar Holdings, LLC",Q
+60864,Glopak Corporation,IND
+60863,"ACE-Stanton A, LLC",Q
+60862,"ACE-Stanton, LLC",Q
+60859,Redbed Plains Wind Farm LLC,Q
+60858,"433 Purchase Solar NG, LLC",I
+60857,"350 Clark Solar NG, LLC",I
+60853,ET CAP OR HOLDINGS LLC,C
+60851,North Side Energy Company,Q
+60850,"Green Beanworks D, LLC",Q
+60849,"Green Beanworks C, LLC",Q
+60848,"Spencer Farm, LLC",COM
+60847,"West Fork Wind, LLC",Q
+60846,"GRP Madison Renewable Energy Facility, LLC",Q
+60844,"Flat Top Wind I, LLC",Q
+60842,"Paradise Solar Urban Renewal, LLC",Q
+60837,"Neuse River Solar Farm, LLC (NRSF)",COM
+60836,"NTE Connecticut, LLC",Q
+60835,"NTE Carolinas II, LLC",Q
+60834,Pima Energy Storage System,Q
+60833,"Finger Lakes Solar I, LLC",Q
+60832,Sugar River Power LLC,Q
+60831,Argo Navis Community Solar,Q
+60830,Lyra Community Solar,Q
+60829,Caelum Community Solar,Q
+60828,Andromeda Community Solar,Q
+60827,Carina Community Solar,Q
+60826,Capella Community Solar,Q
+60825,Corvus Community Solar,Q
+60824,Antares Community Solar,Q
+60823,Pegasus Community Solar,Q
+60822,Taurus Community Solar,Q
+60821,Olsen Power Partners,Q
+60819,Rush Springs Wind Project,Q
+60818,"J.T. Hobby and Son, Inc.",COM
+60817,Winton Solar 2 LLC,COM
+60816,Boston Medical Center,COM
+60815,Shavano Falls Hydro LLC ? Shavano Project,Q
+60814,Drop 5 Hydro LLC,Q
+60813,Shavano Falls Hydro LLC - Drop 4 Project,Q
+60812,Merck - Upper Gwynedd Solar Array,IND
+60811,"Golden Hills Interconnection Wind, LLC",Q
+60799,33UI 8me LLC,IND
+60798,69SV 8me LLC,IND
+60797,68SF 8me LLC,IND
+60796,91MC 8me LLC,IND
+60795,Columbus Solar Project,C
+60793,EE Waianae Solar Project LLC,Q
+60792,"BCC Solar III, LLC",COM
+60790,Clarkstown Solar LLC,Q
+60789,Nautilus Power LLC,Q
+60779,"Black River Hydroelectric, LLC",Q
+60777,MILL SOLAR 1 LLC,COM
+60776,Aksamit Resource Management,Q
+60771,Marcus Hook 50 L.P,Q
+60768,Mammoth Plains Wind Project,Q
+60761,HSEA PR ISLA SOLAR III LLC,Q
+60755,"Phelps 158 Solar Farm, LLC",Q
+60753,"Punta Lima Wind Farm, LLC",Q
+60752,RB Manufacturing LLC,IND
+60751,"Tolson Solar, LLC",Q
+60750,"Bear Poplar Solar, LLC",Q
+60749,"Wadesboro Solar, LLC",Q
+60748,"Salisbury Solar, LLC",Q
+60747,"Gamble Solar, LLC",Q
+60746,"Bedford Solar, LLC",Q
+60741,Fortistar Castleton Power,Q
+60740,Gulf Coast Solar Center III (CA),Q
+60739,Gulf Coast Solar Center II (CA),Q
+60738,Gulf Coast Solar Center I (CA),Q
+60736,"Bio Energy Washington, LLC",IND
+60735,"Pristine Sun Fund 8, LLC",Q
+60734,"Elizabeth Mines Solar 1, LLC",Q
+60733,Quichapa 3 LLC,COM
+60732,Quichapa 2 LLC,COM
+60731,Quichapa 1 LLC,COM
+60730,"Bakersfield Industrial PV 1, LLC",Q
+60729,"Bakersfield PV 1, LLC",Q
+60728,"Delano Land 1, LLC",Q
+60727,"Manteca Land PV, LLC",Q
+60723,VRF Battery Plant,I
+60720,Martinsdale Wind Farm LLC,Q
+60719,Broadlands Wind Farm LLC,I
+60718,"Energy Resources USA, Inc.",I
+60714,Burke Wind LLC,Q
+60713,Ku'ia Solar LLC,Q
+60712,South Maui Renewable Resources LLC,Q
+60711,"Battle Mountain SP, LLC",IND
+60710,"Marie's Way Solar I, LLC",Q
+60709,"Sampson Solar, LLC",COM
+60708,"Railroad Farm 2, LLC",COM
+60707,"Old Wire Farm, LLC",COM
+60706,"Mills Anson Farm, LLC",COM
+60705,"Laurinburg Farm, LLC",COM
+60704,"Kinston Davis Farm, LLC",COM
+60703,"Fisher Solar Farm, LLC",COM
+60702,"Delco Farm, LLC",COM
+60701,"Wadesboro Farm 1, LLC",COM
+60700,"Tripple State Farm, LLC",COM
+60699,"Stone Solar, LLC",COM
+60695,Lemond Solar Center LLC,Q
+60694,Washburn Wind Energy LLC        ,Q
+60693,Saratoga Wind Energy LLC,Q
+60692,Ameresco BWC Wading River LLC,Q
+60691,"AES LAWAI SOLAR, LLC",Q
+60690,"Foundation CA Fund VIII Manager, LLC",Q
+60688,"FGE Goodnight, LLC",Q
+60687,Alpine Pacific Utilities Hydro,I
+60685,Novel Energy Solutions,Q
+60676,New York Presbyterian Hospital,COM
+60675,Montefiore-Westchester Square,COM
+60672,Birdsboro Power LLC,Q
+60669,Laertes Solar LLC,Q
+60667,Aksamit Energy Development,Q
+60662,WCAC Operating Company,Q
+60661,Midwest Power Partners LLC,I
+60660,Catalyst Paper - Biron Mill,IND
+60659,"Hickory Run Energy, LLC",Q
+60658,Pacific Ethanol Stockton,COM
+60657,"Torrance Refining Company, LLC",IND
+60656,Chestnut Solar LLC,COM
+60655,"Bullock Road Solar 1, LLC",Q
+60654,"Stafford St Solar 3, LLC",Q
+60653,"Stafford St Solar 2, LLC",Q
+60652,"Stafford St Solar 1, LLC",Q
+60651,"Spring Street Solar 1, LLC",Q
+60650,"Brook Street Solar 1, LLC",Q
+60649,"Redbrook Solar 1, LLC",Q
+60648,"SCDA Solar 1, LLC",Q
+60646,"Reading Wind Energy, LLC",COM
+60645,OEE XXIII LLC,IND
+60644,OEE XXIV LLC,IND
+60643,Artemis Solar LLC,Q
+60642,"Dunn Paper East Hartford, LLC",IND
+60641,Veolia NA - Municipal & Commercial Business,IND
+60640,"Brick Standard, LLC",Q
+60639,AEP Renewables,Q
+60638,"Victoria WLE, LP",Q
+60637,"Sentinel Peak Resources California, LLC",IND
+60636,"SolaireHolman 1, LLC",Q
+60635,Northern Cardinal Solar LLC,Q
+60634,AEM Wind LLC,Q
+60633,"Iron Horse Battery Storage, LLC",Q
+60630,"Solar Star California XLVIII, LLC",Q
+60621,"WED Portsmouth One, LLC",COM
+60620,Elizabethtown Solar LLC,COM
+60619,"Whitney Point Solar, LLC",Q
+60618,"Lindberg Field Solar 2, LLC",Q
+60617,"Buckthorn Wind Project, LLC",Q
+60616,"Atkinson Farm, LLC",COM
+60614,"Westside Solar, LLC",Q
+60612,"Florence Solar W3-080, LLC",Q
+60611,"Darlington Solar, LLC",Q
+60610,"OSLH, LLC",Q
+60609,"Clean Focus Renewables, Inc.",COM
+60608,Vitro Flat Glass LLC,Q
+60607,"Wildwood Solar II, LLC",Q
+60606,"Rio Bravo Solar II, LLC",Q
+60605,"Rio Bravo Solar I, LLC",Q
+60604,"Mountain Lion Solar, LLC",Q
+60603,"Eisenhower Solar, LLC",Q
+60602,"Tyler Solar, LLC",Q
+60601,"River Otter Solar, LLC",Q
+60600,"Adams Solar, LLC",Q
+60599,"Washington Solar, LLC",Q
+60597,"Violet Solar, LLC",Q
+60596,"Western Grid Development, LLC",Q
+60595,"Spartan PV 1, LLC",Q
+60594,Vega Community Solar,Q
+60593,Spica Community Solar,Q
+60592,Morgan Community Solar,Q
+60591,Mapleton Community Solar,Q
+60590,Gemini Community Solar,Q
+60589,Centaurus Community Solar,Q
+60588,Aries Community Solar,Q
+60587,Antlia Community Solar,Q
+60586,Westlake Chemical Natrium Plant,IND
+60584,Onyx Asset Services Group,Q
+60582,Kettle Butte Dairy LLC,I
+60581,"Dublin Solar I, LLC",Q
+60580,"Community Renewables, LLC",Q
+60578,"CCC Hastings Renewable Energy, LLC",Q
+60577,,Q
+60573,Oak Leaf Solar V LLC,Q
+60572,AlsoEnergy,COM
+60571,AEP Onsite Partners,Q
+60569,"Lincoln Land Wind, LLC",I
+60568,Sugar Creek Wind One LLC,I
+60567,"Green Energy Machine, LLC",Q
+60564,GP Center Holdings LLC,COM
+60562,"Oliver Wind III, LLC",Q
+60561,Nippon Dynawave Packaging Co.,IND
+60560,"Big Blue Wind Farm, LLC (TX)",Q
+60558,"Rock County Energy Center, LLC",Q
+60557,"PB Nutclif Master, LLC",COM
+60556,"Fusion Solar Centre, L.L.C",Q
+60545,"City of Auburn, New York",M
+60543,"Dermott Wind, LLC",Q
+60542,"Willow Springs Windfarm, LLC",Q
+60541,Ameresco Glendale Road Solar PV LLC,Q
+60540,31st Street Energy LLC,Q
+60539,Will County Energy LLC,Q
+60538,Vitro Architectural Glass,IND
+60537,"Deerfield Wind Energy, LLC",Q
+60536,Pavant Solar III LLC,Q
+60534,Halifax Solar LLC,Q
+60533,Carl Friedrich Gauss Solar LLC,Q
+60532,Bernhardt Furniture Company,IND
+60530,"Nexamp Peak, LLC",Q
+60529,"Sutton Solar, LLC",Q
+60527,Milestone Wildomar LLC,Q
+60526,"Alternative Power Development Northwest, LLC",Q
+60525,"Solar Star California, XLIV, LLC",Q
+60524,"Pico Energy, LLC",COM
+60523,Springfield Project Development LLC,Q
+60521,Equity Industrial Turbines,Q
+60520,SoCore Energy LLC,Q
+60519,"Williams Solar, LLC",Q
+60518,"California PV Energy 2, LLC",Q
+60517,126 Grove Solar LLC,Q
+60516,NES Rutgers LLC,COM
+60515,Astra Wind LLC,Q
+60514,"Iron Horse Solar 1, LLC",Q
+60513,"Bird Machine Solar Farm, LLC",Q
+60511,"SR Houston Holdings, LLC",Q
+60508,"UGI Energy Services, LLC",IND
+60507,"Fresh Air Energy XXXV, LLC",I
+60505,"Kokomo Solar 1, LLC",Q
+60504,Rockford Generation LLC,Q
+60503,Aurora Generation LLC,Q
+60501,Farmington Holdco LLC,Q
+60496,Enerparc Inc.,Q
+60495,"Sunpin Holdings, LLC",Q
+60493,Walton Bainbridge LLC,Q
+60492,Walton Discover LLC,Q
+60491,Forest Lake Holdco LLC,Q
+60490,"Pine Island Holdco, LLC",Q
+60489,Big Lake Holdco LLC,Q
+60488,"Hwy 14 Holdco, LLC",Q
+60487,Wabasha Holdco LLC,Q
+60486,Webster Holdco LLC,Q
+60485,Dodge Holdco LLC,Q
+60484,"Bashaw Solar 1, LLC",Q
+60483,"Shotco Energy, LLC",Q
+60481,Northwestern Lake Forest Hospital,IND
+60480,Catawba Solar LLC,COM
+60479,"Iron Horse Solar 4, LLC",Q
+60478,South Atlantic Services Inc,IND
+60477,LaFrontera Holdings LLC,Q
+60476,"Bluebell Solar, LLC",Q
+60475,Mariah Holdings II LLC c/o CAMS,Q
+60473,Renovo Energy Center,Q
+60472,Tungsten Mountain,COM
+60471,"Mt. Tom Solar, LLC",Q
+60467,Royal Wine Corp,IND
+60466,Rowan Solar NC LLC,
+60465,"McGoogan Farm, LLC",COM
+60464,"Hew Fulton Farm, LLC",COM
+60462,Community Foodbank of NJ,I
+60461,"LSDP 11, LLC",Q
+60460,CXA Sundevil Power II,Q
+60459,CXA Sundevil Power I,Q
+60458,South Fork Wind LLC,
+60456,"Apple Blossom Wind, LLC",Q
+60455,"PVN Milliken, LLC",Q
+60454,"Williamston Speight Solar, LLC",Q
+60453,Novatus Energy,Q
+60452,Victory Solar LLC,Q
+60451,"Roper Farm, LLC",COM
+60449,KDC Solar PFI LLC,Q
+60448,Simcoe Solar,Q
+60447,KDC Solar GRQ LLC,Q
+60446,KDC Solar Bergen 1,Q
+60445,"SEPV Imperial, LLC",Q
+60444,Argonne National Laboratory,F
+60443,"Rattlesnake Power, LLC",Q
+60442,New Colony Wind LLC,Q
+60441,Green Cow Power LLC,IND
+60440,Northfield Community Solar,Q
+60439,Orion Community Solar,Q
+60438,Paynesville Community Solar,Q
+60437,Rosemount Community Solar,Q
+60436,Sunrise Community Solar,Q
+60435,Ursa Community Solar,Q
+60434,Chisago Community Solar,Q
+60432,"Middle River Power II, LLC",Q
+60431,"MRP Generation Holdings, LLC",Q
+60430,Wind Colebrook South,Q
+60428,"Green City Recovery, LLC",IND
+60424,"Rincon Solar I, LLC",Q
+60423,RPMA Operations LLC,Q
+60422,H.A. Wagner LLC,
+60421,Brandon Shores LLC,Q
+60417,Wallenpuapack Hydro,Q
+60416,,Q
+60415,"CP Crane Power, LLC",Q
+60413,"Rancho Seco Solar, LLC",Q
+60412,"Portal Ridge Solar, LLC",Q
+60411,"Friesian Holdings, LLC",Q
+60410,"Tanager Holdings, LLC",Q
+60409,"Blue Summit Storage, LLC",Q
+60408,Pierre Solar,Q
+60407,"Cimarron Bend Wind Project II, LLC",COM
+60406,"Cimarron Bend Wind Project I, LLC",COM
+60405,"FDS Coke Plant, LLC",IND
+60404,"Constellation Solar Arizona 2, LLC",Q
+60403,"TRS Fuel Cell, LLC",Q
+60401,"Tannery Road Solar, LLC",Q
+60400,"Phantom Solar, LLC",F
+60399,"GASNA 6P, LLC",Q
+60398,"Nixa Solar, LLC",Q
+60397,Osborn Wind Energy LLC,Q
+60396,Constellation New Energy Inc.,Q
+60395,"California Ethanol Power, LLC",IND
+60394,"Willey Battery Utility, LLC",Q
+60393,"Ridgeland Solar Farm I, LLC",Q
+60392,"Moffett Solar 1, LLC",Q
+60390,"North Nash Farm, LLC",COM
+60389,Rabbit Hill Energy Storage Project,Q
+60388,"Mission Rock Energy Center, LLC",Q
+60387,"Skylar Resources, LP",COM
+60385,Energy Nuevo Storage Farm,Q
+60384,"Javelina Wind Energy II, LLC",Q
+60383,Henrietta D Energy Storage LLC,Q
+60381,Sunflower Solar LLC,
+60380,Cork Oak Solar LLC,
+60379,"Howardtown Farm, LLC",Q
+60378,"Bunn Level Farm, LLC",COM
+60371,"Kingman Wind Energy, LLC",I
+60370,"DG AMP Solar, LLC",Q
+60369,City of Worcester DPW,M
+60368,"BRE NC Solar 4, LLC",Q
+60367,"BRE NC Solar 3, LLC",Q
+60366,"BRE NC Solar 2, LLC",Q
+60365,NRG Renew Canal 1 LLC,Q
+60364,Ninnescah Wind Energy LLC,I
+60363,"NRG Solar Mule, LLC",Q
+60359,Summit Farms LLC,Q
+60358,BC Solar,Q
+60356,Hexagon Energy,COM
+60353,"Solar Star California, XLI, LLC",Q
+60352,"Golden Fields Solar I, LLC",Q
+60350,"CPV Fairview, LLC",Q
+60349,"Juneau Hydropower, Inc",Q
+60348,"FL Solar 1, LLC",Q
+60347,"AL Solar A, LLC",Q
+60346,"Soluga Farms III, LLC",Q
+60345,"Meriwether Farm, LLC",Q
+60344,"Kojak Farm, LLC",Q
+60343,"Hector Farm, LLC",Q
+60342,"Wadesboro Farm 3, LLC",Q
+60341,"Wadesboro Farm 2, LLC",Q
+60340,"M&G Resins USA, LLC",C
+60338,HQC Rock River Solar Power Generation Station LLC,Q
+60336,SDGE Batteries,I
+60334,"SR Millington, LLC",Q
+60333,Peanut Solar LLC,Q
+60332,"Selmer North Solar II, LLC",Q
+60331,"Selmer North Solar I, LLC",Q
+60330,"SR South Loving, LLC",Q
+60328,Big Level Wind LLC,Q
+60327,"Southerland Farm Solar, LLC",COM
+60326,"Hattiesburg Farm, LLC",Q
+60307,NRG Solar Blythe II LLC,Q
+60304,"Innovative Solar 31, LLC",Q
+60303,"Innovative Solar 42, LLC",Q
+60302,"Wind GEM, LLC",Q
+60301,158th Fighter Wing,F
+60298,"Langdon Solar Farm, LLC",COM
+60297,"Limerick Road Solar, LLC",COM
+60295,University Of Arkansas,C
+60293,"DG Colorado Solar, LLC",Q
+60292,"Advanced Solar Power Holdings, Inc",Q
+60290,"Crocker Wind Farm, LLC",Q
+60289,"Blazing Star Wind Farm, LLC",Q
+60281,"Altus Power America Management, LLC",Q
+60280,"River Road Solar, LLC",Q
+60278,64KT 8me LLC,Q
+60277,54 KR 8me LLC,Q
+60271,"Longboat Solar, LLC",Q
+60270,"Clark Canyon Hydro, LLC",Q
+60268,Hartz Solar LLC,COM
+60267,Hartz Solar Hamilton LLC,COM
+60263,"SR Skylark B, LLC",Q
+60259,"Green River Wind Farm, LLC",Q
+60258,Paulding Wind Farm III LLC,Q
+60252,"Friendswood Energy Genco, LLC",Q
+60251,"GRP Franklin Renewable Energy Facility, LLC",Q
+60250,"DG Bethlehem Solar, LLC",Q
+60249,"Tenaska Pennsylvania Partners, LLC",Q
+60248,Agilon Energy LLC,Q
+60247,Sunray Energy 3 LLC,Q
+60246,"Sunray Energy 2, LLC",Q
+60245,Three Peaks Power LLC,Q
+60242,"Athens Energy, LLC",Q
+60240,"SEC CRSD Solar One, LLC",Q
+60239,"Oneida DG Solar, LLC",Q
+60238,Pavant Solar II LLC,I
+60237,"Whitakers Farm, LLC",COM
+60234,"Williamston West Farm, LLC",COM
+60231,"SEC LHNY Solar One, LLC",Q
+60230,"ORNI 47, LLC",COM
+60229,"Quail Holdings, LLC",Q
+60228,CoServ Electric,C
+60227,ORNI 37 LLC,COM
+60223,Ketchikan Electric Company,Q
+60222,"Haida Energy, Inc.",Q
+60221,North Slope LLC,I
+60217,San Bernardino Valley Mun. Water Dist.,M
+60209,"Roswell Solar, LLC",Q
+60208,Chaves Solar LLC,Q
+60207,"Pisgah Mountain, LLC",Q
+60206,"Solar Star California XL, LLC",Q
+60201,"Exum Farm Solar, LLC",
+60200,"Lincoln Solar, LLC",
+60199,"Innovative Solar 65, LLC",
+60198,"Kennedy Solar, LLC",
+60197,"St. Pauls Solar 1, LLC",
+60195,,Q
+60194,"Fuyao Glass Illinois, Inc",IND
+60193,"Tamworth Holdings, LLC",Q
+60192,"Warbler Holdings, LLC",Q
+60191,"RE Barren Ridge 1, LLC",Q
+60190,"MC1 Solar Farm, LLC",Q
+60189,"SJA Solar, LLC",Q
+60185,"Nicolis, LLC",Q
+60184,"Tropico, LLC",Q
+60183,"SolNCPower10, LLC",Q
+60182,"SRJFC, LLC",Q
+60179,"Duroc Holdings, LLC",Q
+60177,"Solar Star Arizona XIII, LLC",Q
+60170,"Clean Energy Future-Lordstown, LLC",Q
+60168,"Shelby County Energy Center, LLC",Q
+60167,"Concord Blue Eagar, LLC",Q
+60166,Materials Innovation Recycling Authority,P
+60164,ILR Landfill,I
+60163,Soltage LLC,Q
+60162,Panda Hummel Station LLC,Q
+60160,Merlin One LLC,I
+60155,"Old Settler Wind, LLC",Q
+60154,White Street Renewables LLC,Q
+60153,Mendocino Forest Products,COM
+60150,"SunE DB42, LLC",Q
+60149,"Brady Wind II, LLC",I
+60148,"Brady Wind, LLC",I
+60147,"Enerparc Solar Development, LLC",Q
+60146,Ameresco Federal Solutions,COM
+60145,NRG Solar Las Vegas MB 2,Q
+60143,Bison Solar LLC,I
+60134,AltaGas Ripon Energy Inc.,Q
+60131,"South Field Energy, LLC",Q
+60130,"Albany Green Energy, LLC",Q
+60129,"Horse Creek Wind, LLC",Q
+60128,"Electra Wind, LLC",Q
+60127,"SSA Solar of NM 3, LLC",Q
+60125,"Providence Solar Center, LLC",Q
+60123,Southeast Alaska Power Agency,P
+60118,"83WI 8ME, LLC",Q
+60112,"97WI 8ME, LLC",Q
+60110,"Augustus Farm, LLC",Q
+60107,"Mesquite Solar 3, LLC",I
+60106,"Mesquite Solar 2, LLC",I
+60104,"Howell Midland Farm, LLC",Q
+60100,"PSEG Keys Energy Center, LLC",Q
+60099,"MS Solar 3, LLC",Q
+60098,"MS Solar 2, LLC",Q
+60097,"San Isabel Solar, LLC",I
+60096,Calvert Energy LLC,Q
+60095,"High Pockets Solar, LLC",Q
+60094,"Clinton Battery Utility, LLC",Q
+60082,ECOsponsible LLC,Q
+60073,"St. Matthews Solar, LLC",Q
+60068,Red Horse III,Q
+60067,Westside Assets LLC,Q
+60064,"Clean Path Energy Center, LLC",Q
+60060,"SR Mavericks, LLC",Q
+60059,ZGlobal Inc,Q
+60058,Hollingsworth and Vose Co.,IND
+60054,Duke Energy Florida Solar Solutions,Q
+60050,"Halyard Energy Henderson, LLC",Q
+60047,Clean Water Services,M
+60046,"TPE Alta Luna, LLC",Q
+60044,"Bluestem Wind Energy, LLC",Q
+60042,Fluvanna Wind Energy LLC,Q
+60040,Hale Wind Energy,I
+60038,Silicon Valley Clean Water,M
+60036,SR Clinch,Q
+60035,"Michigan Wind 3, LLC",Q
+60026,"Yanceyville Farm 3, LLC",Q
+60025,Greenbacker Renewable Energy Corporation,Q
+60023,EONY Generation Limited,Q
+60018,"NET Power, LLC",Q
+60015,NRG Yield LLC,Q
+60010,Quincy Solar LLC,Q
+60009,Porter Solar LLC,Q
+60008,Melinda Solar LLC,Q
+60007,Flash Solar LLC,Q
+60006,"Charlotte Solar, LLC (NC)",Q
+60005,Buddy Solar LLC,Q
+60004,"Strata Roof 1, LLC",Q
+60003,Zero Waste Energy Development Company LLC,IND
+60002,"Halyard Energy Wharton, LLC",Q
+59999,"Rocksprings Val Verde Wind, LLC",Q
+59998,"Frontier Windpower, LLC",Q
+59997,Customized Energy Solutions,Q
+59996,"Long Farm 46 Solar, LLC",Q
+59994,General Motors-Lordstown,IND
+59992,"Caprock Solar 2, LLC",Q
+59991,"Caprock Solar 1, LLC",Q
+59980,NRG Walnut Creek LLC,Q
+59979,"Cotton Plains Wind I, LLC",Q
+59978,HXNAir Solar One LLC,
+59977,Hemlock Solar LLC,Q
+59976,"WestRock Mill Company, LLC",COM
+59973,Marshall Solar Energy Project,Q
+59969,Whitethorn Solar LLC,I
+59967,Phoenix Energy,Q
+59966,ESC Harrison County Power,Q
+59965,ESC Tioga County Power,Q
+59964,ESC Brooke County Power I,Q
+59963,"TWE New Bern Solar Project, LLC",
+59952,"Sugar Run Solar, LLC",Q
+59951,"Conetoe Solar, LLC",Q
+59946,"ADS Renewable Energy- Wolf Creek, LLC",Q
+59942,Argos Solar LLC,Q
+59941,"Innovative Solar 43, LLC",
+59939,"Floyd Solar, LLC",
+59938,"Cohen Farm Solar, LLC",
+59937,"Lemoore PV1, LLC",Q
+59936,,IND
+59928,Footprint Salem Harbor Development LP,Q
+59927,"PE Hydro Generation, LLC",Q
+59926,"Lake Lynn Generation, LLC",Q
+59925,"All Dams Generation, LLC",Q
+59924,Dynegy Hanging Rock Energy Facility,Q
+59923,Dynegy Fayette Energy Facility,Q
+59922,Dynegy Washington Energy Facility,Q
+59921,Lee County Generating Station,Q
+59920,Dynegy W H Zimmer,Q
+59919,Dynegy Miami Fort,Q
+59918,Dynegy Kincaid Generation,Q
+59917,Dynegy Dicks Creek,
+59916,Owen Solar LLC,Q
+59915,Star Solar LLC,Q
+59914,Sophie Solar LLC,Q
+59913,Minnie Solar LLC,Q
+59912,Amethyst Solar LLC,Q
+59911,Milo Solar LLC,Q
+59910,Audrey Solar LLC,Q
+59905,"OEE XIX, LLC",IND
+59904,Sun Devil Solar LLC,Q
+59903,Candace Solar LLC,Q
+59901,Yavi Energy LLC,Q
+59900,"Mesquite Creek Wind, LLC",Q
+59899,"OEE XVII, LLC",IND
+59898,"Kawailoa Solar, LLC",Q
+59895,Patheon Manufacturing Service LLC,IND
+59894,"HCE Johnston I, LLC",I
+59893,Northern Water Hydropower Enterprise,P
+59892,"UCI Fuel Cell, LLC",Q
+59885,"UIL Distributed Resources, LLC",Q
+59883,NRG Energy Gas & Wind Holdings Inc,Q
+59882,"Javelina Wind Energy, LLC",Q
+59881,Port Charlotte Energy LLC,Q
+59880,Pioneer Crossing Energy LLC,Q
+59879,Greenleaf Energy LLC,Q
+59878,Clean Fuel Partners Dane,Q
+59876,Lorin Industries,IND
+59875,Olin Blue Cube Operations,IND
+59874,Topaz Solar Farms LLC,Q
+59873,"Solar Star California XIX, LLC",Q
+59872,"Solar Star California XX, LLC",Q
+59871,"TX Jumbo Road Wind, LLC",Q
+59870,"Bishop Hill Energy II, LLC",Q
+59869,"Pinyon Pines Wind II, LLC",Q
+59868,"Pinyon Pines Wind I, LLC",Q
+59867,"Hood Container of Louisiana, LLC",IND
+59866,Electron Hydro LLC,Q
+59864,Willow Spring,Q
+59863,Prospector,Q
+59862,Durbin Creek,Q
+59861,Benson Creek,Q
+59860,Jett Creek,Q
+59849,Dinuba Energy,Q
+59845,"Blythe Solar IV, LLC",Q
+59844,"Blythe Solar III, LLC",Q
+59843,"Blythe Solar II, LLC",Q
+59842,"Blythe Solar 110, LLC",Q
+59840,Wallace Solar 2 LLC,COM
+59839,Sunflower Wind Project,I
+59838,"SunE DB27, LLC",Q
+59834,"GR Catalyst One, LLC",Q
+59833,PCA-Valdosta Mill,IND
+59831,"White Oak Solar, LLC",Q
+59828,Solid Waste Authority of Central Ohio,
+59827,"Ampersand Long Falls Hydro, LLC",I
+59826,"Syncarpha Bondsville, LLC",Q
+59825,"Neisler Street Solar I, LLC",Q
+59824,"Fisher Road Solar I, LLC",Q
+59823,"Syncarpha North Adams, LLC",Q
+59822,"Syncarpha Massachusetts, LLC",Q
+59819,"Fresh Air Energy X, LLC",Q
+59817,"Cedar Bluff Wind, LLC",Q
+59806,"Grand View PV Solar Two, LLC",Q
+59805,"BWC Swan Pond River, LLC",Q
+59804,"Federal Road Solar 1, LLC",Q
+59803,"White Pine Solar, LLC",Q
+59802,"Live Oak Solar, LLC",Q
+59792,"Los Vientos Windpower V, LLC",Q
+59791,Lindberg Field Solar I LLC,Q
+59790,"River Bend Solar, LLC",Q
+59789,"Avalon Solar Partners II, LLC",Q
+59788,Steel Bridge Solar. LLC,Q
+59787,Innovative Solar 16,
+59785,"Syncarpha Palmer, LLC",Q
+59784,"Innovative Solar 63, LLC",
+59783,"Innovative Solar 26, LLC",
+59782,"Innovative Solar 18, LLC",
+59781,TWE Chocowinity Solar,COM
+59780,"Golden Hills Wind, LLC",Q
+59778,Innovative Solar 10,COM
+59777,"Buckthorn Westex, LLC",Q
+59776,"Frontier Solar, LLC",Q
+59775,"Solar Star California XXXI, LLC",Q
+59774,Crawfordsville Energy LLC,Q
+59773,"SunE Solar XVI Lessor, LLC",Q
+59772,"SunE Solar XVIII Project 1, LLC",Q
+59771,Pecan Solar LLC,Q
+59770,"Shorthorn Holdings, LLC",Q
+59766,"SR Jenkins, LLC",Q
+59765,Eight Flags Energy LLC,Q
+59764,"Waipio PV, LLC",Q
+59762,"UGT Renewable Energy 13, LLC",Q
+59761,"McLean Homestead, LLC",Q
+59760,Findlay Wind Farm,Q
+59758,"American Falls Solar II, LLC",Q
+59757,American Falls Solar LLC,Q
+59756,"Orchard Ranch Solar, LLC",Q
+59755,"Murphy Flat Power, LLC",Q
+59745,First Solar Asset Management,Q
+59744,"Solar Star Colorado III, LLC",Q
+59736,Columbia Solar Energy LLC,I
+59735,"Enerparc CA2, LLC",Q
+59731,Windham Solar LLC,Q
+59730,"Carousel Wind Farm, LLC",Q
+59729,"Golden West Power Partners, LLC",Q
+59728,RE Astoria 2 LLC,Q
+59727,RE Astoria LLC,Q
+59724,"Pepperidge Farm, Inc.- Bloomfield",IND
+59718,West Chicago Battery Storage LLC,Q
+59717,Joliet Battery Storage LLC,Q
+59716,SunE DB24 LLC,I
+59714,Antrim Wind Energy LLC,Q
+59713,"Potrero Hills Energy Producers, LLC",I
+59712,AES Tait LLC,Q
+59711,Bakersfield 111 LLC,Q
+59710,"SR Camden, LLC",Q
+59707,"Conetoe II Solar, LLC",Q
+59698,"Sky Global Power One Pledgor, LLC",Q
+59695,"SunE Solar XVII Project 3, LLC",I
+59691,Meadowbrook Solar Farm LLC,Q
+59688,"FCPC Renewable Generation, LLC",P
+59687,AltaGas Sonoran Energy Inc,Q
+59686,Coronado Power Ventures LLC,Q
+59685,JPMorgan Chase Bank,COM
+59683,Rockwood Energy Center LLC,IND
+59681,Smithfield Solar LLC,COM
+59678,"KDC Solar PR1, LLC",Q
+59677,Middlesex Energy Center LLC,Q
+59675,Moxie Freedom LLC,Q
+59674,Albertson Solar LLC,Q
+59673,Choco Solar LLC,Q
+59672,"SunEnergy1-Scotland Neck, LLC",Q
+59669,Louisburg Solar LLC,COM
+59668,Mount Olive Solar LLC,COM
+59662,"Riverside Fuel Cell, LLC",Q
+59660,"Solar Star California XXXII, LLC",Q
+59654,Lowell Solar Landfill LLC,Q
+59653,Palmer Solar LLC,COM
+59652,Adams Community Solar Garden III LLC,Q
+59651,Adams Community Solar Garden LLC,Q
+59650,Pikes Peak Solar Garden 1 LLC,Q
+59648,Lockheed Martin Solar System,COM
+59646,Summit Texas Clean Energy,Q
+59638,"SolNCPower5, LLC",Q
+59637,"SolNCPower6, LLC",Q
+59636,HP Hood LLC,IND
+59634,North Star Solar PV LLC,Q
+59633,Great Bay Solar I LLC,COM
+59630,DeltaPro Energy Inc,IND
+59626,Northwest Community Hospital,Q
+59622,"Ahana Renewables, LLC",Q
+59621,North Carolina Renewable Power,Q
+59617,"Constellation Solar Georgia, LLC.",Q
+59616,"63SU 8me, LLC",Q
+59614,"Munich Reinsurance America, Inc",COM
+59612,GES MegaOne LLC,COM
+59611,Royal Solar,Q
+59610,TWE Laurinburg Solar,Q
+59609,TWE Kinston Solar,Q
+59604,Bulldog Energy Airport LLC,COM
+59603,SE Solarne2 LLC,Q
+59602,SH Solarne2 LLC,Q
+59601,Hunt Farm Solar LLC,Q
+59600,"Mohave Sunrise Solar I, LLC",Q
+59599,"Shoe Show, Inc.",Q
+59598,Tooele Army Depot,F
+59597,"Broome Energy Resources, LLC",Q
+59596,Industrial Power Services Corp.,Q
+59595,"Copper Mountain Solar 4, LLC",Q
+59594,Black Oak Wind Farm LLC,Q
+59593,NC Renewable Power - Lumberton LLC,Q
+59591,Town of Munster,M
+59589,Rockfish Solar LLC,I
+59570,"TWE Kelford Solar Project, LLC",Q
+59568,"United Water, Inc.",COM
+59561,"SunE Solar XVII Project 2, LLC",I
+59560,"SunE Solar XVII Project 1, LLC",I
+59553,VA Sepulveda Ambulatory Care Center,COM
+59550,Croda Inc.,IND
+59549,Targa Pipeline Mid-Continent West OK LLC,IND
+59546,"Nexamp Treasure Valley Solar, LLC",Q
+59545,"BWC Origination 4, LLC",Q
+59544,"SunE DM, LLC",Q
+59543,Heartland Community College,COM
+59542,Adams Farm Solar LLC,Q
+59541,Carroll County Energy LLC,Q
+59540,"SunE SEM 1, LLC",Q
+59539,BioTown Ag,IND
+59534,Oregon Clean Energy Center,Q
+59533,Facile Solar LLC,I
+59532,CAMS,Q
+59529,Robeson County Landfill,P
+59528,Veolia - Kendall Green Energy,Q
+59527,"Calpeak Operating Services, LLC",Q
+59526,State Correctnl Inst Laurel Highlands,COM
+59524,Seneca Generation LLC,Q
+59522,Chester Power Partners LLC,Q
+59520,"BWC Origination 5, LLC",Q
+59519,"TerraForm Solar XVII, LLC",Q
+59518,"Wilzig Associates, LLC",Q
+59514,"River Mountains Solar, LLC",Q
+59512,"Team-Solar, Inc.",Q
+59511,"South Street Solar, LLC",Q
+59508,"Barton Solar, LLC",Q
+59506,"Valentine Wind, LLC",Q
+59504,Kirkwood Community College,COM
+59503,Capital Dynamics,COM
+59502,"Green Pastures Wind II, LLC",Q
+59501,"Green Pastures Wind I, LLC",Q
+59500,"Sunny Templeton, LLC",Q
+59496,Allete Clean Energy,Q
+59495,Ameren Missouri,I
+59494,Fairhaven Wind LLC,Q
+59493,Scituate Wind LLC,Q
+59492,Seville Solar Two LLC,Q
+59491,Seville Solar One LLC,Q
+59490,"Neches Station, LLC",Q
+59489,Perennial-Wind Chaser LLC,Q
+59488,Charlotte Solar LLC,COM
+59487,"Moundsville Power, LLC",Q
+59484,Framingham State University,COM
+59483,Metropolitan Airports Commission,P
+59474,BQ Energy LLC,Q
+59473,"JC-Biomethane, LLC",Q
+59470,"Pocatello Solar 1, LLC",Q
+59469,"Mt. Home Solar 1, LLC",Q
+59464,Current Energy Group,Q
+59463,Narragansett Bay Commission,P
+59462,"Heelstone Energy Holdings, LLC",Q
+59458,Landfill Energy Systems Florida,Q
+59457,"Sun Harvest Solar, LLC",COM
+59455,"Venable Solar, LLC",Q
+59453,"NextSun Energy, LLC",Q
+59452,"Ingenco Renewable Development, LLC",Q
+59447,"Innovative Solar 64, LLC",Q
+59438,"Innovative Solar 53, LLC",Q
+59437,"Innovative Solar 48, LLC",Q
+59436,"Innovative Solar 47, LLC",Q
+59434,"Mattawoman Energy, LLC",Q
+59432,Clear Creek Power,Q
+59429,"Comanche Solar PV, LLC",Q
+59428,"Sendero Wind Energy, LLC",Q
+59424,"SSA Solar of NM 4, LLC",Q
+59423,"SEPG Operating Services, LLC Effingham",Q
+59421,"SEPG Operating Services, LLC MPC",Q
+59417,"SEPG Operating Services, LLC ALS",Q
+59416,"SEPG Operating Services, LLC WCP",Q
+59415,"SEPG Operating Services, LLC Walton",Q
+59414,"Nelson Gardens Energy, LLC",Q
+59413,Crestmark Bank,Q
+59412,Tarboro Solar LLC,COM
+59409,Eco Services Corp.,F
+59407,FLS Solar 230 (Warren),Q
+59406,Mt. Olive Solar 1,Q
+59404,Seaboard Solar LLC,COM
+59403,Gaston Solar LLC,COM
+59402,Garysburg Solar LLC,COM
+59400,NRG Solar Roadrunner,Q
+59399,NRG Solar Blythe,Q
+59398,NRG Solar Avra Valley,Q
+59397,NRG Solar Alpine,Q
+59396,Agua Caliente Solar,Q
+59395,Philips Lightolier,IND
+59394,NextEra Energy Resources Breckinridge,Q
+59393,"Coronal Lost Hills, LLC",Q
+59388,"Charlton Solar I, LLC",Q
+59386,Ampersand Collins Hydro LLC,Q
+59384,Avalon Solar,Q
+59381,EE Kettleman California LLC,Q
+59380,"Enel Green Power NA, Inc.",Q
+59371,Mainline Generation LLC,Q
+59370,"ENERGYneering Solutions, Inc",Q
+59369,"HXOap Solar One, LLC",Q
+59368,"Calpine Fore River Energy Center, LLC",Q
+59366,"EnLink Midstream Services, LLC",IND
+59365,Capital Power Corporation,Q
+59364,Safe Harbor,Q
+59363,"Silver State Solar Power South, LLC",Q
+59362,Jericho Rise Wind Farm LLC,Q
+59360,Clarkson Solar LLC,COM
+59359,"BHE Renewables, LLC",Q
+59358,"REUT Origination, LLC",I
+59357,Navasota Energy Generation Holdings,Q
+59356,SSA Solar of NY LLC,Q
+59354,"LKL BLBD, LLC",Q
+59353,"AP North Lake I, LP",Q
+59352,Soul City Solar,Q
+59351,Vicksburg Solar,Q
+59350,Stagecoach Solar,Q
+59349,Walters Solar (FLS 260),Q
+59348,WestRock (WA),IND
+59346,"Colton Solar Two, LLC",Q
+59345,"Colton Solar One, LLC",
+59344,Energy Transfer Field Services LLC,IND
+59343,"Maricopa East Solar PV, LLC",Q
+59340,"Stikeleather Farm, LLC",Q
+59338,"Spring Valley Farm 2, LLC",Q
+59332,"Yadkin 601 Farm, LLC",Q
+59331,"Woodland Church Farm, LLC",Q
+59329,"Wellons Farm, LLC",Q
+59328,"Tart Farm, LLC",Q
+59326,"Stout Farm, LLC",Q
+59324,Franklin Solar 2 LLC,Q
+59322,"Misenheimer Farm, LLC",Q
+59320,"Manway Solar, LLC",Q
+59319,"Cotton Solar, LLC",Q
+59318,Soy Solar LLC,Q
+59316,Whitetail Solar LLC,Q
+59308,"Bearford Farm, LLC",Q
+59307,"Ashley Solar Farm, LLC",Q
+59306,"Keen Farm, LLC",Q
+59305,"Hutchinson Solar, LLC",Q
+59304,"Foxfire Farm, LLC",Q
+59303,"Eastover Farm, LLC",Q
+59302,"Crockett Farm, LLC",Q
+59300,PNM Resources,I
+59298,"Vega Solar, LLC",COM
+59290,Solvida Energy Group/Blue Oak Energy,Q
+59289,"Everetts Wildcat Solar, LLC",Q
+59288,"Creswell Alligood Solar, LLC",Q
+59287,Laurel Capital Partners,Q
+59286,Heliovaas LLC,COM
+59284,"Kona Solar, LLC",Q
+59275,CF SBC Master Tenant One LLC,Q
+59274,"SR Hazlehurst, LLC",Q
+59273,"62SK 8me, LLC",Q
+59272,"41MB 8me, LLC",Q
+59263,"Fresh Air Energy XVIII, LLC",I
+59262,"NRG Solar Oasis, LLC",Q
+59261,"Colonial Eagle Solar, LLC",Q
+59260,,Q
+59258,"Five Points Solar Park, LLC",Q
+59257,"Giffen Solar Park, LLC",Q
+59254,NuGen Capital Management,Q
+59252,GRE 314 East Lyme LLC,Q
+59251,Brigham Young Univ Idaho,COM
+59247,,Q
+59245,Lanier Solar,Q
+59244,GEM Energy LLC,COM
+59241,Claire Solar Partners LLC,Q
+59240,"Clarendon Solar Farm, LLC",COM
+59239,Bannock County Landfill,P
+59238,Palo Duro Wind,Q
+59237,"Ulysses Solar, LLC",Q
+59235,"Cogentrix Development Holdings, LLC",Q
+59232,Kearsarge Solar LLC,Q
+59230,"DESRI V Mass Solar Holdco, LLC",Q
+59229,Denver Int'l Airport IV Solar,Q
+59228,"Bowerman Power LFG, LLC",Q
+59223,"BFI Waste Systems of GA, LLC",COM
+59222,Qualcomm Incorporated,COM
+59221,"Tech Park Solar, LLC",Q
+59220,"Valencia Solar, LLC",Q
+59219,Albany Medical Center,COM
+59218,East. Michigan Univ. Heating Plant,COM
+59217,"CBC Alternative Energy, LLC",COM
+59216,"S.C. Johnson & Son, Inc.",IND
+59215,"SA Solar Services, LLC",Q
+59214,"RE Cranbury Solar 1, LLC",Q
+59213,Maas Energy Works,COM
+59212,"Adelanto Solar II, LLC",Q
+59211,"Adelanto Solar, LLC",Q
+59209,"Half Moon Ventures, LLC",Q
+59208,NRG Solar Las Vegas MB-1,Q
+59206,"Downs Farm Solar, LLC",Q
+59205,"Baker Station Associates, LP",I
+59202,"SolNCPower1, LLC",Q
+59200,"Indy Airport Solar Project II, LLC",COM
+59199,"SolNCPower2, LLC",Q
+59195,Landfill Energy Systems,Q
+59192,"Amity Energy, LLC",Q
+59191,Humboldt Bay Harbor Rec & Con Dist,P
+59190,Plymouth State University,COM
+59188,Pleasant Hill Wind Energy LLC,I
+59187,Anaheim Public Utilities,M
+59186,Mesquite Lake Water & Power Plant 1,Q
+59185,"CD US Solar PO 3, LLC",COM
+59184,Humphrey Realty,C
+59183,Shafter Solar LLC,Q
+59182,Energy Operations Group LLC (MN),Q
+59180,Newman Solar LLC,I
+59178,"Brookfield Black Bear Hydro, LLC",Q
+59177,Petra Engineering,Q
+59176,Diamond Valley Solar LLC,Q
+59175,Searchlight Solar LLC,Q
+59174,"CD US Solar MT3, LLC",Q
+59173,City of Tulare Water Pollution Control,M
+59171,"Suncore Photovoltaics, Inc",COM
+59170,"North American Biofuels, LLC",Q
+59162,COMM Engineering,COM
+59160,"East Kansas Agri-Energy, LLC",COM
+59159,Central Electric Power,C
+59158,"Wildwood Solar I, LLC",Q
+59157,The Methodist Hospital,COM
+59156,Wapsie Valley Creamery,IND
+59155,"First Wind O&M, LLC",Q
+59153,"FLS Solar 80, LLC",I
+59150,Rose Hill Solar LLC,I
+59149,"Dunn Solar, LLC",I
+59148,BP Helios Plaza,IND
+59147,Broshco Fabricated Products,IND
+59146,Red Horse 2,Q
+59143,Old Mill Solar,Q
+59141,Devens,Q
+59140,"Dorena Hydro, LLC",I
+59139,SunEdison LLC,Q
+59138,"SunPower Corporation, Systems",COM
+59137,Palmer Renewable Energy,Q
+59136,Ampersand Hollow Dam Hydro LLC,Q
+59135,Inst and Envir Div Marine Logistics Base,F
+59129,"Foundation CA Fund VII Manager, LLC",Q
+59125,Marlboro Mushroom,COM
+59124,NTE Ohio LLC,Q
+59123,"NTE Carolinas, LLC",Q
+59122,The Medical Center Company,IND
+59121,"Pumpjack Solar I, LLC",Q
+59120,"Los Vientos Windpower IV, LLC",Q
+59119,"Los Vientos Windpower III, LLC",Q
+59117,"WED Coventry Six, LLC",Q
+59116,"WED Coventry Five, LLC",Q
+59115,NextEra Energy Seiling Wind,COM
+59108,"WED Coventry Four, LLC",Q
+59107,"WED Coventry Three, LLC",Q
+59106,"WED Coventry Two, LLC",Q
+59105,"WED Coventry One, LLC",Q
+59104,"Sequoia PV 2, LLC",Q
+59102,Wessington Wind,Q
+59101,"NTE Texas, LLC",Q
+59100,"Sunlight General Solar Fund II, LLC",Q
+59099,"New Dimension Energy Company, LLC",Q
+59098,Trishe Wind Ohio LLC,Q
+59097,WED NK Green LLC,COM
+59093,"Hidden View Dairy, LLC",COM
+59092,Ampersand Moretown Hydro LLC,Q
+59091,Hollister Solar LLC,Q
+59090,Mission Solar LLC,Q
+59089,Merced Solar LLC,Q
+59078,Fresh Air Energy VIII LLC,I
+59076,Fresh Air Energy VII LLC,I
+59069,CIP II/AR Bridgewater Holdings LLC,COM
+59063,"Camden Solar Center, LLC",Q
+59056,"Tri Global Energy, LLC",COM
+59050,Algonquin Power Co,Q
+59045,Eagle Springs Solar LLC,Q
+59042,Rising Tree Wind Farm III LLC,Q
+59041,Lone Valley Solar Park II LLC,Q
+59040,Rising Tree Wind Farm II LLC,Q
+59039,Arbuckle Mountain Wind Farm LLC,Q
+59027,Michelangelo Wind 4 LLC,Q
+59026,Michelangelo Wind 1 LLC,Q
+59025,Optimum Wind 3 LLC,Q
+59024,Optimum Wind 4 LLC,Q
+59022,Leonardo Wind 1 LLC,Q
+59021,Venus Wind 3 LLC,Q
+59019,Optimum Wind 7 LLC,Q
+59018,Optimum Wind 6 LLC,Q
+59017,Optimum Wind 5 LLC,Q
+59010,Rhubarb One LLC,Q
+59006,Calypso Farm LLC,Q
+59004,Sequoia PV 3 LLC,Q
+59002,Garland Farm LLC,Q
+58998,Chapman Ranch Wind LLC,Q
+58997,Soluga Farms 2 LLC,Q
+58996,Soluga Farms 1 LLC,Q
+58995,Vickers Farm LLC,Q
+58993,East Wayne Solar LLC,Q
+58992,"AgPower DCD, LLC",Q
+58986,AgriReNew,Q
+58985,Marion Solar LLC,Q
+58984,Winton Solar LLC,Q
+58983,Williamston Solar LLC,Q
+58982,Woodland Solar LLC,Q
+58981,Bethel Solar LLC,Q
+58980,Lewiston Solar LLC,Q
+58979,Windsor Solar LLC,Q
+58977,Bridgeport Disposal LLC,IND
+58976,"PsomasFMG Lancaster Solar Crest, LLC",Q
+58975,Jakana Solar,Q
+58971,Danskammer Energy,Q
+58970,"Ecoplexus, Inc",Q
+58969,Harvest Power Orlando LLC,Q
+58968,RE Mustang LLC,Q
+58962,"Fair Wind Power Partners, LLC",Q
+58961,United Therapeutics Corporation,COM
+58960,Timberline Energy LLC,Q
+58959,Freeport LNG Development L.P,IND
+58949,Hangar 160 LLC,Q
+58948,Manatee County Utilities Department,M
+58945,EthosEnergy Power Plant Services,Q
+58944,"Enerparc CA 1, LLC",Q
+58939,Cameron Wind 1 LLC,Q
+58929,Cape May County Municipal,M
+58927,Snow Hill Solar 2 LLC,Q
+58926,Anderson Farm LLC,Q
+58925,Moncure Farm LLC,Q
+58924,Martin Creek Farm LLC,Q
+58923,Kinston Solar LLC,Q
+58922,Daniel Farm LLC,Q
+58921,Bailey Farm LLC,Q
+58920,Redmon Solar Farm LLC,Q
+58919,Yanceyville Farm 2 LLC,Q
+58918,West Siler Farm LLC,Q
+58917,West Salisbury Farm LLC,Q
+58916,Springfield Solar 1 LLC,Q
+58915,Spicewood Solar Farm LLC,Q
+58912,Mount Olive Farm LLC,Q
+58911,Market Farm LLC,Q
+58908,Dragstrip Farm LLC,Q
+58906,Chauncey Farm,Q
+58905,NRG Energy Services - Plum Point,Q
+58901,Hydro Green Energy,Q
+58896,Siskiyou Power Authority,M
+58894,CF CVEC Owner One LLC,Q
+58893,Xeres Ventures LLC,COM
+58892,Wooster Renewable Energy LLC,
+58891,Jericho Power LLC,Q
+58889,"Dominion Cove Point LNG, LP",I
+58888,City of Pittsfield,M
+58887,Michelangelo Wind 3 LLC,Q
+58883,ERWR Whitcomb Farm Solar LLC,Q
+58881,Apex Bethel Energy Center,Q
+58880,Gallegos Wind Farm LLC,Q
+58879,651 Chase Solar NG LLC,Q
+58877,Blue Heron Hydro LLC,Q
+58873,Green Energy Team LLC,Q
+58872,Shannon Wind LLC,Q
+58871,Citizens Enterprises Corporation,Q
+58870,City Council of Baltimore City,M
+58869,Case Western Reserve University,Q
+58867,Kingston Wind Independence,Q
+58866,Ipswich Wind Independence,Q
+58865,Hoopeston Wind LLC,I
+58864,Lake County Solar LLC,Q
+58863,Main Street Power,COM
+58862,DC Water,M
+58860,Southbridge Recycling and Disposal Park,COM
+58850,Mariah del Sur LLC,Q
+58849,Mariah del Este LLC,Q
+58848,Green Energy Partners LLC,Q
+58847,Carlsbad Energy Center,Q
+58846,"Southeast Renewable Fuels, LLC",COM
+58845,Pine Tree Landfill,COM
+58844,Dept of Corrections NCCI Wind,P
+58843,Searchlight Wind Energy LLC,Q
+58842,Power Company of Wyoming LLC,Q
+58841,"Broken Bow Wind II, LLC",Q
+58840,"Copenhagen Wind Farm, LLC",Q
+58839,Central Valley Ag Power LLC,IND
+58837,Fairview Farms Solar LLC,I
+58835,Akron Energy Systems LLC,Q
+58828,St. Olaf College,COM
+58825,WE 90 Technology Drive LLC,COM
+58824,City of Santa Rosa,M
+58822,MC Power Companies Inc,Q
+58821,Camelot Wind LLC,Q
+58820,Shankle Solar Center LLC,Q
+58819,Graham Solar Center LLC,Q
+58818,BearPond Solar Center LLC,Q
+58817,"Rockville Solar II, LLC",Q
+58816,Dessie Solar Center LLC,Q
+58815,KDC Solar RTC LLC,Q
+58812,GLT Cloverdale Solar LLC,I
+58811,Ameresco Dallas LLC,Q
+58809,,Q
+58808,Rockville Solar I LLC,COM
+58804,Lake Erie Energy Development Corp,Q
+58803,"Gardner Solar 1, LLC",Q
+58802,"Walpole Solar 2, LLC",Q
+58801,"Integrys MA Solar, LLC",Q
+58800,Cross Pollination Inc,Q
+58798,Shell Chemical Appalachia LLC,IND
+58797,"Norsemen Wind Energy, LLC",Q
+58796,Trishe Wind Colorado,Q
+58795,Hamilton Wind Energy LLC,Q
+58794,American Wind Energy Management Corp.,Q
+58793,Missouri University of Science and Technology,S
+58790,"Copper Mountain Solar 3, LLC",Q
+58789,DOD USMC Marine Air Ground Combat,F
+58787,Sol Orchard San Diego 21 LLC,Q
+58786,Sol Orchard San Diego 20 LLC,Q
+58785,"Beebe 1B Renewable Energy, LLC",Q
+58784,"Fourmile Wind Energy, LLC",Q
+58783,Marseilles Land and Water Company,Q
+58776,Sol Orchard San Diego 23 LLC,Q
+58775,Sol Orchard San Diego 22 LLC,Q
+58773,Kingfisher Wind LLC,Q
+58772,MHI Wind Power,COM
+58771,Tri-County Water Conservancy District,S
+58770,Balko Wind LLC,Q
+58769,Sunlight General Somerset Solar LLC,Q
+58767,Temple University,IND
+58766,FGE Texas II LLC,Q
+58765,FGE Texas I LLC,Q
+58764,"Origis Energy USA, Inc",Q
+58761,White Camp Solar LLC,Q
+58760,FPC Services Inc.,Q
+58759,Perpetual Energy Systems,Q
+58758,CPV Smyth Generation Company LLC,Q
+58756,Albany Engineering Corporation,Q
+58754,Sunlight General Mercer Solar LLC,Q
+58753,Sunlight General Morris Solar LLC,Q
+58749,,IND
+58748,Clean Energy LLC,Q
+58745,Blandenboro Farm LLC,Q
+58744,Angier Farm LLC,COM
+58743,Garrell Solar Farm LLC,Q
+58740,Erwin Farm LLC,Q
+58738,Sigmon Catawba Farm LLC,Q
+58736,Wagstaff Farm LLC,COM
+58735,Waco Farm LLC,COM
+58732,Pate Farm LLC,COM
+58730,Nash 64 Farm LLC,COM
+58729,Nash 58 Farm LLC,Q
+58728,McKenzie Farm LLC,Q
+58726,Oakboro Farm LLC,Q
+58724,Castalia Solar LLC,COM
+58721,Solar Sudbury One LF LLC,Q
+58720,Enbridge,Q
+58718,Na Pua Makani Power Partners LLC,Q
+58716,"Windsor Cooper Hill Solar, LLC",Q
+58715,"Washington Millfield Solar, LLC",Q
+58714,"Washington Airport Solar, LLC",Q
+58713,"Dogwood Solar, LLC",Q
+58712,"Bethel Price Solar, LLC",Q
+58711,"Gato Montes Solar, LLC",Q
+58710,Lakeswind Power Partners,Q
+58709,Richland Center Renewable Energy LLC,IND
+58705,Washington Gas Energy Systems,I
+58702,,Q
+58701,Maine Township High School Dist 207,S
+58700,Port Arthur Steam Energy LP,IND
+58696,Ignite Solar Holdings LLC,I
+58695,Coronal Development Services,Q
+58694,"Argand Energy Solutions, LLC",Q
+58692,Florey Knob LLC,Q
+58689,Milan Energy LLC,Q
+58687,Bayles Energy LLC,Q
+58686,Alpaca Energy LLC,Q
+58685,Beaver Dam Energy LLC,Q
+58684,Hop Bottom Energy LLC,Q
+58682,WR-TGC Solar Generation IV LLC,Q
+58681,MSM Solar LLC,COM
+58677,CD US Solar MT1 LLC,Q
+58675,Delta-Montrose Electric Association,C
+58673,"Longhorn Holdings, LLC",Q
+58672,Everpower Wind Holdings Inc,Q
+58661,"Sustainable Power Group, LLC",Q
+58660,GreenWhey Holdings,COM
+58658,Sunlight Partners,I
+58655,"Orion Solar II, LLC",COM
+58654,Orion Solar I LLC,COM
+58653,Oxbow Creek Energy LLC,Q
+58652,Roundtop Energy LLC,Q
+58651,"Allegany Generating Station, LLC",Q
+58650,IHI Power Services Corp,Q
+58649,Solar Star Arizona II LLC,Q
+58643,Zeeland Farm Services,IND
+58639,Axio Green LLC,COM
+58638,"Lenape Solar II, LLC",Q
+58629,TIG Sun Energy I LLC,COM
+58628,ABEC Bidart-Old River LLC,Q
+58627,Puget Sound Hydro LLC,Q
+58625,"Black Oak Wind, LLC",Q
+58622,Costco Wholesale,COM
+58621,"SSA Solar of NM, LLC",Q
+58620,AEP Generation Resources Inc,I
+58618,Finley BioEnergy LLC,Q
+58617,Mahoning Creek Hydroelectric Company LLC,Q
+58615,NRG Homer City Services LLC,Q
+58611,Forest City Sustainable Resources Pearl City LLC,COM
+58610,"Celina Solar Project #1, LLC",COM
+58607,Frito Lay Incorporated Dayville,IND
+58606,Mauka Fit One LLC,Q
+58605,Holsum Elm Dairy,IND
+58604,US Air Force,F
+58602,Utah Red Hills Renewable Energy Park LLC,C
+58601,Waihonu South LLC,Q
+58600,Waihonu North LLC,Q
+58598,"Mass Solar, LLC",Q
+58597,"Enivromission, Inc",Q
+58596,Hanwha Q CELLS USA,COM
+58594,Rockford Solar Partners,Q
+58593,Sequoia PV 1 LLC,Q
+58591,CF Jersey Gardens Owner Two LLC,COM
+58590,SEDC Jersey Gardens Owner LLC,COM
+58583,Museum of Science and Industry,COM
+58581,"Lightning Dock Geothermal HI-01, LLC",Q
+58580,Simon Solar Farm LLC,COM
+58578,PPS Berkshire Solar LLC,IND
+58577,Northern Colorado Water Conservancy District,P
+58576,"Holstein Holdings, LLC",Q
+58575,"Sol Orchard Imperial 1, LLC",Q
+58574,Canton Mountain Wind LLC,COM
+58573,Transamerica Pyramid Properties LLC,COM
+58570,CF Gainesville Owner One LLC,COM
+58569,City of Rochester,M
+58568,"Westlands Solar Farms, LLC",Q
+58567,"Blue Renewable Energy IMS, LLC",Q
+58566,Abengoa Bioenergy Biomass of Kansas,Q
+58565,"Saddleback Ridge Wind, LLC",COM
+58564,Paramount Group Inc,COM
+58555,The University of Utah,S
+58553,PAR Petroleum,IND
+58551,Steele Flats Wind Project LLC,Q
+58550,"Indeck Energy-Alexandria, LLC",Q
+58549,County of Alameda GSA,IND
+58548,State of CA DGS BPM,S
+58547,Port of Tillamook Bay,P
+58546,Cascade Solar LLC,COM
+58545,Tuscola Wind II LLC,I
+58544,Sierra Nevada Brewing Co,IND
+58542,Trustees of Princeton University,COM
+58541,"Forbes Street Solar, LLC",Q
+58540,California PV Energy LLC,Q
+58539,Pheasant Run Wind LLC,Q
+58537,Fresh Air Energy IV LLC,I
+58536,Smithfield-Farmland Packaged Food Group,IND
+58535,Eagle Valley Clean Energy LLC,Q
+58534,Brayton Point Energy LLC,I
+58528,NextEra Energy Operating Services LLC,Q
+58527,Gettysburg Energy and Nutrient Rec Facility LLC,IND
+58526,Hometown Bio Energy LLC,Q
+58524,South Boston Energy LLC,C
+58523,Enerdyne Power Systems Inc,Q
+58521,University of Wisconsin Oshkosh Foundation,Q
+58520,"Huerfano River Wind, LLC",I
+58519,Clean Energy Collective LLC,Q
+58518,NRG Solar Community 1 LLC,Q
+58517,"SWG Arapahoe, LLC",Q
+58515,NextEra Energy Mountain View Solar,I
+58514,"Gilbert Solar Facility I, LLC",Q
+58511,SunGen Sharon 1 LLC,I
+58509,"Affordable Solar Silver City, LLC",Q
+58508,Carolina Solar Energy II LLC,Q
+58507,Solar Star Arizona III LLC,Q
+58506,Westford Solar Park,Q
+58503,Garnet Solar Generation Station I LLC,Q
+58502,"Uwharrie Mountain Renewable Energy, LLC",I
+58501,Five Crowns Inc,IND
+58500,City of Hayward,M
+58498,F H Stoltze Land & Lumber Co,IND
+58495,"Syncarpha Alethea I, LLC",Q
+58492,Chattanooga Metropolitan Airport,M
+58491,"Constellation Solar Holding, LLC",Q
+58490,Ironwood Solar LLC,Q
+58489,OCI Solar Power,Q
+58488,Alaska Environmental Power,Q
+58487,Montefiore Medical Center Moses Division,C
+58486,Chuckawalla Solar LLC,Q
+58485,"Rutgers, The State University of NJ",COM
+58477,"O2energies, Inc.",Q
+58473,"NVT LICENSES, LLC",COM
+58469,Tinton Falls Solar,Q
+58468,Dominion Renewable Energy,I
+58467,"SSA Solar of CO 1, LLC",Q
+58466,SunEnergy1,Q
+58465,"Green States Energy, Inc.",Q
+58464,City of Las Vegas,M
+58463,Dart Container Corp,IND
+58462,Battery Utility of Ohio LLC,Q
+58461,Buffalo Dunes Wind Project LLC,Q
+58460,Buena Vista Biomass LLC,Q
+58459,C-Drop,Q
+58453,AltaGas Blythe Operations Inc,Q
+58452,SMECO Solar LLC,C
+58451,"McCoy Solar, LLC",Q
+58449,"Wiota Wind Energy, LLC #1",Q
+58448,"Sky Volt, LLC",Q
+58447,"Meadow Ridge Wind Energy, LLC",Q
+58446,"Greenfield Wind Power, LLC",Q
+58445,"Forward Fontanelle Power, LLC",Q
+58444,"Cumberland Rose Wind Energy, LLC",Q
+58443,EBD Hydro LLC,Q
+58442,Dixon Dairy Road,COM
+58440,CD US Solar MT 2 LLC,Q
+58439,Junction Hilltop Management LLC,Q
+58438,Sunstream Energy LLC,COM
+58435,Collinwood BioEnergy,IND
+58434,City of Spearfish,M
+58433,"Ameresco Forward, LLC",Q
+58432,"Ameresco San Joaquin, LLC",Q
+58431,"Ameresco Vasco Road, LLC",Q
+58430,Gamesa Wind US LLC,Q
+58429,Houweling's Tomatoes,COM
+58428,UT West Tennessee Solar Farm,S
+58427,Centinela Solar Energy LLC,Q
+58426,Sunshine Gas Producers LLC,I
+58425,LSU and A&M College,S
+58422,Fire Island Wind LLC,Q
+58421,Panda Patriot O&M LLC,Q
+58420,Harbor Wind Tenant LLC,Q
+58418,State Fair Community College,COM
+58417,Panda Liberty O&M LLC,Q
+58416,"California State University, Northridge",S
+58413,Lone Valley Solar Park I LLC,Q
+58412,Headwaters Wind Farm LLC,Q
+58409,Future Power PA,Q
+58391,Chilocco Wind Farm LLC,Q
+58389,Luther College Wind Energy Project LLC,Q
+58388,Pantex (NNSA),F
+58387,Solar Star New Jersey VI LLC,Q
+58385,SR Enterprise South LLC,COM
+58384,Clemson University - Main Campus,S
+58383,CH4 Biogas LLC,Q
+58382,Ameresco Johnson Canyon LLC,Q
+58378,Jordan Hydroelectric LTD PTP,Q
+58376,IND Solar Farm,Q
+58375,Sterling Municipal Light Department,M
+58373,CU Solar LLC,COM
+58372,Riverside Investments LLC,Q
+58370,"TMF Biofuels, LLC",Q
+58368,"Doyon Utilities, LLC",I
+58366,Toro Energy of California SLO,Q
+58365,Petra Nova Power I LLC,Q
+58363,Oakley Solar Project LLC,COM
+58361,Triton College,Q
+58360,Blue Summit Wind LLC,Q
+58358,Light Beam Power Co LLC,Q
+58355,SPS Atwell Island LLC,Q
+58353,NextEra Energy Majestic Wind,Q
+58341,,IND
+58340,Tuscola Bay Wind LLC,I
+58338,Lakeside Beaver Falls LLC,Q
+58337,Lakeside Syracuse LLC,Q
+58336,McCallum Farm LLC,COM
+58335,Bolton Farm LLC,COM
+58334,Two Lines Farm LLC,COM
+58333,Rock Farm LLC,COM
+58332,Dibrell Farm LLC,COM
+58331,Mt Olive Farm 2 LLC,COM
+58330,AM Best Farm,COM
+58329,Yanceyville Farm LLC,COM
+58328,Wilson Farm 1 LLC,COM
+58327,White Cross Farm LLC,COM
+58326,Roxboro Farm LLC,COM
+58325,New Bern Farm LLC,COM
+58324,Moorings Farm LLC,COM
+58323,Moore Solar Farm LLC,COM
+58322,Mile Farm LLC,Q
+58321,Marshville Farm LLC,COM
+58320,Lenoir Farm 2 LLC,COM
+58319,Lenoir Farm LLC,COM
+58318,Haynes Farm LLC,COM
+58316,SSA Solar of NJ LLC,Q
+58315,SSA Solar of CA 2 LLC,Q
+58313,The Andersons Albion Ethanol LLC,IND
+58309,Radiance Solar LLC,I
+58304,Constellation Solar Maryland II LLC,Q
+58303,Energy Systems Group LLC,I
+58300,Ameresco Select Inc,S
+58298,FPL Energy Stateline II Inc,Q
+58290,"NextEra Energy Desert Sunlight 250, LLC",I
+58289,"NextEra Energy Desert Sunlight 300, LLC",I
+58287,Rain CII Carbon LLC,IND
+58286,Farrington Solar Farm LLC,COM
+58285,Watts Farm LLC,COM
+58284,Railroad Farm LLC,COM
+58283,Strata Fund 2 Lessee LLC,COM
+58282,Belwood Farm LLC,COM
+58281,Mocksville Lessee LLC,COM
+58280,Warrenton Farm LLC,COM
+58279,Chadbourn Farm LLC,COM
+58270,GE Wind Energy LLC,Q
+58269,Tulare PV II LLC,Q
+58268,Tulare PV I LLC,Q
+58264,"New-Indy, Oxnard LLC",IND
+58261,Arkwright Summit Wind Farm LLC,Q
+58258,SunRay Power LLC,Q
+58247,National Centers for Animal Health,F
+58245,"Patua Acquisition Company, LLC",Q
+58240,COT/Division of Water Reclamation,M
+58239,Desert Sky Solar LLC,I
+58238,Enfinity NorCal 1 FAA LLC,COM
+58233,Kalaeloa Solar Two LLC,Q
+58229,Howard County - Maryland,M
+58224,Westwood Generation LLC,Q
+58223,C&H Sugar Company Inc,IND
+58221,LES Operations Services LLC,S
+58220,Northeastern Illinois University,S
+58213,"New Britain Renewable Energy, LLC",Q
+58212,"Georgia Mountain Community Wind, LLC",Q
+58211,"Highlander Solar 1, LLC",Q
+58210,CPI USA NC Roxboro LLC,Q
+58209,CPI USA NC Southport LLC,Q
+58203,NRG Energy Center Eagles LLC,Q
+58202,Energy Alternatives Wholesale LLC,I
+58201,Milford Solar LLC,I
+58200,Prairie Lakes Municipal Solid Waste Auth,M
+58198,"Highlander Solar 2, LLC",Q
+58197,Newberry Solar 1 LLC,Q
+58195,Hoag Memorial Presbyterian Hospital,COM
+58194,E.B. Eddy Paper Inc,IND
+58190,Bluestem LLC,Q
+58188,Central Connecticut State University,S
+58187,Haviland Plastic Products Co,COM
+58186,GL Dairy Biogas LLC,Q
+58185,"FirstLight Power Resources, Inc. - MA",Q
+58183,J.R. Simplot Company,IND
+58182,SunE AZ2 LLC,COM
+58180,"Blackwell Wind, LLC",Q
+58179,Cinnamon Bay LLC,Q
+58178,GSA Metropolitan Service Center,F
+58176,Veolia Energy Kansas City,IND
+58174,Monroe Newpower Corporation,P
+58173,Almatis Burnside Inc.,IND
+58172,NRG Energy Center Phoenix LLC,S
+58171,University of California-San Francisco,COM
+58170,Cargill Salt Hersey,IND
+58167,Arkalon Ethanol LLC,C
+58166,Bonanza BioEnergy LLC,IND
+58164,"180 Raritan Energy Solutions, LLC",COM
+58163,Poet Biorefining Lake Crystal,IND
+58159,Penn State University,Q
+58157,Prairie Horizon Agri Energy LLC,IND
+58156,Rand Whitney Containerboard L.P.,IND
+58154,Hudson Valley Community College,S
+58153,US Magnesium,IND
+58152,Amherst College,Q
+58151,Loyola University Health System,COM
+58150,Big Blue Wind Farm LLC (MN),Q
+58149,Renewable World Energies LLC,Q
+58148,U.S. General Services Administration,F
+58146,Gaelectric LLC,Q
+58144,BMW Manufacturing Co LLC,IND
+58143,Cimarron Wind Energy LLC,Q
+58140,San Bernardino Comm College Dist,Q
+58138,The Trustees of Smith College,COM
+58137,The College of New Jersey,S
+58136,William Floyd School District,S
+58135,Ecos Energy LLC,Q
+58134,Cirrus Wind 1 LLC,Q
+58133,Mercy Medical Center,COM
+58132,Perrin Ranch Wind LLC,I
+58131,Wesleyan University,COM
+58130,University of Connecticut,S
+58129,Rock River Water Reclamation District,M
+58122,Eastern Maine Medical Center,COM
+58121,North Sky River Energy LLC,Q
+58120,Danbury Hospital,Q
+58115,"DTE Ashtabula, LLC",IND
+58113,"Texas A&M, Utilities & Energy Services",S
+58112,TA-High Desert LLC,Q
+58111,RE Kansas South LLC,Q
+58110,SUNY Old Westbury College,S
+58109,President & Trustees of Williams College,COM
+58108,"SunE AZ1, LLC",COM
+58107,University of Rochester,COM
+58106,Western Michigan University,COM
+58105,University of Redlands,COM
+58104,California State University at Fullerton,Q
+58103,Twin Rivers Paper Co LLC,
+58101,Solar Star California II LLC,Q
+58100,Middle Tennessee State University,COM
+58099,Emcor Energy Services,Q
+58098,New Energy One LLC,Q
+58097,Kent State University,S
+58093,Otter Creek Ethanol LLC - Poet Ashton,IND
+58090,NextEra Energy Resources Ensign Wind,Q
+58089,Adkins Energy LLC,Q
+58088,Washington White Post Solar LLC,Q
+58084,"Oberlin Spear Point Solar One, LLC",Q
+58083,"Outback Solar, LLC",Q
+58082,Prairies Edge Dairy Farms LLC,COM
+58081,Blue Mountain Biogas LLC,Q
+57503,Limon,Q
+57499,NRG Energy Services,COM
+57497,Golden State Energy LLC,COM
+57494,TDX North Slope Generating Inc.,I
+57492,Georgia-Pacific Toledo LLC,I
+57485,"Diamond State Generation Partners, LLC",Q
+57484,"Foundation CA Fund V Manager, LLC",Q
+57481,Red River Mill Intl Paper Company,IND
+57480,Heritage Garden Wind Farm I LLC,Q
+57477,Kern Oil & Refining Co,IND
+57476,Foundation CA Fund VI Manager LLC,Q
+57474,Bed Bath & Beyond,Q
+57470,"Noble Energy Systems, Inc.",Q
+57468,PRC-Desoto Intl Corp./PPG,IND
+57465,"Keystone Solar, LLC",Q
+57464,Kimberly-Clark Corporation,IND
+57463,Kimberly-Clark Worldwide Inc,IND
+57460,NextEra Wolf Ridge LLC,Q
+57457,"Newark Energy Center, LLC",Q
+57451,Rocky Ridge Wind Project LLC,Q
+57448,Frontier El Dorado Refinery LLC,IND
+57446,FRIT Solar Inc,COM
+57445,Pasadena Refining System Inc,IND
+57443,MWRA Charlestown,S
+57442,"PCA, Filer City Mill",IND
+57441,MARTA,IND
+57440,"SABIC IP Mt. Vernon, LLC",IND
+57439,Imperial Valley Solar Company 1 LLC,Q
+57438,Paramount Petroleum Corporation,IND
+57436,MillerCoors Shenandoah Brewery,IND
+57435,MillerCoors Irwindale Brewery,IND
+57434,T&M Limited Partnership,COM
+57432,ReEnergy Livermore Falls,Q
+57431,ReEnergy Biomass LLC,Q
+57430,"Berlin Station, LLC",Q
+57427,RockTenn-Battle Creek Mill,IND
+57425,,IND
+57423,PPG Monroeville Chemicals Center,IND
+57422,PPG Ind Fiber Glass Prdcts Inc,IND
+57421,BayWa r.e Wind LLC,Q
+57420,Jordache Enterprises,COM
+57419,SunE CPS1 LLC,I
+57417,Zephyr Wind LLC,I
+57416,"Acciona Energy USA Global, LLC",COM
+57414,Eli Lilly and Company,IND
+57413,Black Mountain Solar LLC,Q
+57412,Chisholm View Wind Project,Q
+57411,KDC Solar O&M LLC,COM
+57409,Buffalo Center Wind LLC,Q
+57408,Constellation Solar Arizona LLC,Q
+57407,Riverside Renewable Energy,COM
+57406,Deepwater Wind Block Island LLC,Q
+57405,NLH1 Solar LLC,Q
+57403,SunE CPS2 LLC,I
+57402,Spruce Mountain Wind LLC,COM
+57401,Mt Wachusett Community College,S
+57400,"Evergreen Community Power, LLC",Q
+57398,"Whitetail Wind Energy, LLC",Q
+57397,"Beebe Renewable Energy, LLC",Q
+57396,"High Mesa Energy, LLC",Q
+57395,"Shooting Star Power Partners, LLC",Q
+57391,"Copper Mountain Solar 2, LLC",Q
+57390,Siemens Government Technologies Inc,I
+57389,IKEA Property Inc,COM
+57386,SunE CPS3 LLC,I
+57384,Brea Power II,Q
+57383,Wasatch View Solar LLC,Q
+57379,PPG - O&M Panda Sherman Power LLC,Q
+57378,Granite Reliable Power,Q
+57377,PPG - O&M Panda Temple Power LLC,Q
+57372,Auwahi Wind Energy LLC,Q
+57370,NaturEner Rim Rock Energy LLC,Q
+57369,"Apple, Inc",COM
+57365,Consolidated Edison Solutions Inc,Q
+57363,Canadian Hills Wind LLC,Q
+57362,Energy 2001 Inc,Q
+57361,SunE EPE2 LLC,COM
+57360,SunE EPE1 LLC,COM
+57359,Richland-Stryker Generation LLC,Q
+57356,Alabama River Cellulose LLC,IND
+57355,Stephens Ranch Wind Energy LLC,COM
+57354,X-Elio North America Inc,Q
+57353,Plumas Sierra Rural Electric Coop,C
+57345,Butte-Glenn Community College District,S
+57344,Hampton Lumber Mills - Washington Inc,Q
+57341,Veolia Energy,IND
+57340,Cashton Greens Wind Farm LLC,Q
+57338,Musselshell Wind Project Two LLC,Q
+57337,Aegis Renewables LLC,Q
+57333,Musselshell Wind Project LLC,Q
+57332,Roquette America,IND
+57328,Shore Point Solar LLC,COM
+57326,NJ Oak Solar LLC,I
+57324,Michigan Sugar Company,C
+57320,Konoike Pacific,IND
+57319,Constellation Solar Massachusetts LLC,Q
+57318,Constellation Solar Net Metering LLC,Q
+57317,Wausau Paper Middletown,IND
+57315,Western Sugar Cooperative,C
+57314,"ADA Carbon Solutions (Red River), LLC",IND
+57311,Constellation Solar Federal LLC,Q
+57309,Holyoke Solar LLC,Q
+57306,Southern Illinois University Carbondale,S
+57305,Wright Patterson AFB,F
+57302,Sonoco Products Co,IND
+57301,Orchard Mesa Irrigation District,F
+57299,Spreckels Sugar Company,IND
+57296,Sidney Sugars Incorporated,COM
+57295,DTE Calvert City LLC,IND
+57285,Roseburg LFG Energy LLC,Q
+57282,Piedmont Green Power LLC,Q
+57281,University of Cincinnati,COM
+57280,Eagle Creek RE LLC,Q
+57276,Los Angeles Community College District,P
+57275,Metropolitan Transportation Authority,P
+57273,SS San Antonio West LLC,Q
+57272,Kootenai Electric Cooperative Inc,C
+57271,NRG Solar Borrego I,Q
+57262,Kern County Water Agency,S
+57260,CSOLAR IV West LLC,Q
+57259,Richmond Energy LLC,Q
+57258,Concord Energy LLC,Q
+57257,"Wildcat Wind, LLC",Q
+57256,"Harvest II Windfarm, LLC",Q
+57251,MM Tajiguas Energy LLC,Q
+57250,MM Prima Deshecha Energy LLC,Q
+57249,EPP Renewable Energy,Q
+57247,Pine Bend LLC,Q
+57242,Coyote Canyon Energy LLC,Q
+57235,MM San Diego Energy-North City,Q
+57232,MM Lopez Energy LLC,Q
+57231,MM Tulare Energy LLC,Q
+57230,MM Prince William Energy LLC,Q
+57229,MM Albany Energy LLC,Q
+57227,MM San Diego Energy-Miramar,Q
+57226,MM Taunton Energy LLC,Q
+57224,MM West Covina Energy LLC,Q
+57223,Sycamore Energy 1 LLC,Q
+57222,Liberty Utilities (CalPeco Electric) LLC,I
+57221,City of Columbia SC,M
+57219,Siete Solar LLC,I
+57215,Regents of the University of Minnesota,S
+57213,Castle Rock Cooling,COM
+57210,L'Oreal USA Products Inc,COM
+57202,E&E Enterprises LLC,Q
+57197,Santa Cruz Energy LLC,Q
+57194,City of Industry,M
+57191,Caney River Wind Project,Q
+57189,Hidden Hollow Energy LLC,Q
+57184,Ampersand Mount Ida Hydro LLC,Q
+57183,Shasta Renewable Resources LLC,Q
+57182,ReEnergy Sterling CT LP,Q
+57177,SEAI Elk Grove LLC,COM
+57176,WC Landfill Energy LLC,I
+57175,BC Landfill Energy LLC,I
+57174,SX Landfill Energy LLC,I
+57173,AC Landfill Energy LLC,I
+57172,SC Landfill Energy LLC,I
+57170,"EDF Renewable Asset Holdings, Inc.",Q
+57166,Woodbridge Energy Center,Q
+57165,"Otay Landfill Gas LLC c/o EPP Service Company, LLC",Q
+57160,DuPont Sabine River Works,IND
+57159,L-8 Solar Project LLC,COM
+57158,Ewington Wind Project,Q
+57154,Heliocentric LLC,COM
+57151,Celanese Acetate LLC,IND
+57148,Glendale Energy LLC,Q
+57146,Tulsa LFG LLC,Q
+57145,Louisiana Sugar Refining LLC,IND
+57144,Northbrook Carthage LLC,Q
+57142,Gundersen Lutheran Biogas I LLC,Q
+57141,Dynegy Kendall Energy LLC,Q
+57139,W&T Offshore Inc,IND
+57138,University of Minnesota WCROC,S
+57130,Janssen Pharmaceutical Co,I
+57128,Bloom Energy,COM
+57127,GL Wind LLC,Q
+57124,Nautilus Solar WPU LLC,Q
+57123,Middlebury College Biomass,COM
+57122,Lime Wind LLC,Q
+57120,OBP Cogen LLC,COM
+57112,RE Ajo 1 LLC,Q
+57109,St Joseph Energy Center LLC,Q
+57108,The County of Sonoma,M
+57107,RE Bagdad Solar 1 LLC,Q
+57106,"Peak Power 1, LLC",COM
+57104,Golden Springs Development Company LLC,Q
+57103,US GSA Heating and Transmission,F
+57101,FC Landfill Energy,I
+57081,"WGL Energy Systems, Inc",Q
+57079,Ameresco Butte County LLC,Q
+57078,Ecogy Pennsylvania Systems LLC,Q
+57077,Adams Electric Cooperative,C
+57075,Ridgeline Energy LLC,Q
+57073,"Solar Star California XV, LLC",COM
+57069,Power County Wind Park North LLC,Q
+57068,Power County Wind Park South LLC,Q
+57066,Coastal Community Action Program,Q
+57065,Constellation Solar Horizons LLC,Q
+57064,"Los Vientos Wind 1B, LLC",Q
+57063,"Los Vientos Wind 1A, LLC",Q
+57059,"SunE SPS4, LLC",COM
+57058,"SunE SPS5, LLC",COM
+57057,"SunE SPS3, LLC",COM
+57056,"SunE SPS2, LLC",COM
+57055,"SunE SPS1, LLC",COM
+57054,Suzlon Project VIII LLC,Q
+57053,Laurel Wind Energy LLC,Q
+57052,NRG Solar Arrowhead LLC,Q
+57051,Frederick County Virginia,M
+57050,TPW Petersburg LLC,Q
+57049,NFI Solar LLC,COM
+57047,BioFuels Point Loma LLC,COM
+57046,University of Minnestoa Morris Campus,S
+57045,Guadalupe Power Partners LP,Q
+57044,"Constellation Solar New Jersey, LLC",Q
+57043,University Park Energy LLC,Q
+57042,Gordon Butte Wind LLC,Q
+57041,Idaho Winds LLC,Q
+57036,Copper Mountain 1 LLC,Q
+57034,Watkins Manufacturing Corporation,IND
+57033,City of Palo Alto,M
+57032,UTAS Aerostructures,IND
+57031,Beacon Power LLC,Q
+57030,"Mesquite Solar 1, LLC",Q
+57029,Blue Water Renewables Inc,I
+57028,West Butte Wind Power LLC,Q
+57027,"Signal Hill Petroleum, Inc",IND
+57026,"NextEra Energy Montezuma Wind II, LLC",Q
+57024,"Vasco Winds, LLC",Q
+57021,FRV AE Solar LLC,Q
+57018,Turnbull Hydro LLC,Q
+57017,DOE National Renewable Energy Laboratory,F
+57015,Third Taxing District of Norwalk,M
+57011,"CS Murphy Point, LLC",Q
+57007,"SunE WF3-ST Holdings, LLC",COM
+57006,"SunE GIL1, LLC",COM
+57005,"SunE NLB-2, LLC",COM
+57004,Arlington Valley Solar Energy II LLC,Q
+57003,Arlington Valley Solar Energy LLC,Q
+57001,"Murphy Farm Power, LLC",Q
+56999,Western Massachusetts Electric Company,I
+56998,"Macys Corporate Services, Inc",COM
+56997,Marina Energy LLC,I
+56996,DCO Energy LLC,Q
+56995,"Sacramento PV Energy, LLC",Q
+56994,Carlisle Area School District,M
+56993,SBS Energy Partners LLC,I
+56992,Foxwoods Resort Casino,COM
+56991,Astoria Energy II LLC,Q
+56990,NJR Clean Energy Ventures Corporation,Q
+56989,SAF Hydroelectric LLC,Q
+56988,"Cimarron Windpower II, LLC",Q
+56987,RRE Austin Solar LLC,COM
+56984,"Temescal Canyon RV, LLC",COM
+56982,Kern Community College District,Q
+56981,Town of Falmouth,M
+56980,"Regulus Solar, LLC",Q
+56977,Zotos International,IND
+56976,"Constellation Solar New Jersey II, LLC",Q
+56975,"Constellation Solar Maryland, LLC",Q
+56974,"Denver Airport Solar, LLC",Q
+56972,"Vestas Towers America, Inc",Q
+56971,"500 Virginia Solar, LP",Q
+56968,Oregon State University,S
+56967,Ironwood Windpower LLC,Q
+56962,"Wolverine Wind Energy, LLC",Q
+56961,"Bulldog Wind Energy, LLC",Q
+56960,Gastonia City of,M
+56953,"Bos Dairy, LLC",COM
+56952,Lincoln Electric Company,IND
+56951,"Michigan Wind 2, LLC",Q
+56949,Paulding Wind Farm LLC,Q
+56948,Waverly Wind Farm LLC,Q
+56946,Hidalgo Wind Farm LLC,Q
+56945,Blue Canyon Windpower VI LLC,Q
+56944,Blackstone Wind Farm IV LLC,Q
+56943,Blackstone Wind Farm III LLC,Q
+56941,Meadow Lake Wind Farm V LLC,Q
+56940,Lexington Chenoa Wind Farm LLC,Q
+56939,Lexington Chenoa Wind Farm II LLC,Q
+56937,Rising Tree Wind Farm LLC,Q
+56936,Paulding Wind Farm II LLC,Q
+56935,Number Nine Wind Farm LLC,Q
+56934,Town Of High Point,M
+56930,"Foundation HA Energy Generation, LLC",Q
+56928,LSP University Park LLC,Q
+56927,Wallingford Energy LLC,Q
+56926,"Hatch Solar Energy Center I, LLC",Q
+56925,"FPLE Wind, LLC",Q
+56924,Long Island Solar Farm LLC,Q
+56918,University of California San Diego,S
+56917,,IND
+56916,PaTu Wind Farm LLC,Q
+56915,"Solar Star New Jersey IV, LLC",Q
+56914,Central Contra Costa Sanitary District,M
+56912,"V.H. Cooper & Co., Inc.",COM
+56909,Record Hill Wind LLC,Q
+56905,Algonquin Power Sanger LLC,Q
+56904,"RP-Orlando, LLC",Q
+56902,"RE SFCity1, LP",Q
+56899,Wind Stream Operations LLC,Q
+56898,Sunnyvale City of WPCP,M
+56895,Pio Pico Energy Center LLC,Q
+56892,Solar Star Colorado II LLC,COM
+56891,Shirley Wind LLC,Q
+56889,Rhode Island LFG Genco,Q
+56888,Brea Generation LLC,Q
+56887,CPV Sentinel LLC,Q
+56880,Shoshone Irrigation District,P
+56874,Winona County Wind LLC,Q
+56872,Contra Costa Generating Station LLC,Q
+56868,Kawailoa Wind LLC,Q
+56866,HL Power Company,Q
+56865,Caithness Shepherds Flat LLC,Q
+56863,Kapaa Solar LLC,Q
+56857,SunE M5C Holdings LLC,COM
+56856,Trexlertown Solar Array North and South,IND
+56855,Performance Services,COM
+56854,Messalonskee Stream Hydro LLC,Q
+56853,Shoreham Energy LLC,Q
+56852,Edgewood Energy LLC,Q
+56844,Blackstone Hydro Inc.,Q
+56843,Banister Hydro LP,Q
+56842,Union Falls Hydro Power LP,Q
+56840,Emporia Hydro Power LP,Q
+56839,KEI (Maine) Power Management (IV) LLC,Q
+56838,KEI (Maine) Power Management (III) LLC,Q
+56837,KEI (Maine) Power Management (II) LLC,Q
+56835,CSUCI Site Authority,S
+56830,Carson Solar 1 LLC,Q
+56828,RV CSU Power II LLC,COM
+56827,FRV SI Transport Solar LP,COM
+56826,Texas Medical Center Central,C
+56819,CSOLAR IV South LLC,Q
+56817,Outagamie Clean Energy Project LLC,Q
+56816,Masser Farms Realty Ltd,COM
+56815,NorthWestern Energy DGGS,I
+56814,Black Creek Renewable Energy LLC,Q
+56813,Allegheny Hydro LP,Q
+56812,Arlington Valley LLC,Q
+56807,Moore 1,Q
+56806,Marshall Wind,Q
+56805,Exelon Wind LLC,Q
+56804,Echo 3,Q
+56803,Echo 2,Q
+56802,Echo 1,Q
+56801,Cisco,Q
+56800,Brewster,I
+56798,Taylorsville Solar LLC,Q
+56795,Chittenden County Solar Partners LLC,Q
+56794,CE Obsidian Energy LLC,Q
+56791,Hudson Ranch Power I LLC,Q
+56790,Ralls Wind Farm LLC,I
+56789,TBE Montgomery LLC,Q
+56788,Domtar Paper Company Bennettsville,IND
+56787,Garden Wind LLC,Q
+56786,Crystal Lake 3 LLC,Q
+56785,The Westervelt Co,IND
+56783,Romark Logistics of PA Inc.,COM
+56780,Enfinity BNB Napoleon Solar LLC,COM
+56779,"Martins Creek Solar NC, LLC",Q
+56778,Bloom Energy 2009 PPA,Q
+56777,Avidan Energy Solutions,COM
+56776,Seneca Sustainable Energy LLC,IND
+56773,"Toyon Landfill Gas Conversion, LLC",Q
+56772,"TX LFG Energy, LP",Q
+56771,Black Hills Service Company LLC,Q
+56769,Consolidated Edison Development Inc.,M
+56766,CER Quail Run Energy Partners LP,Q
+56765,CER Colorado Bend Energy Partners LP,Q
+56764,USG Nevada LLC,Q
+56762,"NRG Renew Operation & Maintenance, LLC",Q
+56760,Davidson Gas Producers LLC,I
+56758,Solar Star North Carolina II LLC,Q
+56756,Bellefontaine Gas Producers LLC,I
+56753,AgPower Jerome LLC,Q
+56751,Yolo County of,P
+56749,UTS SJ1 LLC,COM
+56748,RP1 Fuel Cell LLC,COM
+56742,Notus Clean Energy LLC,Q
+56741,Knouse Food Cooperative Inc,C
+56732,GlaxoSmithKline Consumer Healthcare L P,Q
+56728,Dow Jones & Co,COM
+56727,Ashtabula Wind III LLC,Q
+56723,Genesis Solar LLC,Q
+56722,AV Solar Ranch 1 LLC,Q
+56721,Danielson Wind Farms LLC,IND
+56720,Greater Sandhill I LLC,Q
+56718,DF-AP #1 LLC,Q
+56715,Ridgewind Power Partners LLC,Q
+56713,Adams Wind Generations LLC,IND
+56707,Yuma County Water User's Association,Q
+56706,Chevron Technology Ventures,Q
+56705,Pocono International Raceway Inc,COM
+56704,MP Wayne LLC,Q
+56703,MP Durham LLC,Q
+56702,510 REPP One LLC,COM
+56701,The Hankin Group,Q
+56700,Avenal Solar Holdings LLC,Q
+56699,CPV Keenan II Renewable Energy Co LLC,Q
+56698,Red Mesa Wind LLC,I
+56696,Alamosa Operating Services LLC,Q
+56694,Thermo No 1 BE 01 LLC,Q
+56693,Fox Island Wind LLC,C
+56691,Garrison Energy Center LLC,Q
+56689,RENEW Energy Inc,COM
+56688,Baldwin Wind LLC,I
+56687,CityCenter Land LLC,COM
+56684,White Oak Energy LLC,Q
+56683,Elk City LLC,Q
+56682,Duke Energy Top Of the World WindPower,Q
+56681,Kent County Levy Court Dept of Pub Work,M
+56680,Diamond Shamrock Refining Company LP,IND
+56679,Sierra SunTower LLC,COM
+56678,FPL Energy Illinois Wind LLC,Q
+56677,Cyrq Energy Corp,Q
+56673,White Oak Solar Energy LLC,Q
+56672,Targa Co-Generation LLC,IND
+56667,Loraine Windpower Project,Q
+56665,Dutch Energy Corporation,Q
+56664,Garnet Energy Corporation,Q
+56663,Mayberry Solar LLC,Q
+56662,Cedar Point LLC,Q
+56661,Criterion Power Partners LLC,Q
+56660,Mojave Solar LLC,COM
+56657,ENEL Salt Wells LLC,Q
+56654,Carleton College,Q
+56653,Northern Colorado Wind LLC,Q
+56652,DTE Stockton LLC,Q
+56646,Covanta Plymouth Renewable Energy L P,Q
+56645,Aqua America Inc,I
+56642,Grant County Wind LLC,Q
+56641,Tonopah Solar Energy LLC,Q
+56635,NRG Marsh Landing LLC,Q
+56633,Trishe Wind Minnesota,Q
+56630,Texico Wind LP,Q
+56629,Lubbock Wind LLC,Q
+56627,DeWind Co.,Q
+56625,Flat Water Wind Farm LLC,Q
+56622,NextEra Energy Resources,Q
+56621,Yakama Power,C
+56619,Air Force Civil Engineer Center,F
+56618,Victor Valley Community College District,S
+56617,Iowa Lakes Community College,COM
+56616,ArcelorMittal Warren Inc,IND
+56615,First Solar Project Development,COM
+56613,Frederickson Power LP,Q
+56612,Kit Carson Windpower LLC,Q
+56610,Calpine Vineland Solar LLC,COM
+56609,Calpine Mid-Atlantic Generation LLC,Q
+56608,Calpine Mid-Merit LLC,Q
+56607,Calpine Bethlehem LLC,Q
+56606,Calpine New Jersey Generation LLC,COM
+56605,Delaware City Refining Company LLC,IND
+56603,Roth Rock Wind Farm LLC,Q
+56601,Covanta MacArthur Renewable Energy,M
+56600,Ascend Performance Materials LLC,IND
+56598,"Major Oak Power, LLC",Q
+56597,Hydro Kennebec LLC,Q
+56592,Idaho Wind Partners 1 LLC,Q
+56590,Silverstreet Hydro,Q
+56589,Bottle Rock Power LLC,Q
+56584,PSEG Solar Hackettstown LLC,I
+56583,Wyandot Solar LLC,I
+56582,Jacksonville Solar LLC,I
+56570,Coleto Creek Power LP,I
+56565,TX Solar I LLC,Q
+56563,Solar Star North Carolina I LLC,Q
+56561,Day County Wind LLC,Q
+56558,Rolling Hills Generating LLC,Q
+56555,FPL Energy Montezuma Wind,Q
+56545,Pattern Operators LP,Q
+56540,Northbrook Wisconsin LLC,Q
+56537,Evonik Degussa Corporation,IND
+56534,Cricket Valley Energy Center LLC,Q
+56533,Troy Energy LLC,Q
+56531,EIF Haypress LLC,Q
+56523,Colorado Highlands Wind LLC,Q
+56520,Meadow Lake Wind Farm IV LLC,Q
+56518,First State Marine Wind,C
+56516,"Morris Energy Operations Company, LLC",Q
+56515,White River Hydroelectric,Q
+56514,Windy Flats Partners LLC,Q
+56506,Langford Wind Power LLC,Q
+56505,National Grid Generation LLC,I
+56499,Harvest Wind Project TIC,C
+56498,Weaver Bridgewater Dairy,COM
+56497,Big Valley Power (BVP) LLC,COM
+56493,RV CSU Power LLC,COM
+56491,Tilton Energy LLC,Q
+56488,Ascend Performance Materials,IND
+56484,Butler Ridge Wind Energy Center,Q
+56483,Eurus Combine Hills II LLC,Q
+56482,Gamesa Wind US,Q
+56480,Empire Generating Co LLC,I
+56478,University of Michigan NCampus Research,M
+56477,Tallassee Shoals LLC,Q
+56476,Ameresco,F
+56475,"Tuana Springs Energy, LLC",Q
+56469,Enbridge G & P (Oklahoma) LP,IND
+56467,Ampersand Gilman Hydro LP,Q
+56448,MFGR LLC,IND
+56440,G2 Energy LLC,Q
+56439,Beaver Ridge Wind LLC,COM
+56437,Heritage Stoney Corners Wind Farm I LLC,Q
+56434,SunE M5 Holdings LLC,COM
+56431,SunE U6 Holdings LLC,COM
+56427,University of California Irvine,S
+56425,Simpson Ridge Wind Farm LLC,Q
+56424,Quilt Block Wind Farm LLC,
+56423,Meadow Lake Wind Farm III LLC,Q
+56421,Blackstone Wind Farm II LLC,Q
+56420,Meadow Lake Wind Farm II LLC,Q
+56419,Lost Lakes Wind Farm LLC,Q
+56418,Blackstone Wind Farm LLC,Q
+56417,Meadow Lake Wind Farm LLC,Q
+56416,Blue Canyon Windpower V LLC,Q
+56415,Wilton Wind II LLC,I
+56414,Ashtabula Wind II LLC,Q
+56413,Koda Energy LLC,Q
+56412,IPA Operations Inc - Armstrong,Q
+56410,Mesalands Community College,S
+56409,Milford Wind Corridor Stage II LLC,Q
+56406,Newark America,IND
+56402,Covanta Maine LLC,Q
+56401,NAEA Energy Massachusetts LLC,Q
+56397,J&A-Santa Maria II LLC,Q
+56396,J&A-Santa Maria LLC,Q
+56395,J&A-Whittier LLC,Q
+56394,Chevron USA,IND
+56392,Chalmette Refining LLC,COM
+56389,Doyon Utilities - Ft. Wainwright,I
+56386,Essential Power Rock Springs LLC,Q
+56385,Duke Energy DEGS North Allegheny,Q
+56383,"Lignetics of Maine, LLC.",IND
+56381,Enel Cove Fort LLC,I
+56380,EIF Channelview Cogeneration LLC,I
+56378,Duke Energy DEGS Campbell Hill,Q
+56377,Duke Energy DEGS Silver Sage Wndpwr LLC,Q
+56375,Graphic Packaging International Inc,COM
+56369,Truckee Meadows Water Authority,M
+56367,Columbus Water Works,Q
+56366,NaturEner Glacier Wind Energy 2 LLC,Q
+56365,NaturEner Glacier Wind Energy 1 LLC,Q
+56364,United States Steel Granite City Works,IND
+56355,LES Project Holdings LLC,Q
+56354,GenConn Middletown LLC,Q
+56353,Twin Cities Hydro LLC,Q
+56352,GenConn Devon LLC,Q
+56351,Denton Power LLC,I
+56318,CB&I,S
+56316,Covanta Tulsa Renewable Energy LLC,I
+56310,Boise White Paper LLC,IND
+56304,Air Products LLC,IND
+56302,SunE CPA CDC1 LLC,COM
+56300,SunE KHL55 San Bernardino LLC,COM
+56297,SunE CPA CDC2 LLC,COM
+56296,SunE WG45 Woodland LLC,COM
+56294,SunE WG113 Moreno Valley LLC,COM
+56291,International Paper Co.,IND
+56289,International Paper Corporation,IND
+56285,Smoky Hills Wind Project II LLC,Q
+56284,MF Mesa Lane LLC,Q
+56275,El Cajon Energy LLC,Q
+56273,Duke Energy DEGS Ocotillo,Q
+56272,Duke Energy DEGS Notrees,Q
+56271,Duke Energy DEGS Happy Jack,Q
+56268,City of Rock Island,M
+56267,Bayonne Energy Center LLC,Q
+56261,Iredell Transmission LLC,I
+56249,NGP Blue Mountain I LLC,I
+56246,"Greensburg Wind Farm, LLC",Q
+56237,QVC Inc,I
+56236,West Deptford Energy LLC,Q
+56225,Clearwater Paper Corporation,IND
+56222,Bull Creek Wind LLC,Q
+56221,New England Confectionery Co Inc,COM
+56218,Coolidge Power LLC,I
+56216,Multitrade Rabun Gap LLC,Q
+56215,E ON Climate Renewables N America LLC,Q
+56214,Hazleton Generation LLC,Q
+56213,IPA Operations Inc - Calumet,Q
+56211,KCP&L Greater Missouri Operations Co,I
+56205,Philadelphia Water Department,M
+56204,,Q
+56203,Solar Star NAFB LLC,COM
+56201,Engie North America,COM
+56195,BP Alternative Energy,COM
+56192,Entergy Nuclear Palisades LLC,I
+56189,American Profol Incorporated,IND
+56187,Verso Paper - Quinnesec,IND
+56183,SunE NC Progress 1 LLC,COM
+56175,Fairbanks Morse Engine,IND
+56174,Finch Paper LLC,IND
+56171,Bicent Power,Q
+56167,"Imperial Valley Solar, LLC",Q
+56165,ArcelorMittal Indiana Harbor West,IND
+56164,International Paper - Valliant,IND
+56159,"Threemile Canyon Wind I, LLC",Q
+56158,"Cassia Wind Farm, LLC",Q
+56157,"Cassia Gulch Wind Park, LLC",Q
+56155,Lansing Board of Water and Light,M
+56152,New Smyrna Beach Utilities Commission,M
+56150,ArcelorMittal USA Inc,IND
+56147,ArcelorMittal Burns Harbor Inc,IND
+56146,Black Hills/Colorado Elec.Util,I
+56143,Fairfield University,Q
+56142,"Alliance NYGT, LLC",Q
+56137,Domtar LLC,IND
+56133,L'Anse Warden Electric Company LLC,Q
+56128,SAS Institute Inc,Q
+56127,Orange Grove Energy LP,Q
+56125,Covanta Springfield LLC,IND
+56124,FPL Energy Crystal Lake Wind II LLC,Q
+56123,FPL Energy Crystal Lake Wind LLC,Q
+56122,FPL Energy Ashtabula Wind LLC,Q
+56121,Osceola Windpower II,Q
+56120,Blue Lake Power LLC,Q
+56119,FPL Energy Story Wind LLC,Q
+56113,MMA GDC Power LP,COM
+56108,Targa Pipeline Mid-Continent WestTex LLC,IND
+56107,Highwoods Properties,COM
+56105,MMA WBF Power LP,COM
+56104,AMERESCO Chiquita Canyon LLC,Q
+56103,AMERESCO Keller Canyon LLC,Q
+56102,AMERESCO Jefferson City LLC,Q
+56101,AMERESCO Ox Mountain Energy LLC,Q
+56100,AMERESCO Stafford LLC,Q
+56099,Covanta Delano Inc,Q
+56097,Gramercy Holdings LLC,IND
+56094,Medicine Bow Fuel & Power LLC,Q
+56090,Star West Gen Griffith Energy LLC,Q
+56084,Springfield Power LLC,Q
+56081,Southeastern Chester County Refuse Auth,M
+56079,Vanguard Natural Resources LLC,IND
+56076,State Farm Insurance,COM
+56075,Rail Splitter Wind Farm LLC,Q
+56074,Arlington Wind Power Project LLC,Q
+56073,Wheat Field Wind Power Project LLC,Q
+56072,"Marble River, LLC",Q
+56071,"Sagebrush Power Partners, LLC",Q
+56069,"SunCoke Energy, Inc.",COM
+56067,"Plainfield Renewable Energy, LLC",Q
+56065,York Haven Power Company LLC,Q
+56046,High Plains Wind Power LLC,Q
+56045,"Exelon Wind 11, LLC",Q
+56044,"Exelon Wind 10, LLC",Q
+56043,"Exelon Wind 9, LLC",Q
+56042,"Exelon Wind 8, LLC",Q
+56041,"Exelon Wind 7, LLC",Q
+56033,Hackberry Wind LLC,Q
+56031,CPV Maryland LLC,Q
+56028,MMA Fresno Power LP,COM
+56027,MMA LA Power LP,COM
+56026,MMA DAS Power,COM
+56024,Kamin LLC,IND
+56023,Arizona Solar One LLC,I
+56020,NRG Cedar Bayou Development Company LLC,Q
+56019,"Panoche Energy Center, LLC",Q
+55997,Domtar Paper Company Rothschild,IND
+55994,University of Arizona - Biosphere 2,S
+55993,"Kleen Energy Systems, LLC",Q
+55992,"Pioneer Prairie Wind Farm I, LLC",Q
+55990,"Cloud County Windfarm, LLC",Q
+55989,Covanta Mendota LP,Q
+55988,Virginia Polytechnic Inst and State Unv,S
+55987,CER Generation LLC,I
+55985,Tesoro Refining and Marketing Company,IND
+55983,Luminant Generation Company LLC,Q
+55981,Elbow Creek Wind Project LLC,Q
+55972,Valencia Power LLC,Q
+55970,JHP Pharmaceuticals LLC,IND
+55968,Evergreen BioPower LLC,Q
+55965,Verso Corporation,IND
+55963,AE Power Services LLC,Q
+55961,CalRenew-1 LLC,COM
+55960,Mesquite Lake Energy Park,Q
+55958,Capricorn Ridge Wind LLC,I
+55953,Ampersand Chowchilla Biomass LLC,Q
+55952,Merced Power LLC,Q
+55951,Exelon Nuclear,Q
+55941,Northbrook Lyons Falls LLC,Q
+55939,Columbia Basin Hydropower,M
+55938,Industrial Power Generating Company LLC,Q
+55937,Entergy Texas Inc.,I
+55934,City of Stockton MUD,M
+55932,Georgia-Pacific Brewton LLC,IND
+55931,Orion Energy Group LLC,COM
+55928,Coram Tehachapi LP,Q
+55927,Power4Georgians LLC,Q
+55925,Novo Biopower LLC,Q
+55924,"Longview Power, LLC",Q
+55922,Whirlwind Energy LLC,Q
+55920,Bio-Gas Technologies LTD,Q
+55919,,IND
+55918,Acciona Wind Energy USA LLC,Q
+55912,Cottage Grove Operating Services LLC,Q
+55911,Whitewater Operating Services LLC,Q
+55910,Lanai Sustainability Research LLC,Q
+55907,White Creek Wind 1 LLC,Q
+55906,NextEra Energy Point Beach LLC,Q
+55903,Domtar Paper Company LLC,IND
+55901,Osceola Windpower LLC,Q
+55899,Calpine Bosque Energy Center LLC,Q
+55893,St Paul Cogeneration LLC,Q
+55891,"Hot Springs Windfarm, LLC",Q
+55890,Bennett Creek Windfarm LLC,Q
+55886,Smoky Hills Wind Farm I LLC,Q
+55880,Telocaset Wind Power Partners,Q
+55879,Optim Energy LLC,Q
+55876,Capitol Broadcasting Company Inc,COM
+55873,"Harvest Windfarm, LLC",Q
+55871,"Covanta Projects, LLC",M
+55868,Noble Wind Operations LLC,Q
+55867,Verso Escanaba LLC,IND
+55866,Old Trail Wind Farm LLC,Q
+55863,Evergreen Packaging Inc,IND
+55862,Logan Wind Energy LLC,Q
+55861,Sandy Creek Energy Associates LP,Q
+55858,Energy Developments Inc,Q
+55850,Thermal Energy Development Part LP,Q
+55849,Domtar Paper Co LLC Kingsport Mill,IND
+55847,Snyder Wind Farm LLC,Q
+55846,Newark Bay Cogeneration Partnership LP,Q
+55840,EWP RENEWABLE CORP.,M
+55839,Domtar Paper Company LLC,IND
+55838,"Exelon Wind 1, LLC",Q
+55837,"Exelon Wind 2, LLC",Q
+55836,"Exelon Wind 3, LLC",Q
+55835,"Exelon Wind 4, LLC",Q
+55834,"Exelon Wind 5, LLC",Q
+55833,"Exelon Wind 6, LLC",Q
+55832,Shane's Wind Machine LLC,Q
+55810,Augusta Canal Authority,M
+55808,Westmoreland Partners,Q
+55799,FPL Energy Langdon Wind LLC,Q
+55796,Eastern Landfill Gas LLC,Q
+55795,Bethlehem Renewable Energy LLC,Q
+55785,FPL Peetz Table Wind Energy,Q
+55784,California Power Holdings LLC,Q
+55773,"Dighton Power, LLC",Q
+55772,Paducah Power System,M
+55771,KapStone Kraft Paper Corp,IND
+55768,RC Cape May Holdings LLC,Q
+55754,Boralex Hydro Operations Inc,Q
+55753,Essex Hydro Associates LLC,Q
+55749,Pleasants Energy LLC,Q
+55744,Acciona Solar Power,Q
+55740,Spruance Genco LLC,Q
+55739,Edgecombe Operating Services LLC,Q
+55738,Verso Paper Androscoggin LLC,IND
+55737,"Wind Capital Holdings, LLC",Q
+55736,Loess Hills Wind Farm LLC,Q
+55735,"CR Clearing, LLC",Q
+55734,"Cow Branch Wind Power, LLC",Q
+55729,Duke Energy Kentucky Inc,I
+55727,Orion Engineered Carbons,IND
+55712,BTEC Turbines LP,Q
+55711,FPL Energy Operating Services Inc - SEGS,Q
+55710,Barrick Goldstrike Mines Inc,IND
+55704,Tiber Montana LLC,Q
+55703,Otsego Paper Inc,IND
+55698,Hawks Nest Hydro LLC,Q
+55696,FPL Energy Oliver County Wind,Q
+55649,Ontelaunee Energy Center,Q
+55600,Cadillac Renewable Energy LLC,Q
+55510,Tiverton Power LLC,Q
+55397,NRG Energy Inc,Q
+55307,Colorado Energy Management,Q
+55269,NextEra Energy Duane Arnold LLC,Q
+54916,Phillips 66 Billings Refinery,IND
+54915,"Dogwood Power Management, LLC",Q
+54911,Tesoro Refng Marketing Co Mntn Region,IND
+54904,High Prairie Wind Farm II LLC,Q
+54902,SunE Alamosa1 LLC,COM
+54900,Stimson Lumber Company,IND
+54899,NAES Corporation - (DE),M
+54895,FirstLight Power Resources Services LLC,Q
+54894,Roseburg Forest Products,IND
+54890,Russell City Energy Company LLC,Q
+54888,NRG Texas Power LLC,Q
+54885,NRG Wholesale Generation LP,Q
+54880,P H Glatfelter Company,IND
+54878,Oregon Environmental Industries LLC,Q
+54876,Flambeau River Papers,IND
+54874,Lea Power Partners LLC,Q
+54870,FPL Energy Red Canyon LLC,Q
+54866,Robinson Power Company LLC,Q
+54863,U S Power Generating Company LLC,Q
+54843,WM Illinois Renewable Energy LLC,COM
+54842,WM Renewable Energy LLC,IND
+54839,Eagle Materials Co LLC,IND
+54838,Windsor Machinery Co Inc,Q
+54837,INEOS Nitriles Greenlake,IND
+54827,Telogia Power LLC,Q
+54824,,Q
+54821,Rumford Power,Q
+54819,FPL Energy Mower County LLC,Q
+54817,Fairless Energy LLC,Q
+54816,AMERESCO Delaware Central,Q
+54815,AMERESCO Delaware South,Q
+54814,AMERESCO Santa Cruz Energy LLC,Q
+54813,AMERESCO Janesville LLC,Q
+54812,AMERESCO Chicopee Energy LLC,Q
+54810,Broad River Energy LLC,Q
+54809,Wailuku Holding Company LLC,Q
+54808,Sexton Energy LLC,Q
+54806,DTE Energy Services-Woodland,Q
+54803,"Dynegy Oakland, LLC",Q
+54802,Dynegy -Moss Landing LLC,Q
+54800,"Michigan Wind 1, LLC",Q
+54799,FPL Energy Oliver County Wind II LLC,Q
+54794,Greenback Energy LLC,Q
+54793,Lucky Wind LLC,Q
+54792,Northern Lights Wind LLC,Q
+54791,Carstensen Wind LLC,Q
+54790,Stahl Wind Energy LLC,Q
+54789,"AgriWind Project, LLC",Q
+54788,DG Fairhaven Power LLC,Q
+54777,Signal Hill Generating LLC,Q
+54775,Lock 7 Hydro Partners LLC,Q
+54769,INEOS USA LLC,IND
+54765,Bear Swamp Power Company LLC,Q
+54759,Mesquite Wind LLC,Q
+54755,Morris Cogeneration LLC,Q
+54745,International Paper - Orange,COM
+54738,Thilmany LLC,IND
+54736,AltaGas Pomona Energy Inc.,Q
+54725,CHI Operations Inc,Q
+54722,Grizzly Mountain Ranch,Q
+54717,FPL Energy Burleigh County Wind LLC,I
+54713,Chevron USA Inc,IND
+54710,Golden State Water Company,I
+54709,High Trail Wind Farm LLC,Q
+54707,Blue Canyon Windpower II LLC,Q
+54705,Seadrift Coke L P,IND
+54704,Metropolitan Pier and Exposition Auth,M
+54700,Paris Generation LP,Q
+54696,Little Mac Power Company,Q
+54692,Santa Rosa Energy Center LLC,Q
+54690,Western Renewable Energy LLC,Q
+54686,Gauley River Power Partners LP,Q
+54684,"Flat Rock Windpower, LLC",Q
+54683,Maverick Cty Water Control & Improvement,P
+54679,BP Piney & Deep Creek LLC,Q
+50174,Electric Transmission Texas LLC,I
+50166,Crete Energy Venture LLC,Q
+50161,FirstEnergy Nuclear Operating Company,I
+50160,Pedricktown Cogeneration Company LP,Q
+50158,Innovative Energy Systems Inc,Q
+50157,South Point Energy Center LLC,Q
+50147,US Geothermal Inc.,Q
+50136,North American Energy Services,Q
+50134,Holcomb Rock Company,Q
+50133,Leaf River Cellulose LLC,IND
+50131,Enel Stillwater LLC,Q
+50130,Ashley Energy LLC,Q
+50129,Georgia-Pacific Cons Op LLC Port Hudson,IND
+50128,Georgia-Pacific Consr Ops LLC-Palatka,IND
+50123,"Leeward Asset Management, LLC",Q
+50122,CF Industries Nitrogen LLC,Q
+50118,US Army Corps of Engineers,F
+50114,"WTG Jameson, L.P.",IND
+50111,Lafayette Utilities System,M
+50109,DeKalb Regional Health System,COM
+50097,Verso Luke LLC,IND
+50096,NRG Florida LP,COM
+50095,Phillips 66,IND
+50094,Lincoln Generating Facility LLC,Q
+50085,Covanta Southeast Florida Renewable Ltd,P
+50083,Brookfield Power New England,Q
+50082,Boise Cascade Wood Products LLC,IND
+50079,Utility Board of Key West City,M
+50063,FPL Energy Horse Hollow LLC,Q
+50045,Phillips 66 Company,IND
+50035,,IND
+50026,Energy Operations Group,Q
+50021,Neenah Paper Michigan Inc.,IND
+50018,"Dominion Energy New England, LLC",I
+50014,"FPL Energy Weatherford, LLC",COM
+50013,Diablo Wind LLC,Q
+50012,"FPL Energy Callahan Wind, LLC",Q
+50006,Invista,IND
+50003,Brunswick Cellulose LLC,IND
+49997,"Consolidated Hydro New York, Inc.",Q
+49993,Stevens Community Medical Center,COM
+49991,Kindred Public School,P
+49989,"State Auto Insurance, Inc.",COM
+49988,"Valley Queen Cheese Factory, Inc.",IND
+49981,Diamond Generating Corporation,Q
+49979,,Q
+49974,NAES Corporation - (WA),C
+49972,Gilroy Energy Center LLC,Q
+49971,Creed Energy Center LLC,Q
+49970,Goose Haven Energy Center,Q
+49968,Searles Valley Minerals Operations Inc.,IND
+49967,"Decorative Panels International, Inc.",IND
+49966,Covanta Camden Energy Recovery Center,Q
+49965,Constellation Mystic Power LLC,I
+49963,"FPL Energy Operating Services, Inc.",Q
+49950,"Caithness Long Island, LLC",Q
+49949,Kinder Morgan Production Company LP,IND
+49942,Eagle Point Power Generation LLC,Q
+49919,Falcon Power Operating Company,Q
+49913,University of Arizona,S
+49911,"Swift River Hydro Operations Co., Inc",Q
+49903,Aeolus Wind LLC,IND
+49901,Northern Star Generation Services Co LLC,Q
+49899,CalEnergy Operating Corporation,Q
+49896,"Newmont Nevada Energy Investment, LLC",Q
+49893,Invenergy Services LLC,Q
+49889,Mount Carmel Cogen Inc,Q
+49880,,Q
+49874,Boeve Windfarm LLC,I
+49870,Windcurrent Farms LLC,I
+49869,Fey Windfarm LLC,I
+49867,Tofteland Windfarm LLC,I
+49852,Great Bay Hydro Corp,Q
+49846,Covanta Honolulu Resource Recovery,M
+49845,"Equus Power I, L.P.,",I
+49844,Eurus Combine Hills I LLC,COM
+49842,Georgia-Pacific Consr Prods LP-Wauna,IND
+49840,"Waterside Power, LLC",Q
+49837,Pinelawn Power LLC,Q
+49831,Unilin Flooring NC LLC-Columbia Flooring,IND
+49812,NEO Freehold Gen LLC,Q
+49805,Kennecott Utah Copper,IND
+49801,Expera Specialty Solutions,IND
+49796,Desert Sky Wind Farm LP,I
+49791,Eastman Cogeneration LP,Q
+49786,"Jamaica Bay Peaking Facility, LLC",Q
+49778,,IND
+49775,Middlesex Generating Company LLC,M
+49774,Kinder Morgan Yates Operation,IND
+49768,"Bastrop Energy Partners, LP",Q
+49760,"Covanta Montgomery, Inc.",S
+49756,Illinois Power Resources Generating LLC,Q
+49753,"Brooks Energy, LLC",Q
+49751,FPL Energy Cabazon Wind,Q
+49750,FPL Energy Green Power,Q
+49748,"ORCAL Geothermal, Inc",Q
+49745,Cash Creek Generating LLC,Q
+49735,HGST a Western Digital Company,IND
+49732,Chevron Products Company-Richmond,IND
+44466,BP PLC,IND
+42892,City of Spokane,M
+42890,Woonsocket City of,M
+42806,BP Hydro Associates,Q
+42744,Desehutes Valley Water District,M
+42662,N E W Hydro LLC,Q
+42659,Pennsylvania Renewable Resources,Q
+40614,Alabama Municipal Elec Authority,M
+40613,Northern California Power Agny,
+40606,City of Grand Island - (NE),M
+40582,Michigan Public Power Agency,P
+40580,Southern Minnesota Mun P Agny,P
+40577,"American Mun Power-Ohio, Inc",M
+40575,Utah Associated Mun Power Sys,P
+40548,Unalakleet Valley Elec Coop,C
+40444,Truckee-Carson Irrigation District,F
+40437,Emerald People's Utility Dist,P
+40430,Lafarge Corp,IND
+40307,"Prairie Power, Inc",C
+40230,Deseret Generation & Tran Coop,C
+40229,Old Dominion Electric Coop,C
+40215,"Cordova Electric Coop, Inc",C
+40211,"Wabash Valley Power Assn, Inc",C
+40192,Shady Hills Power Co LLC,Q
+40052,AG Energy LP,Q
+39878,Solutia Inc-Indian,IND
+39347,"East Texas Electric Coop, Inc",C
+39245,Saint John's Health Center,COM
+39125,Vandolah Power Co LLC,Q
+39066,Union Carbide Corp-Texas City,IND
+39006,Brookfield White Pine Hydro LLC,Q
+38215,Phillips 66 - Los Angeles,IND
+38084,Great Lakes Energy Coop,C
+38021,Athens Regional Medical Center,COM
+38001,"Ottauquechee Hydro Company, Inc.",Q
+36055,KTZ Hydro LLC,Q
+34723,FPL Energy North Dakota Wind LLC,Q
+34721,FPL Energy South Dakota Wind LLC,Q
+34719,FPL Energy Oklahoma Wind LLC,Q
+34717,FPL Energy New Mexico Wind LLC,Q
+34691,Ormat Nevada Inc,Q
+34689,Triton Power Co,Q
+34688,CHI Energy Inc,I
+34672,DTE Energy Services,IND
+34612,"Sheldon Vermont Hydro Co., Inc.",Q
+34359,Curators of the University of Missouri,S
+34164,Elk Hills Power LLC,Q
+34028,Calhoun Power Co LLC,Q
+32790,"New Harquahala Generating Co, LLC",Q
+32501,Air Liquide America Corp,IND
+32487,Gaylord Entertainment Co,COM
+32173,New Athens Generating Company LLC,Q
+32080,Dunn Paper,IND
+31719,FPL Energy Wyman LLC,I
+31613,Washington Cnty Wtr Consv Dist,P
+31518,Fort Smith City of,M
+31431,K-W Co,Q
+31386,Tenaska Alabama Partners LP,Q
+31216,Mascoma Hydro Corp,Q
+30347,Olcese Water District,M
+30151,"Tri-State G & T Assn, Inc",C
+30076,Calleguas Mun Water District,M
+30067,Rolls Royce Corp,IND
+30052,Huntsman Corp,IND
+30038,WestRock (IL),IND
+30002,International Paper Co,IND
+29926,Entergy Nuclear Generation Co,I
+29925,Enterprise Products Optg LP,IND
+29849,Wasatch Integrated Waste Management,M
+29767,Illinois Institute-Technology,COM
+29729,Davenport City of,M
+29305,City of Madelia - (MN),M
+29297,Pelican Utility,M
+29295,City of Wells - (MN),M
+29122,Morgan Energy Center LLC,Q
+29116,Colorado Energy Management LLC,Q
+28764,Pine Bluff Energy LLC,Q
+28541,Clatskanie Peoples Util Dist,P
+28473,Williams Field Services Co,IND
+28086,Energy Unlimited Inc,Q
+27813,USCE-Mobile District,F
+27770,Ocean State Power II,Q
+27769,Ocean State Power Co,Q
+27762,Ptarmigan Res & Engy Inc,Q
+27718,RockTenn-Seminole,COM
+27470,USCE-Tulsa District,F
+27378,Tenet Hospital Ltd,COM
+27316,Town of Stowe- (VT),M
+27211,Snider Industries Inc,IND
+27131,Imperial Savannah LP,IND
+27075,San Diego County Water Auth,S
+27031,Liberty Electric Power LLC,Q
+26867,Lake Benton Power Part II LLC,Q
+26840,Port Townsend Paper Co,IND
+26618,USCE-St Louis District,F
+26616,North Slope Borough Power & Light,M
+26469,Ingleside Cogeneration LP,IND
+26287,Madera-Chowchilla Power Auth,Q
+26253,Louisiana Energy & Power Authority,P
+26003,Kankakee City of,M
+25915,El Dorado Irrigation District,M
+25835,Portland City of,M
+25771,Quinebaug Associates LLC,Q
+25477,USCE-Kansas City District,F
+25438,Friant Power Authority,P
+25422,National Power Coop Inc,C
+25049,Gas Recovery Systems Inc,Q
+24979,Ampersand Chasm Hydro LLC,Q
+24931,Palmer Hydroelectric,Q
+24900,"The Mosaic Company, Plant City Facility",IND
+24793,Briar-Hydro Associates,Q
+24536,Aera Energy LLC-San Ardo,IND
+24457,Calpine Eastern Corp,Q
+24431,Utah Municipal Power Agency,P
+24211,Tucson Electric Power Co,I
+24210,Riverbay Corp,C
+24206,Amalgamated Sugar Co-Nampa,C
+24205,Sinclair Oil Corp,IND
+24202,Carr Street Generating Sta LP,Q
+24121,Calpine -RockGen Energy,Q
+24010,University of San Francisco,COM
+24008,University of Oregon,S
+23955,University of Massachusetts Medical,S
+23931,Resolute Forest Products,IND
+23913,Borger Energy Associates LP,Q
+23815,Blue Ridge Paper Products Inc,IND
+23693,AES Huntington Beach LLC,Q
+23632,Inland Paperboard - Rome Mill,IND
+23576,Lawrence Hydroelectric Assoc,Q
+23330,Bay County Board-County Comm,M
+23279,Allegheny Energy Supply Co LLC,I
+23102,FreePort-McMoRan-Corp-Cobre Mines,IND
+23037,Errol Hydroelectric Co LLC,Q
+23013,"EIF Northampton GP, LLC",Q
+23005,Aera Energy LLC-Coalinga,IND
+22979,Astoria Energy LLC,Q
+22803,SDS Lumber Co,Q
+22776,Solano Irrigation District,M
+22696,Notch Butte Hydro Co Inc,Q
+22669,U S Borax Inc,IND
+22652,Texas City Cogeneration LLC,Q
+22650,Calpine Corp-Sutter,Q
+22635,San Gabriel Valley Mun Wtr Dt,Q
+22614,Rocky Brook Electric Inc,I
+22500,Westar Energy Inc,I
+22484,AES Redondo Beach LLC,Q
+22380,NRG Montville Operations Inc,Q
+22379,Connecticut Jet Power LLC,Q
+22350,Devon Power LLC,Q
+22337,Alcoa World Alumina LLC,IND
+22331,Salem Energy Systems LLC,I
+22290,North Jersey Energy Assoc LP,Q
+22269,Goal Line LP,Q
+22219,Mid-Maine Waste Action Corp,M
+22218,U S Army-Radford,F
+22214,Sweeny Cogeneration LP,IND
+22208,University of Colorado,Q
+22199,U S Air Force-Eielson AFB,F
+22175,PCS Phosphate,IND
+22174,PEI Power Corp,Q
+22148,AES Alamitos LLC,Q
+22142,Santa Cruz Cogeneration Assoc,S
+22131,Red Oak Operating Services LLC,Q
+22129,Somerset Operating Co LLC,Q
+22125,"Cayuga Operating Company, LLC",Q
+22091,New-Indy Ontario LLC,COM
+22079,Yolo County Flood Control WCD,P
+22053,Kentucky Power Co,I
+22045,Oxnard City of,M
+22040,Washington State University,S
+22035,Southwestern Bell Telephone Co,COM
+22001,Sunbury Generation LP,Q
+21995,Olmsted County Public Works,M
+21970,Northeast Energy Associates LP,COM
+21965,New Mexico State University,S
+21964,University of New Mexico,P
+21944,Sonoma County Water Agency,M
+21773,Yellowstone Energy LP,Q
+21734,Sunnyside Cogeneration Assoc,Q
+21690,Moose International,COM
+21668,Wise County Power Company LLC,Q
+21622,The University of Texas at Dallas,S
+21621,United Technologies,IND
+21581,Midwest Hydro LLC,Q
+21579,New Covert Generating Company LLC,Q
+21554,Seminole Electric Cooperative Inc,C
+21535,STP Nuclear Operating Co,M
+21533,City of Minneapolis - (KS),M
+21508,Cornell University,M
+21466,University of Tennessee,S
+21461,NRG Canal LLC,Q
+21264,USACE-Detroit District,F
+21260,"Banyan St./GAP 191 Peachtree Owner, LLC",COM
+21223,University of Northern Iowa,COM
+21191,Zion Energy LLC,Q
+21158,City of Zeeland - (MI),M
+21148,Zapco Energy Tactics Corp,COM
+21144,Ziegler Power Systems,COM
+21140,Yuba County Water Agency,P
+21128,York County Solid W & R Auth,P
+21116,YKK USA Inc,IND
+21095,Public Serv Comm of Yazoo City,M
+21086,Yakima-Tieton Irrigation Dist,P
+21048,Wyandotte Municipal Serv Comm,M
+21015,City of Wrangell - (AK),M
+21013,City of Worthington - (MN),M
+20977,City of Woodsfield - (OH),M
+20919,Boyce Hydro Power LLC,Q
+20910,Wolverine Power Supply Coop,C
+20893,Wolf Creek Nuclear Optg Corp,I
+20880,City of Wisner,M
+20863,Wisconsin River Power Company,I
+20860,Wisconsin Public Service Corp,I
+20858,WPPI Energy,M
+20856,Wisconsin Power & Light Co,I
+20854,Winnebago County,M
+20848,City of Blue Hill - (NE),M
+20847,Wisconsin Electric Power Co,I
+20835,City of Winterset - (IA),M
+20824,Village of Winnetka - (IL),M
+20813,City of Winfield - (KS),M
+20806,City of Windom,M
+20791,Windland Inc,Q
+20789,City of Wilton,M
+20737,Willmar Municipal Utilities,M
+20712,Snowbird Corporation,Q
+20707,Wintec Energy Ltd,Q
+20680,William Beaumont Hospital,COM
+20632,City of Wilber,M
+20604,City of Whittemore - (IA),M
+20558,White Springs Agrici Chem Inc,IND
+20547,Cosmo Specialty Fibers,IND
+20542,Weyerhaeuser Co,IND
+20541,Wheelabrator Environmental Systems,IND
+20523,Westward Seafoods Inc,IND
+20521,Wheeling Power Co,
+20511,International Paper Co. - New Bern Mill,IND
+20508,WestRock Corp,IND
+20505,International Paper Port Wentworth Mill,IND
+20492,International Paper Columbus Mill,Q
+20472,"Wharton County Elec Coop, Inc",
+20447,"Western Farmers Elec Coop, Inc",C
+20430,City of Westbrook,M
+20424,West Texas Wind Energy Partners LLC,Q
+20421,Western Minnesota Mun Pwr Agny,P
+20397,City of West Point - (NE),M
+20392,City of West Plains - (MO),M
+20380,City of West Liberty - (IA),M
+20364,City of West Bend,M
+20347,Wellesley College,Q
+20328,Wells Manufacturing Co,IND
+20326,Town of West Boylston - (MA),M
+20323,,Q
+20315,City of Wellington - (KS),M
+20259,City of Webster City - (IA),M
+20255,Weber Basin Water Conserv Dist,P
+20238,Watchtower Bible & Tract Soc-NY,Q
+20230,Weatherford Mun Utility System,M
+20219,City of Wayne,M
+20214,Waverly Municipal Elec Utility,M
+20208,Waymart Wind Farm,Q
+20188,City of Watertown - (NY),M
+20183,Waste Management Inc,Q
+20180,City of Waterloo - (IL),M
+20169,Avista Corp,I
+20160,Energy Northwest,S
+20159,Washington Parish Engy Ctr LLC,Q
+20153,"Washington Island El Coop, Inc",C
+20151,Washington Electric Coop - (VT),C
+20148,Watervliet City of,M
+20141,City of Washington - (KS),M
+20135,City of Washington - (UT),M
+20100,Warm Springs Power Enterprises,Q
+20069,City of Wamego - (KS),M
+20065,Walton Electric Member Corp,C
+20032,Walla Walla City of,M
+19980,City of Wakefield - (NE),M
+19968,City of Wahoo - (NE),M
+19946,Wadham Energy Ltd Partners,Q
+19900,Viking Energy Corp,Q
+19883,City of Virginia - (MN),M
+19876,Virginia Electric & Power Co,I
+19867,Village of Viola - (WI),M
+19865,City of Vinton - (IA),M
+19856,City of Vineland - (NJ),M
+19843,City of Villisca - (IA),M
+19830,NRG Vienna Operations Inc,Q
+19798,City of Vernon,M
+19794,Omya Inc,IND
+19781,Viking Energy Corp,Q
+19774,Valley Falls Associates,Q
+19740,AES Wind Generation Inc,COM
+19728,"UNS Electric, Inc",I
+19726,Valdosta City of,M
+19724,Vanderbilt University,Q
+19722,City of Vandalia - (MO),M
+19691,Paulsboro Refining Company - LLC,IND
+19685,Valero Refining Co,IND
+19676,Valero Refining Co California,IND
+19664,University of Washington,S
+19663,Utah State University,S
+19647,USCE-Little Rock District,F
+19635,USCE-Missouri River District,F
+19588,University of Michigan,M
+19586,Utica Water & Power Authority,P
+19578,Upper Peninsula Power Company,I
+19564,University of Notre Dame,COM
+19560,Tri-Dam Power Authority,P
+19558,Homer Electric Assn Inc,C
+19553,Unisea Inc,COM
+19547,Hawaiian Electric Co Inc,I
+19545,"Black Hills Power, Inc. d/b/a",I
+19541,University of North Carolina,S
+19539,University of Iowa,S
+19537,University of Texas at Austin,S
+19533,University of Oklahoma,S
+19532,United Water Conservation Dist,P
+19528,University of Illinois,S
+19526,United States Steel-Gary,IND
+19524,University of California-LA,IND
+19519,United States Steel-Mon Valley,IND
+19517,United States Steel- Clairton,IND
+19511,University of Alaska,S
+19497,United Illuminating Co,I
+19474,City of Unionville - (MO),M
+19462,USCE-Nashville District,F
+19454,City of Unalaska - (AK),M
+19450,Union Carbide Corp-Seadrift,IND
+19449,USACE-Fort Worth District,F
+19436,Union Electric Co - (MO),I
+19406,USCE -Vickburg District,F
+19400,USACE Northwestern Division,F
+19397,City of Ukiah - (CA),M
+19391,UGI Development Co,Q
+19375,USCE-Savannah District,F
+19365,United States Sugar Corp,IND
+19351,U S Gypsum Co,IND
+19316,Two Elk Generation Partners LP,Q
+19314,Twin Falls Hydro Associates LP,Q
+19281,Turlock Irrigation District,P
+19272,Doyon Utilities - Fort Greely,I
+19237,Truman Public Utilities Comm,M
+19216,Tropicana Products Inc,IND
+19204,City of Trinidad - (CO),M
+19198,"Trigen Inner Harbor East, LLC",COM
+19173,Colorado Energy Nations Company LLC,Q
+19171,Trent Wind Farm LP,I
+19165,Trigen-Cinergy Solutions College Park,Q
+19153,Nassau Energy Corp,Q
+19150,Trenton Municipal Utilities - (MO),M
+19148,Veolia Energy Trenton L.P,Q
+19145,"DTE Tuscola, LLC",IND
+19107,ENGIE Resources LLC,
+19102,Transcontinental Gas PL Corp,COM
+19099,TransAlta Centralia Gen LLC,Q
+19091,GDF Suez NA - Hopewell,Q
+19068,"Colorado Energy Nations Company, LLC",Q
+19062,City of Traer - (IA),M
+19037,Tower Kleber Ltd Partnership,Q
+19013,Topsham Hydro Partners,Q
+19002,"CPV Towantic, LLC",Q
+18986,THUMS Long Beach Company,COM
+18981,Thomson Corp,COM
+18963,"Inside Passage Elec Coop, Inc",C
+18947,City of Tipton - (IA),M
+18912,Thunder Bay Power Co LLC,Q
+18895,Thumb Electric Coop of Mich,C
+18850,Thorton Township School Dist,COM
+18843,Thiele Kaolin Co,IND
+18835,Tenaska Alabama B LP,Q
+18820,City of Thief River Falls,M
+18814,Thermo Greeley LLC,Q
+18760,"TPC Group, LLC",IND
+18715,Texas Municipal Power Agency,M
+18668,Tesoro Refining and Marketing Co LLC,IND
+18642,Tennessee Valley Authority,S
+18617,Tesoro Alaska Company LLC,IND
+18611,Tenaska Frontier Partners Ltd,Q
+18574,USCE-Wilmington District,F
+18569,Tenaska Virginia Partners LP,Q
+18535,Tenaska Georgia Partners LP,Q
+18525,City of Tecumseh,M
+18518,Tenaska Gateway Partners Ltd,Q
+18488,City of Taunton,M
+18483,Tampa Wastewater Department,M
+18461,Tamarack Energy Partners,Q
+18454,Tampa Electric Co,I
+18452,Turner Properties Inc,COM
+18445,City of Tallahassee - (FL),M
+18436,"Ampersand Tannery Island Hydro, LLC",Q
+18429,City of Tacoma - (WA),M
+18419,STS HydroPower Ltd-French LDam,Q
+18415,STS HydroPower Ltd-Cascade Dam,Q
+18414,TES Filer City Station LP,Q
+18390,Sycamore Cogeneration Co,IND
+18371,Village of Swanton - (VT),M
+18340,PES,IND
+18323,Toledo Refining Company,IND
+18320,Sunrise Power Co LLC,Q
+18315,Sunflower Electric Power Corp,C
+18301,City of Sumner - (IA),M
+18277,City of Sullivan - (IL),M
+18260,Surprise Valley Electrification,C
+18252,City of Sturgis,M
+18232,STS HydroPower Ltd-Schoolfield Dam,Q
+18231,City of Stuart - (IA),M
+18230,City of Stuart - (NE),M
+18205,Strawberry Water Users Assn,I
+18204,City of Strawberry Point,M
+18194,STS Hydropower Ltd,Q
+18177,City of Story City - (IA),M
+18166,Sun Trust Plaza Associates LLC,COM
+18162,WestRock-Florence,IND
+18157,WestRock Corp-Panama City,COM
+18155,Westrock (LA),M
+18147,RockTenn-Hopewell,IND
+18137,City of Stockton - (KS),M
+18125,Stillwater Utilities Authority,M
+18121,Stillwater Associates,Q
+18102,"Steuben Rural Elec Coop, Inc",
+18086,City of Sterling - (KS),M
+18065,,COM
+18050,State Farm Mutual Auto Ins Co,IND
+18031,Steamboat Development Corp,Q
+18028,State of Wisconsin,S
+18020,Starrett City Inc,COM
+18016,State Farm Mutual Auto Ins Co,COM
+18014,City of State Center - (IA),M
+18000,State of Rhode Island,S
+17976,STS HydroPower Ltd-Ada Dam,Q
+17946,City of Stanberry - (MO),M
+17924,City of Stafford - (KS),M
+17902,"Somersworth Hydro Company, Inc.",Q
+17897,St Mary's Hospital,IND
+17891,City of St Marys - (OH),M
+17887,St Joseph's Hospital,COM
+17886,City of St Louis - (MI),M
+17879,City of St. John - (KS),M
+17876,City of St James - (MN),M
+17874,City of St George,M
+17872,City of St Francis - (KS),M
+17862,City of St Charles - (MN),M
+17845,City of Springville - (UT),M
+17836,Springfield Public Utils Comm - (MN),M
+17834,City of Springfield - (CO),M
+17833,City Utilities of Springfield - (MO),M
+17828,City of Springfield - (IL),M
+17826,"Springer Electric Coop, Inc",C
+17824,Spring Valley Pub Utils Comm,M
+17795,CenturyLink Regional HQ,COM
+17783,City of Spencer - (IA),M
+17727,Village of Spalding - (NE),M
+17725,Snow Mountain Hydro LLC,Q
+17718,Southwestern Public Service Co,I
+17711,Solano County,M
+17698,Southwestern Electric Power Co,I
+17697,Southwestern Electric Coop Inc - (IL),C
+17690,SOWEGA Power LLC,C
+17664,Spartanburg Commissioners PW,M
+17650,Southern Power Co,I
+17633,Southern Indiana Gas & Elec Co,I
+17632,Southern Illinois Power Coop,C
+17627,South Forks Joint Venture,Q
+17610,SP Fiber Technologies LLC,I
+17609,Southern California Edison Co,I
+17604,Southern Minnesota Beet Sugar,IND
+17583,"South Texas Electric Coop, Inc",C
+17573,South San Joaquin Irr District,C
+17568,Cooperative Energy,C
+17566,South Houston Green Power LLC,IND
+17554,"South Carolina Genertg Co, Inc",I
+17543,South Carolina Public Service Authority,S
+17539,South Carolina Electric&Gas Company,I
+17515,Somerset Windpower LLC,Q
+17470,PUD 1 of Snohomish County,M
+17465,WestRock-West Point Mill,IND
+17460,South Oak Hospital,COM
+17449,Smithfield Farmland Corp.,IND
+17445,Solid Waste Authority of Palm Beach Co,P
+17412,County of Sonoma Dept of Trnsp,COM
+17355,Oklahoma Cogeneration LLC,Q
+17330,"ERP Compliant Coke, LLC",IND
+17321,Slate Creek Hydro Assoc LP,Q
+17320,Sleepy Eye Public Utility Comm,M
+17288,Sky River LLC,Q
+17283,Seneca Energy II,Q
+17271,City & Borough of Sitka - (AK),M
+17254,Sithe/Independence LLC,Q
+17235,NRG REMA LLC,Q
+17191,Simplot Leasing Corp,IND
+17177,City of Sikeston - (MO),M
+17166,Sierra Pacific Power Co,I
+17164,Sierra Pacific Industries Inc,IND
+17150,Shorock Hydro Inc,Q
+17149,City of Sidney - (NE),M
+17145,Sid Richardson Carbon Ltd,IND
+17141,City of Sibley - (IA),M
+17139,Shell Oil Co-Deer Park,C
+17127,Town of Shrewsbury - (MA),M
+17106,Sho-Me Power Electric Coop,C
+17069,Shepherd Center,COM
+17058,Shell Wind Energy Inc.,Q
+17052,Shell Chemical LP,Q
+17043,City of Shelby - (OH),M
+17035,City of Shelbina - (MO),M
+16997,Shasta Hydroelectric Inc,COM
+16990,Sheep Creek Hydro Inc,Q
+16988,City of Sharon Springs - (KS),M
+16968,Simplot Phosphates LLC,IND
+16955,City of Seward - (AK),M
+16929,SEMASS Partnership,COM
+16921,City of Seneca - (SC),M
+16909,Selkirk Cogen Partners LP,Q
+16899,SERRF Joint Powers Authority,M
+16873,City of Sebewaing - (MI),M
+16868,City of Seattle - (WA),M
+16864,Seaside Heights Municipal Utility,M
+16839,Seneca Power Partners LP,Q
+16814,Scrubgrass Generating Company LP,Q
+16793,Schuylkill Energy Resource Inc,Q
+16764,City of San Diego,M
+16732,San Jose State University Fclts Dev &Ops,S
+16729,Saranac Power Partners LP,Q
+16721,S D Warren Co.- Westbrook,IND
+16713,Santa Fe Irrigation District,M
+16694,Sauder Woodworking Co,IND
+16668,Sabine Cogen LP,I
+16667,City of Sargent - (NE),M
+16657,San Jose/Santa Clara Water P C,M
+16655,City of Santa Clara - (CA),M
+16653,Sappi Cloquet LLC,IND
+16636,Sargent Canyon Cogeneration Co,IND
+16630,San Gorgonio Farms Inc,Q
+16625,San Diego State University,S
+16624,"San Miguel Electric Coop, Inc",C
+16612,City & County of San Francisco,M
+16609,San Diego Gas & Electric Co,I
+16604,City of San Antonio - (TX),M
+16583,San Antonio Regional Hospital,COM
+16578,Saint Agnes Medical Center,COM
+16572,Salt River Project,P
+16560,City of Salisbury - (MO),M
+16558,City of Salem - (VA),M
+16553,Saguaro Power Co,Q
+16548,St Francis Hospital,COM
+16546,Sacramento County of Dpt Waste,M
+16544,Saint - Gobain Abrasives Inc,IND
+16534,Sacramento Municipal Util Dist,P
+16518,City of Sabetha - (KS),M
+16506,Salinas River Cogeneration Co,IND
+16498,SFR Hydro Cor,Q
+16440,City of Russell - (KS),M
+16380,RTC Properties Inc,COM
+16295,City of Roseville - (CA),M
+16294,Roseburg Forest Products Co,IND
+16233,Heorot Power Management,Q
+16217,Village of Rockville Centre - (NY),M
+16211,City of Rockford- (IA),M
+16206,Rock Rapids Municipal Utility,M
+16198,City of Rock Falls - (IL),M
+16197,Rocky Road Power LLC,Q
+16191,Robbins Lumber Inc,IND
+16190,Sappi Fine Paper North America-Somerset,IND
+16183,Rochester Gas & Electric Corp,I
+16181,Rochester Public Utilities,M
+16179,Rochelle Municipal Utilities,M
+16124,Riverside Generating Co LLC,Q
+16098,"Rio Grande Valley Sugar Growers, Inc.",C
+16088,City of Riverside - (CA),M
+16077,Rio Bravo Rocklin,Q
+16073,Riverview Energy Systems,I
+16070,Rio Blanco Water Conserv Dist,P
+16064,Graphic Packaging International,COM
+16045,Riverside County Waste Management Dept,
+16024,Riverwood Intl USA Inc,IND
+16001,Rhode Island Hospital,COM
+15989,City of Richmond - (IN),M
+15986,Rio Bravo Fresno,Q
+15941,Rice University,Q
+15917,Presence Health,COM
+15908,NRG California South LP,Q
+15873,GenOn Northeast Management Company,Q
+15860,City of Rensselaer - (IN),M
+15824,Ecomaine,M
+15795,William G. Reed Jr,Q
+15793,Redwood Falls Public Util Comm,M
+15787,Redlands Water & Power Company,Q
+15783,City of Redding - (CA),M
+15776,Reedy Creek Improvement Dist,M
+15773,City of Red Cloud - (NE),M
+15772,City of Red Bud - (IL),M
+15743,Frito-Lay Inc,Q
+15734,NRG Energy Center San Diego LLC,Q
+15726,Rayonier Advanced Materials,IND
+15708,"Rathdrum Operating Services Co., Inc.",Q
+15694,Rapidan Redevelopment LLC,M
+15686,Village of Rantoul - (IL),M
+15619,City of Radford - (VA),M
+15597,Riceland Foods Inc.,C
+15537,Brunner Island LLC,
+15534,TalenEnergy Montour LLC,
+15526,Purdue University,S
+15500,Puget Sound Energy Inc,I
+15478,PSEG Nuclear LLC,Q
+15477,Public Service Elec & Gas Co,I
+15474,Public Service Co of Oklahoma,I
+15473,Public Service Co of NM,I
+15472,Public Service Co of NH,I
+15470,"Duke Energy Indiana, LLC",I
+15466,Public Service Co of Colorado,I
+15452,PSEG Power Connecticut LLC,Q
+15430,Detroit Renewable Power,I
+15400,Procter & Gamble Co,IND
+15399,Avangrid Renewables LLC,Q
+15394,Procter & Gamble Ppr Prdts Co,Q
+15388,City of Princeton - (IL),M
+15387,Princeton Public Utils Comm,M
+15380,Prince George's County,M
+15377,City of Primghar - (IA),M
+15375,Procter&Gamble Paper Products Co-Oxnard,C
+15371,Town of Princeton - (MA),M
+15349,City of Preston,M
+15348,Preston Public Utilities Comm,M
+15343,Portside Energy Corp,Q
+15330,Prairie State Generating Co LLC,M
+15321,City of Pratt- (KS),M
+15320,Praxair Inc,IND
+15300,Power Resources Ltd,Q
+15298,Talen Montana LLC,Q
+15296,New York Power Authority,S
+15293,Powell Valley Electric Coop,C
+15286,Marco Power Inc,Q
+15276,TalenEnergy Martins Creek LLC,I
+15262,Potlatch Land and Lumber LLC,IND
+15257,,C
+15253,Power City Partners LP,Q
+15248,Portland General Electric Co,I
+15246,City of Portland - (MI),M
+15237,PCS Nitrogen LP,IND
+15229,City of Poplar Bluff - (MO),M
+15222,"Ponnequin Acquisitions, LLC",Q
+15213,Pontook Operating LP,Q
+15180,City of Pocahontas - (IA),M
+15174,Freeport McMoRan Oil & Gas,IND
+15173,Placid Refining Co LLC,IND
+15147,PSEG Fossil LLC,Q
+15143,Platte River Power Authority,P
+15142,Plains End Operating Services LLC,Q
+15132,City of Plainview - (NE),M
+15127,Placer County Water Agency,
+15114,"Pittsfield Generating Company, LP",Q
+15095,City of Piqua - (OH),M
+15085,Pinetree Power- Tamworth LLC.,Q
+15064,Pinetree Power Inc,Q
+15043,City of Piggott - (AR),M
+14995,"Pinetree Power Fitchburg, LLC",Q
+14989,Freeport McMoRan Inc,IND
+14932,US Operating Services Company,Q
+14928,Pfizer Inc,COM
+14925,Phelps Dodge Refining Corp,IND
+14876,FPL Energy Cape LLC,I
+14856,Petersburg Borough - (AK),M
+14840,City of Peru - (IL),M
+14839,City of Peru - (IN),M
+14762,Pensacola Christian College,COM
+14685,Pelzer Hydro Co Inc,Q
+14656,City of Pender - (NE),M
+14653,PUD No 1 of Pend Oreille County,M
+14645,City of Pella - (IA),M
+14629,Pecos Wind II LP,Q
+14628,Pecos Wind I LP,Q
+14624,PUD No 2 of Grant County,
+14610,Orlando Utilities Comm,M
+14605,City of Peabody - (MA),M
+14600,Payson City Corporation,M
+14597,Algonquin Northern Maine,Q
+14584,Pawtucket Power Associates LP,Q
+14582,City of Pawhuska - (OK),M
+14539,Passaic Valley Water Comm,M
+14534,City of Pasadena - (CA),M
+14519,Pasco County,M
+14465,Park 500 Philip Morris USA,IND
+14459,City of Paris - (KY),M
+14446,Paragould Light & Water Comm,M
+14433,City of Panora - (IA),M
+14432,"Panther Creek Power Operating, LLC",Q
+14417,Panduit Corp,IND
+14410,"KMC Thermo, LLC",Q
+14405,Power Choice/Pepco Energy Serv,F
+14395,Palm Springs City of,M
+14381,City of Painesville,M
+14372,Pacific Klamath Energy Inc,Q
+14369,PCA-Tomahawk Mill,IND
+14362,Packaging Corp of America,IND
+14354,PacifiCorp,I
+14328,,I
+14323,Pacific Northwest Generating Coop,C
+14310,P H Glatfelter Co,IND
+14306,Eagle 2 US LLC,IND
+14294,PSEG Power New York Inc,Q
+14293,Nalco Co,Q
+14289,Ozarks Electric Coop Corp - (AR),C
+14277,Village of Oxford - (NE),M
+14276,City of Oxford - (KS),M
+14274,Otay Mesa Energy Center LLC,Q
+14268,City of Owensboro - (KY),M
+14266,TalenEnergy Susquehanna LLC,Q
+14265,OLS Energy-Chino,Q
+14254,Oxy Vinyls LP,IND
+14246,City of Owatonna - (MN),M
+14243,Owyhee Irrigation District,Q
+14240,Oswego City of,M
+14236,Ottumwa City of,M
+14232,Otter Tail Power Co,I
+14229,City of Ottawa - (KS),M
+14222,Oswego County,M
+14216,City of Osceola - (AR),M
+14214,City of Osborne - (KS),M
+14203,City of Osawatomie - (KS),M
+14201,City of Osage - (IA),M
+14199,City of Osage City - (KS),M
+14194,City of Orrville - (OH),M
+14191,South Feather Water and Power Agency,P
+14184,Orlando CoGen Ltd LP,Q
+14182,Sterling Power Partners LP,Q
+14173,Oroville Cogeneration LP,Q
+14172,City of Ord - (NE),M
+14165,NRG Power Midwest LP,Q
+14164,City of Orangeburg - (SC),M
+14155,Orange County Sanitation Dist,P
+14127,Omaha Public Power District,P
+14077,Oklahoma Municipal Power Authority,S
+14063,Oklahoma Gas & Electric Co,I
+14030,Oklahoma State University,S
+14015,Ohio Valley Electric Corp,I
+14006,Ohio Power Co,I
+13994,Oglethorpe Power Corporation,C
+13990,City of Ogden - (IA),M
+13989,California Resources Elk Hills LLC,IND
+13982,Ogden Projects Inc-Haverhill,COM
+13964,Oconto Electric Cooperative,C
+13960,NRG Cabrillo Power Ops Inc,Q
+13949,City of Oberlin - (OH),M
+13948,City of Oberlin - (KS),M
+13945,Oakwood Hospital Med Center,Q
+13943,Ocean County Utilities Auth,P
+13938,Oak Creek Energy System Inc II,Q
+13935,Oakdale&South San Joaquin Irrigation D.,P
+13923,NRG Oswego Harbor Power Operations Inc,Q
+13914,Occidental Chemical Corporation,IND
+13908,NRG South CentralOperationsInc,Q
+13902,NorthWestern Energy,I
+13886,NRG Sterlington Power LLC,Q
+13876,Nove Investments I LLC,Q
+13875,NRG Energy Center Paxton LLC,I
+13870,"Nushagak Electric Coop, Inc",C
+13866,NWP Indian Mesa Wind Farm LP,Q
+13833,Northeastern Power Co,Q
+13831,City of Norwich - (CT),M
+13826,City of Norway,M
+13815,Northwestern Wisconsin Elec Co,I
+13809,NorthWestern Energy - (SD),I
+13808,Northern Iowa Windpower LLC,Q
+13788,Northern Wasco County PUD,P
+13781,Northern States Power Co - Minnesota,I
+13765,Northlake Energy,IND
+13763,Northbrook Carolina Hydro LLC,Q
+13756,Northern Indiana Pub Serv Co,I
+13718,City of North Little Rock - (AR),M
+13697,North Central Power Co Inc,I
+13683,North Carolina El Member Corp,C
+13681,North Branch Water & Light Comm,M
+13657,Norfork Southern Corp,IND
+13642,Nome Joint Utility Systems,M
+13630,North Carolina Mun Power Agny #1,P
+13587,Nissequoque Cogen Partners,Q
+13584,NRG El Segundo Operations Inc,Q
+13582,NRG Astoria Gas Turbine Operations Inc,Q
+13579,Dunkirk Power LLC,Q
+13559,North American Natural Res,Q
+13542,Newman & Co Inc,IND
+13538,Essential Power Newington LLC,Q
+13525,Newberry Water & Light Board,M
+13511,New York State Elec & Gas Corp,I
+13492,New Hope Power Company,IND
+13491,New York University,Q
+13488,New Ulm Public Utilities Comm,M
+13487,New York Zoological Society,Q
+13484,New York Methodist Hospital,COM
+13483,City of New Roads - (LA),M
+13480,New Prague Utilities Comm,M
+13478,,I
+13468,New London Municipal Utilities,M
+13466,City of New Lisbon,M
+13464,Village of New Knoxville - (OH),M
+13444,City of New Hampton - (IA),M
+13442,New Hampshire Hydro Associates,Q
+13407,Nevada Power Co,I
+13402,Nevada Irrigation District,P
+13399,Nevada Cogeneration Assoc # 1,Q
+13389,Neshkoro Power Assc LLC,M
+13365,Nevada Cogeneration Assoc # 2,Q
+13353,Nelson Creek Power Inc,IND
+13337,Nebraska Public Power District,P
+13334,City of Nebraska City,M
+13206,Nantucket Electric Co,I
+13201,"Naknek Electric Assn, Inc",C
+13193,Naniwa Energy LLC,COM
+13192,NRG Arthur Kill Operations Inc,Q
+13157,Omaha City of,M
+13143,Board of Water Electric & Communications,M
+13137,City of Murray - (UT),M
+13124,Murphy - Brown LLC,IND
+13100,Municipal Electric Authority,M
+13095,City of Mulvane - (KS),M
+13060,Mt Poso Cogeneration Co,Q
+13048,City of Mountain Lake - (MN),M
+13038,City of Mt Pleasant - (IA),M
+13037,City of Mt Pleasant - (UT),M
+13008,Expera Mosinee LLC,IND
+12989,Village of Morrisville - (VT),M
+12986,Morton Salt Inc,IND
+12981,Motiva Enterprises LLC,IND
+12949,Morgantown Energy Associates,Q
+12944,City of Morganton - (NC),M
+12900,City of Mora - (MN),M
+12897,Moose Lake Water & Light Comm,M
+12894,City of Moorhead - (MN),M
+12869,Monterey Regional Waste Mgmt,M
+12866,Moon Lake Electric Assn Inc,C
+12850,Monterey Cnty Water Res Agency,M
+12839,City of Montezuma - (IA),M
+12834,Dutchess County RRA,M
+12825,NorthWestern Energy LLC - (MT),
+12807,,
+12802,City of Monroe City - (MO),M
+12796,Monongahela Power Co,I
+12792,NRG New York LLC,Q
+12773,Monmouth Energy Inc,Q
+12758,Model City Energy LLC,Q
+12745,Modesto Irrigation District,P
+12739,Mobile Energy LLC,Q
+12713,Millennium Power Partners LP,Q
+12710,Missouri Basin Muni Power Agny,P
+12704,Mississippi Baptist Medical,Q
+12687,Midway-Sunset Cogeneration Co,Q
+12686,Mississippi Power Co,I
+12685,Entergy Mississippi Inc,I
+12670,Missouri Jnt Muni.Pwr Elec. Ut. Comm.,P
+12667,Minnesota Municipal Power Agny,P
+12658,"Minnkota Power Coop, Inc",C
+12653,GenOn Mid-Atlantic LLC,Q
+12647,"ALLETE, Inc.",I
+12632,Minnesota Mining & Mfg Co,IND
+12631,NRG Delta LLC,Q
+12628,NRG Chalk Point LLC,Q
+12625,City of Minden - (LA),M
+12619,Milwaukee Metro Sewerage Dist,M
+12594,Mills Shoals Hydro Co Inc,Q
+12568,Milford Power Co LLC,Q
+12564,"SEPG Operating Services, LLC MGC",Q
+12562,FPL Energy FPL E Mill Run WIndpower LLC,I
+12541,City of Milford - (IA),M
+12524,Midwest Energy Inc,C
+12502,Middle Fork Irrigation Dist,M
+12501,Midlothian Energy LLC,Q
+12492,Midland Cogeneration Venture,Q
+12490,Middletown Power LLC,Q
+12469,Milford Power Ltd Partnership,Q
+12465,"System Energy Resources, Inc",I
+12455,Michigan Power Limited Partnership,Q
+12454,Mi-28 Water Power Project LLC,Q
+12449,Mid Set Cogeneration Co,IND
+12436,Michigan State University,S
+12421,Mill Shoals Hydro Co Inc,Q
+12411,Miami Dade Water & Sewer Dept,M
+12401,Merimil Ltd Partnership,Q
+12397,Metropolitan Water District of S CA,S
+12385,Metlakatla Power & Light,
+12384,Midwest Generations EME LLC,Q
+12382,Metropolitan Dist of Hartford,M
+12380,Montana Dept-Natural Res&Consv,S
+12374,Metropolitan Sewerage District,M
+12341,MidAmerican Energy Co,I
+12320,Merck & Co Inc,IND
+12312,Merced Irrigation District,P
+12311,Merck & Co Inc,IND
+12307,WestRock (TX),IND
+12303,Merck & Co Inc-West Point,IND
+12294,City of Memphis - (MO),M
+12286,Melrose Public Utilities,M
+12258,Medical Area Total Egy Plt Inc,I
+12242,City of Meade - (KS),M
+12239,Mega Renewables,COM
+12222,Mead Coated Board Inc,IND
+12221,MRWPCA,M
+12208,City of McPherson - (KS),M
+12199,Montana-Dakota Utilities Co,I
+12186,McMinnville Electric System,M
+12167,City of McLeansboro - (IL),M
+12159,Midwest Electric Power Inc,Q
+12119,McGrath Light & Power Co,I
+12114,City of McGregor- (IA),M
+11943,McCallum Enterprises I LP,Q
+11936,McBryde Sugar Co Ltd,Q
+11843,Maui Electric Co Ltd,I
+11824,Matanuska Electric Assn Inc,C
+11820,Massachusetts Inst of Tech,COM
+11806,Massachusetts Mun Wholes Electric Co,P
+11804,Massachusetts Electric Co,I
+11782,Marysville Hydro Partners,Q
+11770,City of Martinsville - (VA),M
+11741,Masspower,Q
+11740,City of Marshfield - (WI),M
+11736,City of Marshall - (IL),M
+11732,City of Marshall - (MO),M
+11731,City of Marshall - (MN),M
+11724,Massachusetts Bay Trans Auth,S
+11716,Marsh Valley Development Inc,Q
+11713,City of Marshall - (MI),M
+11704,Maryland Environmental Service,S
+11701,City of Marquette - (MI),M
+11664,Mark Technologies Corp,Q
+11651,Martinez Refining Co,IND
+11637,Marathon Electric Mfg Corp,IND
+11626,City of Marceline - (MO),M
+11624,City of Marblehead - (MA),M
+11611,City of Maquoketa - (IA),M
+11588,City of Manti - (UT),M
+11586,Town of Mansfield - (MA),
+11581,City of Manning,M
+11571,Manitowoc Public Utilities,M
+11569,Manchief Power Co LLC,Q
+11566,City of Mangum - (OK),M
+11560,City of Manassas - (VA),M
+11556,Brookfield Energy Marketing LP,Q
+11540,City of Malden - (MO),M
+11495,Magic Reservoir Hydroelec Inc,Q
+11481,City of Madison - (NE),M
+11479,Madison Gas & Electric Co,I
+11468,Madison Hydro Partners,Q
+11460,City of Macon - (MO),M
+11459,March Point Cogeneration Co,IND
+11427,,P
+11426,Massachusetts Water Res Auth,S
+11415,"M.A. Patout & Son Limited, LLC",IND
+11401,,COM
+11390,M&M Mars Inc,IND
+11372,City of Lyons - (NE),M
+11359,Village of Lyndonville - (VT),M
+11332,City of Luverne - (MN),M
+11329,NYU Langone Health,Q
+11295,Los Angeles County-San Gabriel,M
+11292,City of Lubbock - (TX),M
+11290,Lacomb Irrigation Dist,Q
+11284,Lowndes County Hospital Authority,COM
+11278,Lower Tule River Irrgtn Dist,M
+11275,Lower Mount Bethel Energy LLC,I
+11273,Lower Valley Energy Inc,C
+11270,Lower Saranac Hydro Partner LP,Q
+11269,Lower Colorado River Authority,S
+11268,City of Lowell - (MI),M
+11252,Louisiana Generating LLC,Q
+11251,Loup River Public Power Dist,P
+11249,Louisville Gas & Electric Co,I
+11241,Entergy Louisiana LLC,I
+11233,Louisiana Tech University,S
+11217,Los Angeles County Sanitation,P
+11216,Los Angeles County,M
+11208,Los Angeles Department of Water & Power,M
+11204,Los Alamos County,M
+11169,Longview Fibre Co,IND
+11161,Loma Linda University,COM
+11135,City of Logan - (UT),M
+11127,Lockport Energy Associates LP,Q
+11118,Lockhart Power Co,I
+11082,Littlewood Irrigation District,Q
+11079,Little Rock Wastewater Utility,M
+11064,Litchfield Public Utilities,M
+11059,Pasadena Cogeneration LP,Q
+11018,Lincoln Electric System,M
+11017,City of Lincoln Center - (KS),M
+10963,Lewiston City of,M
+10944,PUD No 1 of Lewis County,
+10908,City of Lenox - (IA),M
+10875,Lee County Board-Commissioners,M
+10830,City of Lebanon - (OH),M
+10810,LAX Airport,M
+10777,Town of Laverne - (OK),M
+10769,City of Laurens - (IA),M
+10760,City of Laurel - (NE),M
+10730,City of Las Animas - (CO),M
+10723,Lateral 10 Ventures,Q
+10714,Little Falls Hydroelec Assoc,Q
+10713,City of Larned - (KS),M
+10685,Lanesboro Public Utility Comm,M
+10657,Lagoon Corp,Q
+10650,City of Lamoni - (IA),M
+10633,City of Lamar - (CO),M
+10628,City of Lakin - (KS),M
+10623,City of Lakeland - (FL),M
+10622,City of Lakefield - (MN),M
+10620,City of Lake Worth - (FL),M
+10608,City of Lake Park - (IA),M
+10606,City of Lake Mills,M
+10604,Lake Lure Town of,M
+10596,City of Lake Crystal - (MN),M
+10576,Lake Road Generating Co LP,Q
+10575,Lachute Hydro Co Inc,Q
+10559,City of La Crosse - (KS),M
+10542,La Porte City Utilities,M
+10538,City of La Plata - (MO),M
+10536,City of La Junta - (CO),M
+10525,La Farge Municipal Electric Co,M
+10451,Kotzebue Electric Assn Inc,C
+10433,Kodiak Electric Assn Inc,C
+10393,PUD No 1 of Klickitat County,M
+10376,Kissimmee Utility Authority,M
+10363,Koyle Hydro Inc,Q
+10362,Kiowa Power Partners LLC,Q
+10349,KIAC Partners,Q
+10347,Kinneytown Hydro Co Inc,Q
+10339,Kings Bay Naval Base,F
+10337,KES Kingsburg LP,Q
+10325,Kings River Conservation Dist,P
+10321,City of Kingman - (KS),M
+10320,City of Kingfisher - (OK),M
+10273,Kimberly-Clark Corp,IND
+10260,City of Kimball - (NE),M
+10230,Keystone Recovery Inc,Q
+10210,Ketchikan Public Utilities,M
+10203,Kern River Cogeneration Co,IND
+10179,Kenyon Municipal Utilities,M
+10171,Kentucky Utilities Co,I
+10162,Kent County,M
+10152,City of Kennett - (MO),M
+10099,Kaweah River Power Authority,Q
+10077,Kaweah Delta Hospital,IND
+10071,Kauai Island Utility Cooperative,C
+10056,City of Kaukauna,M
+10046,Kas Brothers Windfarm LLC,Q
+10035,Kansas Municipal Energy Agency,M
+10005,Kansas Gas & Electric Co,I
+10004,King County Dept-Natural Res,M
+10000,Kansas City Power & Light Co,I
+9996,City of Kansas City - (KS),M
+9989,Kalaeloa Partners LP,Q
+9973,City of Kahoka,M
+9961,Kansas Electric Power Coop Inc,C
+9948,"Kyocrea International, Ind",IND
+9928,City of Julesburg - (CO),M
+9897,City of King Cove,M
+9879,City Water and Light Plant,M
+9778,Johnson County Rural E M C,C
+9776,City of Johnson - (KS),M
+9765,John Deere Dubuque Works,IND
+9732,City of Jetmore,M
+9726,Jersey Central Power & Lt Co,I
+9686,,IND
+9650,City of Janesville - (MN),M
+9645,Jamestown Board of Public Util,M
+9617,JEA,M
+9603,City of Jackson - (MO),M
+9454,ArcelorMittal Cleveland Inc,IND
+9442,Town of Ipswich - (MA),M
+9439,Isabella Partners,COM
+9436,Mosaic Phosphates Co.,IND
+9434,Iowa State University,COM
+9425,Iowa Lakes Electric Coop,C
+9424,International Paper Co-Eastovr,IND
+9418,City of Iola - (KS),M
+9417,Interstate Power and Light Co,I
+9401,International Paper Co-Pensacola,IND
+9397,International Turbine Res Inc,Q
+9394,Interstate Paper LLC,IND
+9393,International Paper Co-Riverdl,IND
+9390,International Paper Co-GT Mill,IND
+9385,International Paper Co,IND
+9383,Mosaic Fertilizer LLC,IND
+9382,International Paper Co-Vicksbg,IND
+9379,"Inter-Power/AhlCon Partners, L.P.",Q
+9370,Hydrodynamics Inc,Q
+9357,Hampshire Paper Co Inc,Q
+9353,International Paper Co-Augusta,IND
+9350,IPC-Ticonderoga,IND
+9348,International Paper,IND
+9339,International Bound & Wtr Comm,F
+9335,Indiana University of Penn,S
+9332,Indian River Operations Inc,Q
+9324,Indiana Michigan Power Co,I
+9312,IPC-Mansfield Mill,IND
+9303,Bucksport Generation LLC,IND
+9297,IPT SRI Cogeneration Inc,IND
+9286,Illinois Municipal Elec Agency,M
+9275,Indianola Municipal Utilities,M
+9273,Indianapolis Power & Light Co,I
+9269,Indiana-Kentucky Electric Corp,I
+9267,"Hoosier Energy R E C, Inc",C
+9263,Indeck-Corinth Ltd Partnership,Q
+9261,Indeck-Olean Ltd Partnership,Q
+9245,Indeck-Energy Serv Silver Spg,Q
+9244,Indeck-Oswego Ltd Partnership,Q
+9243,Indeck-Yerkes Ltd Partnership,Q
+9234,Indiana Municipal Power Agency,P
+9231,City of Independence - (MO),M
+9227,Ingersall Machine Tools Inc.,COM
+9216,Imperial Irrigation District,
+9210,International Paper Co-Riegelwood,IND
+9209,Illinois Rural Electric Coop,C
+9205,Illinois Electricial Gen Partn,COM
+9191,Idaho Power Co,I
+9188,"I-N-N Electric Coop, Inc",C
+9187,City of Idaho Falls - (ID),M
+9155,Inland Empire Energy Ctr LLC,COM
+9143,Hydro Technology Systems Inc,Q
+9130,Hutchinson Utilities Comm,M
+9128,Hurricane City Power,M
+9097,Huntington Resource Recovery,Q
+9093,Hydro Energies Inc,Q
+9011,City of Hugoton - (KS),M
+8973,Town of Hudson - (MA),M
+8927,Hunterdon Cogeneration LP,Q
+8884,Terrebonne Parish Consol Gov't,M
+8862,Horseshoe Bend Hydroelectric Co,Q
+8847,City of Hopkinton - (IA),M
+8797,Hull Municipal Light Plant,M
+8795,City of Homestead - (FL),M
+8787,Humboldt Bay Mun Water Dist,M
+8785,Homestretch Geothermal LLC,Q
+8776,City of Holyoke Gas and Electric Dept.,M
+8770,City of Holton - (KS),M
+8751,Town of Holly - (CO),M
+8736,Hollingworth & Vose Co,IND
+8723,City of Holland,M
+8705,Hoffer Plastics,IND
+8703,City of Hoisington - (KS),M
+8696,Hoge Lumber Co,IND
+8688,Hofstra University,Q
+8683,CSL Behring LLC,IND
+8641,Hillman Power Co,Q
+8633,Hillsborough County,M
+8631,Hillsdale Board of Public Wks,M
+8628,City of Hillsboro - (ND),M
+8599,City of Hill City,M
+8596,High Shoals Hydro,Q
+8573,City of Highland,M
+8567,City of Higginsville - (MO),M
+8565,"FPLE High Winds, LLC",Q
+8543,Hibbing Public Utilities Comm,M
+8530,HYPOWER INC,Q
+8503,Hermiston Generating Co LP,Q
+8490,City of Herington - (KS),M
+8486,PInova Inc,IND
+8453,Hendricks Regional Health,
+8366,Heber Light & Power Company,M
+8365,Hazelton/Wilson Joint Venture,Q
+8353,Sprague Hydro LLC,Q
+8303,Harbor Cogeneration Co.,Q
+8294,Hawkeye Power Partners LLC,Q
+8287,Hawaii Electric Light Co Inc,I
+8248,Hastings Lock & Dam,M
+8245,City of Hastings - (NE),M
+8205,City of Hart Hydro - (MI),M
+8198,City of Harrisonburg - (VA),M
+8181,Harrisburg Authority,M
+8153,Hartford Steam Co,Q
+8122,Harlan Municipal Utilities - (IA),M
+8027,Handsome Lake Energy LLC,Q
+8009,International Paper Co,IND
+7977,City of Hamilton - (OH),M
+7969,City of Halstad - (MN),M
+7869,Hermiston Power Partnership,Q
+7860,NRG Energy Center Dover LLC,Q
+7857,Great Lakes Tissue Co,IND
+7833,Gwitchyaa Zhee Utility Co,C
+7801,Gulf Power Co,I
+7751,Guadalupe Blanco River Authority,S
+7743,Grundy Center Mun Light & Power,M
+7726,Sharp Grossmont Hospital,COM
+7724,AltaGas San Joaquin Energy Inc.,Q
+7667,Gregory Power Partners LP,I
+7651,Greenwood Utilities Comm,M
+7634,City of Greenville - (TX),M
+7630,Village of Greenport - (NY),M
+7626,City of Greenfield - (IA),M
+7601,Green Mountain Power Corp,I
+7597,Green Country OP Services LLC,Q
+7595,Great Lakes Hydro America LLC,Q
+7570,Great River Energy,C
+7564,Grays Ferry Cogen Partnership,Q
+7531,Gray County Wind Energy LLC,Q
+7494,City of Granite Falls - (MN),M
+7490,Grand River Dam Authority,S
+7487,City of Grand Marais - (MN),M
+7486,City of Grand Junction - (IA),M
+7483,City of Grand Haven - (MI),M
+7475,Graphic Packaging Corp,IND
+7444,City of Grafton - (ND),M
+7443,City of Graettinger - (IA),M
+7424,Gowrie Municipal Utilities,M
+7375,Goodyear Tire & Rubber Co,S
+7374,City of Goodland - (KS),M
+7370,City of Gonzales - (TX),M
+7353,Golden Valley Elec Assn Inc,C
+7349,"Golden Spread Electric Cooperative, Inc",C
+7308,Hawkeye Energy Greenport LLC,Q
+7294,City of Glendale - (CA),M
+7292,Glencoe Light & Power Comm,M
+7277,Calpine Corporation,Q
+7257,City of Girard - (KS),M
+7209,The Gillette Company,IND
+7199,Gilberton Power Co,Q
+7191,Axiall Corp,Q
+7189,Gila Bend Power Partners LLC,I
+7172,Georgia-Pacific Cedar Springs LLC,IND
+7168,CITGO Petroleum Corp,IND
+7167,GP Big Island LLC,COM
+7166,Georgia-Pacific Monticello LLC,IND
+7160,Geysers Power Co LLC,Q
+7140,Georgia Power Co,I
+7136,Georgia-Pacific Consr Prods LP-Naheola,IND
+7127,Georgia-Pacific Consr Prods LP-Savannah,IND
+7100,Village of Genoa - (OH),M
+7096,City of Geneva- (IL),M
+7095,City of Geneseo - (IL),M
+7092,General Mills Inc,IND
+7080,Aclara Meters LLC,IND
+7075,General Electric Co,IND
+7067,Tata Chemicals Partners,IND
+7049,General Electric Aircraft Engines,IND
+7043,Temple-Inland Corp,IND
+7019,Gay & Robinson Inc,COM
+7011,Gas Recovery Services-IL Inc,Q
+7004,"Buckeye Power, Inc",C
+6985,Garwin McNeilus,Q
+6965,City of Garnett - (KS),M
+6958,City of Garland - (TX),M
+6957,"Garkane Energy Coop, Inc",C
+6949,City of Gardner - (KS),M
+6924,City of Gallatin - (MO),M
+6915,Galena Electric Utility,M
+6909,Gainesville Regional Utilities,M
+6883,Evanston Board of Education,COM
+6870,"Backbone Mountain Windpower, LLC",Q
+6865,FPL Energy Meyersdale Windpower LLC,Q
+6862,"Green Mountain Storage, LLC",Q
+6854,NextEra Energy Seabrook LLC,I
+6850,"FPL Energy Hancock County Wind, LLC",Q
+6839,City of Fulton - (MO),M
+6838,Rensselaer Generating LLC,Q
+6833,Cherokee County Cogen Partners LLC,Q
+6832,RISEC Opeating Services,Q
+6831,Ft Worth City of,M
+6830,Fulcrum Inc,Q
+6789,French Paper Co,IND
+6779,City of Fremont - (NE),M
+6775,Village of Freeport - (NY),M
+6764,Village of Freeburg - (IL),M
+6763,Freestone Power Generation LLC,Q
+6738,Franklin Heating Station,Q
+6723,City of Franklin - (NE),M
+6715,City of Franklin - (VA),M
+6710,Town of Edenton - (NC),M
+6693,Marcus Hook Energy LP,
+6675,Fox Metro Water Reclamation,M
+6667,Ergon Refining Inc,IND
+6659,Foster Wheeler Power Sys Inc,Q
+6636,Foss Manufacturing Company LLC,IND
+6632,Fountain Valley Power LLC,Q
+6616,Fort Pierce Utilities Authority,M
+6615,City of Fort Pierre - (SD),M
+6607,FPL Energy Vansycle LLC,Q
+6589,,IND
+6579,City of Forest City- (IA),M
+6564,Formosa Plastics Corp,IND
+6541,Formosa Plastics Corp,IND
+6529,Exxon Mobil Production Co,IND
+6527,Ford Hydro Ltd Partnership,Q
+6526,FirstEnergy Generation Corp,I
+6495,Fort Miller Associates,Q
+6458,First Energy Solutions Corp.,
+6455,"Duke Energy Florida, LLC",I
+6452,Florida Power & Light Co,I
+6443,"Florida Keys El Coop Assn, Inc",C
+6426,Flint Hills Resources Corpus Christi LLC,IND
+6417,City of Flora - (IL),M
+6389,FirstEnergy Generation Corp,
+6371,First National Bank-Commerce,Q
+6359,Falls Creek Hydroelectric Project LP,Q
+6354,FPL Energy Upton Wind LP,Q
+6306,"Benson Power, LLC.",Q
+6288,Mink Creek Hydro Entity,Q
+6274,City of Fennimore - (WI),M
+6258,Federated Rural Electric Assn,C
+6235,,M
+6231,City of Fayette - (MO),M
+6207,Farmington River Power Company,I
+6205,City of Farmington - (MO),M
+6204,City of Farmington - (NM),M
+6201,Farmer's Irrigation District,M
+6192,City of Farmer City - (IL),M
+6175,City of Falls City - (NE),M
+6169,Fall River Rural Elec Coop Inc,C
+6141,City of Fairfield- (IL),M
+6138,City of Fairfax - (MN),M
+6132,City of Fairbury,M
+6091,Exxon Mobil Refining and Supply Co.,IND
+6090,ExxonMobil Oil Corp,IND
+6088,Exxon Mobil Corp,IND
+6036,ESOCO Orrington LLC,COM
+6035,Exelon Power,Q
+6028,Entergy Nuclear Indian Point 3,I
+6027,Entergy Nuclear Indian Point 2,I
+6017,ESI Vansycle Partners LP,Q
+6013,Eugene Water & Electric Board,M
+5998,City of Estherville - (IA),M
+5989,Erving Paper Mills Inc,IND
+5969,City of Escondido - (CA),M
+5959,Erie Coke Corp,IND
+5957,City of Erie - (KS),M
+5932,City of Ephraim - (UT),M
+5914,Erie Boulevard Hydropower LP,Q
+5906,EDF Renewable Services Inc,Q
+5901,Encina Joint Powers Authority,M
+5860,Empire District Electric Co,I
+5850,City of Emerson - (NE),M
+5834,City of Elroy - (WI),M
+5811,Empire Hydro Partners,Q
+5802,City of Ellinwood - (KS),M
+5773,City of Elk River,M
+5761,Ennis Power Company LLC,COM
+5748,Electric Energy Inc,Q
+5701,El Paso Electric Co,I
+5695,Desert Star Energy Center SDG&E,I
+5677,Waste Energy Services Inc,IND
+5670,Ebensburg Power Co,Q
+5625,Easton Utilities Comm,M
+5624,"RED-Rochester, LLC",IND
+5623,Rousselot Inc,IND
+5610,Eastman Chemical Co-TN Ops,IND
+5580,"East Kentucky Power Coop, Inc",C
+5571,East Bay Municipal Util Dist,M
+5563,City of Earlville - (IA),M
+5533,"EF Oxnard, LLC",Q
+5532,E I Colton LLC,M
+5530,E F Kenilworth LLC,Q
+5529,City of Durant - (IA),M
+5519,ExxonMobil Oil Corp,IND
+5517,Dynegy Midwest Generation Inc,Q
+5511,CCI Roseton LLC,Q
+5499,Targa Midstream Services LP,IND
+5483,DuPage County,M
+5416,"Duke Energy Carolinas, LLC",I
+5385,Dry Creek LLC,Q
+5374,Dow Chemical Company-Oyster Creek VIII,Q
+5352,Dow Chemical Co - St Charles,IND
+5347,Dow Chemical Co,IND
+5338,Dow Chemical Co,IND
+5336,City of Dover - (OH),M
+5326,PUD No 1 of Douglas County,M
+5321,"Drummond Company, Inc.",IND
+5310,Doswell Ltd Partnership,Q
+5302,AES Ohio Generation LLC,Q
+5277,"American Sugar Refining, Inc.",Q
+5262,Domtar Industries Inc,IND
+5259,Elwood Energy LLC,Q
+5232,Woodland Pulp LLC,IND
+5226,Dodge Falls Associates LP,Q
+5221,,I
+5199,Devon Energy Production Co,IND
+5187,Douglas County,M
+5178,Dinwiddie Power Inc,Q
+5164,Denver City & County-Foothills,Q
+5155,City of Dike,M
+5111,City of Detroit Lakes - (MN),M
+5109,DTE Electric Company,I
+5097,City of Deshler - (NE),M
+5093,Desert Water Agency,M
+5089,Des Moines Metro WRF,P
+5084,Delaware Municipal Electric Corp,M
+5070,Delaware Electric Cooperative,C
+5068,Denver City & County of,Q
+5065,Equistar Chemicals LP,IND
+5063,City of Denton - (TX),M
+5056,City of Denison - (IA),M
+5033,Domtar Industries Inc,IND
+5030,Delta Energy Center LLC,Q
+5015,Delano Municipal Utilities,M
+4994,Deer Park Energy Center,Q
+4980,Haw River Hydro Co,Q
+4966,Casco Bay Energy Co LLC,Q
+4959,Aniak Light & Power Co Inc,I
+4945,Dearborn Industrial Gen Inc,Q
+4922,Dayton Power & Light Co,I
+4919,City of Dayton - (IA),M
+4836,City of David City,M
+4823,Dartmouth College,COM
+4794,City of Danville - (VA),M
+4775,Dakota Magic Casino,Q
+4767,Dane County Public Works,M
+4735,Dahowa Hydro,Q
+4732,Western Power & Steam Inc,
+4716,Dairyland Power Coop,C
+4715,Dahlberg Light & Power Co,I
+4713,D/R Hydro Co,Q
+4667,City of Cushing - (OK),M
+4661,City of Curtis - (NE),M
+4660,CII Carbon LLC,IND
+4627,City of Cumberland - (WI),M
+4619,Town of Culpeper- (VA),M
+4604,City of Crystal Falls,M
+4580,Georgia-Pacific LLC,IND
+4566,Crotched Mt Rehab Ctr Inc,COM
+4562,City of Croswell - (MI),M
+4558,Cutrale Citrus Juices USA Inc,IND
+4538,Crisp County Power Comm,P
+4527,City of Crete,M
+4498,Covanta Stanislaus Inc,Q
+4497,Covanta Indianapolis Inc,I
+4496,Covanta Alexandria/Arlington,M
+4487,Covanta Onondega LP,Q
+4484,Covanta Babylon Inc,COM
+4482,Covanta Lake Inc,Q
+4476,Covanta Marion Inc,Q
+4474,Covanta Bristol Inc,Q
+4468,Crestwood Corp,Q
+4464,Crockett Cogeneration,Q
+4458,Covanta Warren Energy Resource Co LP,Q
+4447,Covanta Lancaster Inc,M
+4440,Covanta Union Operations LLC,Q
+4436,Covanta Hydro Ops West Inc,Q
+4435,Covanta Energy Co,M
+4434,New Martinsville Hannibal Hydro,Q
+4426,NAES Corp,P
+4425,Covanta Fairfax Inc,COM
+4417,Ingredion Inc - Winston Salem,IND
+4413,Cox Interior Inc,IND
+4405,Cottonwood Energy Co LP,Q
+4397,Coso Operating Co LLC,Q
+4386,Cornell Hydro,Q
+4385,Anderson Power Products,IND
+4383,Corpus Christi Cogeneration LLC,Q
+4382,Colton Power LP,I
+4375,City of Corning - (IA),M
+4363,Corn Belt Power Coop,C
+4361,Ingredion Inc - Stockton,IND
+4329,"Copper Valley Elec Assn, Inc",C
+4305,City of Coon Rapids,M
+4277,Converse Energy Inc,Q
+4254,Consumers Energy Co,I
+4247,Consolidated Water Power Co,I
+4226,Consolidated Edison Co-NY Inc,I
+4222,Ingredion Inc - Illinois,IND
+4217,Colstrip Energy LP,Q
+4211,"Consolidated Hydro NH, Inc",Q
+4210,Cordova Energy Co LLC,Q
+4208,Phillips 66 Company,IND
+4207,Consolidated Hydro NH Inc,Q
+4202,Phillips 66-Ponca City Refinery,IND
+4194,Commonwealth Chesapeake Co LLC,Q
+4180,Connecticut Mun Elec Engy Coop,C
+4174,Cokenergy Inc,IND
+4161,Constellation Power Source Gen,Q
+4119,Hewlett-Packard Company,C
+4065,City of Columbus - (OH),M
+4045,City of Columbia - (MO),M
+4028,Columbia Energy LLC,Q
+3998,Desert View Power Inc,Q
+3990,Colorado River Indian Irr Proj,F
+3989,City of Colorado Springs - (CO),M
+3953,Collins Pine Co,Q
+3930,Co-Gen II,Q
+3913,City of Colby - (KS),M
+3900,City of Coggon - (IA),M
+3892,City of Coffeyville - (KS),M
+3890,EFS Cogen Holdings I LLC,Q
+3852,Coalinga Cogeneration Co,IND
+3838,CMS Generation MI Power LLC,Q
+3837,CMS Generation Operating Co II,Q
+3836,CMS Generation Operating LLC,Q
+3828,Cloverland Electric Co-op,C
+3813,Village of Clinton - (MI),M
+3807,Cleveland Cliffs Inc,IND
+3790,BF ATL Realty Services LLC,COM
+3775,Clear Lake Cogeneration LP,Q
+3770,Co-Generation Co,IND
+3762,City of Cleveland - (OH),M
+3710,City of Clay Center - (KS),M
+3702,Clarksdale Public Utilities,M
+3692,Clark University,Q
+3682,CHI West Inc,Q
+3670,FreePort-McMoRan-Corp-Chino Mines,IND
+3663,CHI-West Inc,Q
+3662,Citrus World Inc,IND
+3660,PUD No 1 of Clark County - (WA),P
+3608,Puna Geothermal Venture,Q
+3599,Citizens Thermal Energy,P
+3593,"Choctaw Generation L.P, L.L.L.P.",COM
+3542,Duke Energy Ohio Inc,I
+3522,Chugach Electric Assn Inc,C
+3490,Crystal Springs Hydro Elec LP,Q
+3486,Chillicothe Municipal Utils,M
+3477,City of Chicopee - (MA),M
+3476,DTE San Diego COGEN Inc.,COM
+3473,Metro Wtr Recl Dist Grtr Chi,M
+3455,Chevron Oronite Co LLC,IND
+3453,Island Energy Services,IND
+3452,,IND
+3432,Ticona Polymers Inc,IND
+3413,PUD No 1 of Chelan County,P
+3373,City of Chappell - (NE),M
+3370,Channel Energy Center LLC,Q
+3355,City of Chanute,M
+3329,Borough of Chambersburg,M
+3304,Central Michigan University,S
+3303,Florida Power Development,Q
+3295,City of Centralia - (WA),M
+3283,Bunge North America East LLC,Q
+3271,Central Nebraska Pub P&I Dist,P
+3265,Cleco Power LLC,I
+3258,Central Iowa Power Cooperative,C
+3255,California Dept. of Water Resources,S
+3249,Central Hudson Gas & Elec Corp,I
+3227,City of Center - (CO),M
+3221,CPKelco U S Inc,IND
+3220,Central Oregon Irrigation Dist,M
+3203,Cedar Falls Utilities,M
+3179,Caterpillar Inc,IND
+3156,Village of Cashton - (WI),M
+3153,City of Casey - (IL),M
+3137,Cascade Municipal Utilities,M
+3131,Carville Energy LLC,Q
+3123,CDM Hydroelectric Co,Q
+3113,City of Carthage - (MO),M
+3106,Cargill Inc North America Sweetners,IND
+3102,Mosaic Company,IND
+3085,Carthage Energy LLC,Q
+3084,Carson Cogeneration Co,Q
+3082,Carrollton Board of Public Wks,M
+3057,Catawba County,M
+3046,Duke Energy Progress - (NC),I
+3040,City of Carmi - (IL),M
+3037,City of Carlyle - (IL),M
+3028,Calpine Gilroy Cogen LP,Q
+2956,Capitol District Energy Center,Q
+2938,Calpine King City Cogen LLC,Q
+2934,Calpine Corp - Hidalgo,Q
+2931,Village of Campbell - (NE),M
+2929,Decatur Energy Center LLC,Q
+2897,Oneta Power LLC,Q
+2891,Westbrook Energy Center,Q
+2888,City of Cambridge - (NE),M
+2884,Cambria CoGen Co,Q
+2877,Calpine Corp-Magic Valley,Q
+2874,Gilroy Energy Center for Riverview,Q
+2872,Auburndale Peaker Energy Center LLC,Q
+2871,OLS Energy-Agnews Inc.,Q
+2867,Calpine Corp-Yuba City,Q
+2865,Calpine Corp-King City,Q
+2860,Los Esteros Critical Energy Facility LLC,Q
+2850,Central Arizona Water Conservation Dist,M
+2848,,COM
+2844,Department of the Navy,F
+2843,Los Medanos Energy Center LLC,Q
+2838,Baytown Energy Center LLC,Q
+2836,BP America Inc,IND
+2820,Calpine Corp - Pastoria Energy Center,Q
+2806,California Dept of Corrections,S
+2799,Calpine Corp - Metcalf Energy Center,Q
+2782,Terra-Gen Operating Company,Q
+2770,Terra-Gen Operating Co LLC,Q
+2769,Cargill Inc,IND
+2719,CalWind Resources Inc,Q
+2696,Tesoro Carson Refinery,IND
+2674,Tesoro Refining & Marketing Company LLC,COM
+2671,Baconton Power LLC,Q
+2647,City of Butler - (MO),M
+2634,City of Bushnell - (IL),M
+2609,City of Burwell - (NE),M
+2598,Burrows Paper Corp,Q
+2565,North American Energy Services,Q
+2551,City of Burlington - (KS),M
+2548,City of Burlington Electric - (VT),M
+2547,City of Burlingame - (KS),M
+2522,Buckeye Florida Ltd Partners,IND
+2518,U S Bureau of Reclamation,F
+2507,City of Burbank Water and Power,M
+2468,Bucknell University,Q
+2442,City of Bryan - (TX),M
+2439,City of Bryan - (OH),M
+2409,Brownsville Public Utilities Board,M
+2338,Calpine Central LP,Q
+2313,Brooklyn Navy Yard Cogen PLP,Q
+2287,City of Brooklyn - (IA),M
+2277,City of Broken Bow - (NE),M
+2265,Bristol-Myers Squibb Co,IND
+2232,Bridgeport Energy LLC,COM
+2226,Bridgewater Power Co LP,Q
+2220,Brigham City Corporation,M
+2188,City of Breese - (IL),M
+2179,Brassua Hydroelectric LP,Q
+2172,Brazos Electric Power Coop Inc,C
+2171,Brazos Valley Energy,I
+2144,Town of Braintree - (MA),M
+2138,Brainerd Public Utilities,M
+2091,Phillips 66,IND
+2053,Bowater Newport Coosa Pines Op,IND
+2048,Bowersock Mills & Power Co,Q
+2016,Boott Hydropower Inc,Q
+2010,City of Bountiful,M
+1994,Boulder City of,M
+1991,Boise White Paper LLC,IND
+1984,ReEnergy Fort Fairfield LLC,Q
+1981,ReEnergy Ashland LLC,Q
+1966,Boltonville Hydro Associates,Q
+1956,City of Bonners Ferry,M
+1951,White Pine Electric Power LLC,Q
+1950,ReEnergy Stratton LLC,Q
+1947,Bob Jones University,Q
+1932,Boise-Kuna Irrigation District,M
+1924,Boise Packaging & Newsprint LLC,IND
+1883,Blue Earth Light & Water,M
+1881,Blue Canyon Windpower LLC,Q
+1871,City of Blooming Prairie - (MN),M
+1869,City of Bloomfield - (IA),M
+1857,Block Island Power Co,I
+1851,Blind Canyon Aqua Ranch Inc,Q
+1784,Black Creek Hydro Inc,Q
+1752,Biola University,COM
+1751,Birch Power Co,Q
+1746,Black River Generation LLC,Q
+1745,Biomass One LP,Q
+1735,Birchwood Power Partners LP,Q
+1692,Big Rivers Electric Corp,C
+1678,Big Creek Water Works Ltd,Q
+1616,Berkshire Power Co LLC,Q
+1615,Town of Berlin - (MD),M
+1573,City of Benson - (MN),M
+1569,Berry Petroleum Co,Q
+1528,Beaver Falls Municipal Auth,M
+1525,City of Beloit - (KS),M
+1515,City of Bellevue - (IA),M
+1512,City of Belleville - (KS),M
+1456,Town of Bedford - (VA),M
+1435,City of Beaver City - (NE),M
+1434,Beaver City Corporation,M
+1415,SWG Colorado LLC,Q
+1366,City of Bay City - (MI),M
+1362,Bassett Healthcare,COM
+1361,Bay Windpower LLC,Q
+1357,BASF Corp,Q
+1308,Basin Creek Power Services LLC,Q
+1307,Basin Electric Power Coop,C
+1299,"Barton Village, Inc",M
+1278,City of Barron - (WI),M
+1276,"Barrow Utils & Elec Coop, Inc",C
+1268,Bayswater Peaking Facility LLC,Q
+1194,Baptist Memorial Hospital,COM
+1182,BASF Corporation,IND
+1179,Emera Maine,I
+1172,Bancroft Municipal Utilities,M
+1148,City of Baldwin City- (KS),M
+1074,"Hays Energy, LLC",Q
+1058,B Braun Medical Inc,IND
+1015,Austin Energy,M
+1005,,Q
+998,City of Augusta - (KS),M
+993,Auburn Board of Public Works,M
+991,Air Products & Chemicals Inc,IND
+986,Aurora Energy LLC,I
+965,Atlantic Municipal Utilities,M
+924,"Associated Electric Coop, Inc",C
+918,City of Aspen- (CO),M
+914,Total Petrochemicals USA Inc,IND
+911,City of Ashland - (KS),M
+876,Atlanta Gift Mart LP,COM
+871,Village of Arnold - (NE),M
+867,ARCO Products Co-Watson,Q
+814,Entergy Arkansas Inc,I
+807,Arkansas Electric Coop Corp,C
+803,Arizona Public Service Co,I
+796,Arizona Electric Pwr Coop Inc,C
+794,Apollo Energy Corp,Q
+792,City of Argyle - (WI),M
+782,Aquenergy Systems Inc,I
+772,Archer Daniels Midland Co,IND
+768,City of Arcanum - (OH),M
+765,City of Arcadia - (WI),M
+756,Appomattox River Associates LP,Q
+745,Applied Energy Inc,Q
+744,Appleton Coated LLC,IND
+733,Appalachian Power Co,I
+701,City of Anthony - (KS),M
+695,City of Ansley - (NE),M
+682,City of Anita - (IA),M
+656,ANP Blackstone Energy Company LLC,Q
+641,ANP Bellingham Energy Company LLC,Q
+623,Anheuser-Busch Inc,IND
+599,Anchorage Municipal Light and Power,M
+590,City of Anaheim - (CA),M
+570,Covanta Delaware Valley LP,I
+563,American Bituminous Power LP,Q
+554,City of Ames - (IA),M
+547,American Sugar Refining Inc.,IND
+542,Covanta Essex Company,Q
+528,Covanta Southeastern Connecticut Company,IND
+520,Illinois Power Generating Co,Q
+503,American Hydro Power Company,Q
+491,American Crystal Sugar Co,C
+473,Covanta Hempstead Company,Q
+472,Amedee Gethrm Venture I LP,Q
+471,Amana Society Service Co,I
+470,Covanta Energy of Niagara LP,Q
+463,Ameresco LFG I Inc,Q
+450,The Amalgamated Sugar Co,IND
+429,Occidental Permian Ltd,IND
+406,City of Altamont - (IL),M
+405,City of Alta - (IA),M
+361,Industrial Energy Applications Inc,Q
+335,Air Liquide Large Industries U.S. LP,IND
+332,Allegheny Electric Coop Inc,C
+327,Air Liquide Large Industries U S LP,IND
+326,"Alice Falls Hydro, LLC",Q
+317,,IND
+309,City of Algona - (IA),M
+306,Brookfield Smoky Mountain Hydropower LLC,Q
+298,City of Alexandria - (LA),M
+295,City of Alexandria - (MN),M
+291,Algonquin Windsor Locks LLC,Q
+261,AGC Division of APG Inc,I
+241,Albertville Municipal Utilities Board,M
+228,City of Albany - (MO),M
+222,City of Akron,M
+221,"Alaska Village Elec Coop, Inc",C
+219,Alaska Power and Telephone Co,I
+213,Alaska Electric Light&Power Co,I
+195,Alabama Power Co,I
+194,Albuquerque City of,M
+189,PowerSouth Energy Cooperative,C
+179,Agrium US Inc,IND
+178,CES Placerita Inc,Q
+177,AES Hawaii Inc,I
+164,AERA Energy LLC,IND
+150,Adrian Public Utilities Comm,M
+135,Agrilectric Power Partners Ltd,Q
+88,Granite Ridge Energy LLC,Q
+84,A & N Electric Coop,C
+82,Ada Cogeneration Ltd Partnership,Q
+35,AES WR Ltd Partnership,Q
+34,City of Abbeville - (SC),M
+25,Greenidge Generation Holdings LLC,Q
+21,AES Shady Point LLC,Q
+8,Tate & Lyle Ingredients Americas Inc,IND
+7,Tate & Lyle Ingredients Americas Inc,IND
+61062,Denver Braswell,Q
+61061,Panasonic Battery Project,I
+61022,Hecate Energy Cherrydale LLC,Q
+61021,"Hecate Energy Clarke County, LLC",Q
+60997,"Red Pine Wind Project, LLC",Q
+60966,"Barnwell Solar, LLC",Q
+60965,"Cameron Solar II, LLC",Q
+60964,"Hampton Solar I, LLC",Q
+60954,Amherst Consulting LLC,Q
+60869,EDF Renewable Energy,Q
+60840,93LF 8me LLC,Q
+60772,"Big Timber Wind, LLC",Q
+60717,"Quantum Lake Power, LP",Q
+60716,"Quantum Auburndale Power, LP",Q
+60670,"Floyd Road Solar Farm, LLC",Q
+60668,"Heart of Texas Wind, LLC",Q
+60647,"RES Cactus Flats Wind Energy, LLC",Q
+60598,"Jacumba Solar, LLC",COM
+60510,"Conergy Projects, Inc.",COM
+60500,Bluesphere Corporate,Q
+60470,Jersey Holdings LLC,Q
+60450,Powin Energy,Q
+60433,"Sadiebrook Solar, LLC",Q
+60429,Chicago Bridge & Iron Company,Q
+60427,WPD Wind Projects Inc,Q
+60414,TC Ironwood,Q
+60288,"Cattle Ridge Wind Farm, LLC",Q
+60187,Granger Energy of Morgantown,Q
+60176,MVUT 27 Owner LLC,COM
+60019,"96WI 8ME, LLC",Q
+59725,"Ariel Solar, LLC",Q
+59706,Rattlesnake Den,Q
+59701,RE Tranquillity 8 LLC,Q
+59696,Soluga Farms IV,Q
+59479,"Covanta Energy Americas, Inc.",Q
+59475,Imperial Solar 1 LLC,Q
+59449,"Innovative Solar 68, LLC",Q
+59448,"Innovative Solar 67, LLC",Q
+59439,"Innovative Solar 54, LLC",Q
+59435,"Innovative Solar 37, LLC",Q
+59367,Utah Municipal Power Agency,P
+59342,"Maricopa West Solar PV 2, LLC",Q
+59330,"Wommack Farm, LLC",Q
+59283,"Gateway Energy Center, LLC",Q
+59279,"Nitro Solar, LLC",Q
+59278,"Sarah Solar, LLC",Q
+59277,"ESA Princeton NC, LLC",Q
+59276,"ESA Four Oaks NC 1, LLC",Q
+59132,Faison Solar LLC,Q
+59111,"Crawford Renewable Energy, LLC",Q
+59080,"Soleil Energy Solutions, LLC",Q
+59007,Clipperton Holdings LLC,Q
+58909,Fremont Farm LLC,Q
+58834,CH4 Power Inc,Q
+58791,Pristine Sun LLC,Q
+58763,"Summit Ridge Wind Holdings, LLC",Q
+58722,Jordan Cove Energy Project LP,IND
+58697,UTS Project Company HNY-1 LLC,COM
+58662,Blue Mountain Power Partners,Q
+58595,INEOS New Planet BioEnergy,COM
+58589,Orbit Energy Charlotte,Q
+58494,WSACC,S
+58437,ACI Energy Partners LLC,I
+58246,Escanaba Operating Services LLC,M
+58208,"Horse Butte Wind I, LLC",Q
+57469,Stony Creek Wind Farm NY,Q
+57433,ReEnergy Chateaugay LLC,Q
+57410,RET Modesto Solar LLC,Q
+57331,Soitec Solar Development LLC,Q
+57310,General Motors LLC,IND
+57297,Tronox,IND
+57253,NM Mid Valley Genco LLC,Q
+57225,MM Yolo Power LLC,Q
+57207,"HC-50 MAIN STREET, LLC",IND
+57171,Franklin County Wind LLC,Q
+57022,Solar Power Inc.,COM
+56921,Charleston Clean Energy LLC,Q
+56911,Kalaeloa Solar One LLC,I
+56829,McKinney LFG LLC,Q
+56808,Norgard 1,I
+56761,6th St Solar Park of Gainesville FL,I
+56730,Cedar Bay Operating Services LLC,Q
+56709,Turning Point Solar LLC,Q
+56690,Town of Portsmouth,M
+56611,Gainesville Renewable Energy Center LLC,Q
+56568,United Materials of Great Falls Inc,Q
+56226,Four Peaks Energy Inc,COM
+56217,Portsmouth Operating Services LLC,Q
+56148,Aspen Power LLC,Q
+56030,TransCanada Maine Wind Development Inc,Q
+55914,GE Energy Financial Services,Q
+55855,Rough and Ready Lumber Company,IND
+55807,Niagara Generation LLC,Q
+55759,H H Management LLC,Q
+55733,Waste Management Energy Solutions Inc,Q
+55728,Bright Light Capital LLC,Q
+54907,ReNu Power Holdings LLC,Q
+54845,Colorado & Santa Fe Energy Co,COM
+54693,Osprey Energy Center,Q
+54680,San Joaquin LLC,Q
+50168,Maxim Power (USA) Inc,Q
+50152,"Fauquier Landfill Gas, LLC",Q
+50048,"TransCanada Hydro Northeast Inc.,",Q
+49923,American Eagle Paper Mills,IND
+49905,Olympus Power,Q
+49777,SP Fiber Technologies NW LLC,IND
+49770,"Energy Recovery Operations, Inc",S
+35006,Cousins Properties Inc,COM
+30150,CBY DBA Yakutat Power,M
+26853,La Paloma Generating Co LLC,Q
+22354,"VC Porterdale Hydroelectric, LLC",I
+21352,Municipal Energy Agency of NE,P
+20838,Win-Sam Inc,S
+19984,Warm Springs Forest Prod Indst,IND
+19370,United States Steel Corporation,IND
+18153,RockTenn-Uncasville,IND
+17578,South Orange Co Wastewtr Auth,M
+16061,Rio Bravo Jasmin,Q
+15444,Provo City Corp,M
+14412,Gila River Power Station LP,Q
+14400,City of Palmyra - (MO),M
+14298,Odessa-Ector Power Partners LP,Q
+13898,Oildale Energy LLC,Q
+13168,NRG Huntley Operations Inc,C
+11601,Marlborough Hydro Corp,COM
+11451,Madison Paper Industries Inc,IND
+11142,City of Logansport - (IN),M
+10023,TC Ravenswood LLC,Q
+9667,City of Jasper - (IN),M
+9628,Hopewell Operating Services LLC,Q
+8758,Honeywell Farm Inc,IND
+8286,Hawaiian Commercial and Sugar Company,Q
+7972,Hamakua Energy Partners LP,Q
+7477,Granger Electric Co,Q
+7057,General Mills Inc,IND
+6996,Western Refining Southwest Inc,IND
+6716,PUD No 1 of Franklin County,P
+6519,Frontera Generation Limited Partnership,Q
+6042,EUI Management PH Inc,Q
+5943,Entergy Nuc Fitzpatrick LLC,I
+2670,Sherwin Alumina Company,IND
+2509,Bunge Foods,IND
+1828,Linn Operating Inc,IND
+1009,City of Austin - (MN),M
+343,AEP Generating Company,I
+109,Ag Processing Inc,Q
