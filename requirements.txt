@@ -1,4 +1,6 @@
 git+https://github.com/frictionlessdata/datapackage-py.git@fk-external
 tableschema-sql
 psycopg2
+tableschema-elasticsearch
+elasticsearch
 md-toc

@@ -216,7 +216,31 @@ We will checks the exported data using PgAdmin3. **Using FD software one can exp
 
 ## Visualising Data (ElasticSearch)
 
-> To be written
+To demonstrate how the Frictionless Data specs and software empower the usage of other analytics tools, we will use ElasticSearch/Kibana project. First, we will export one of the resources to ElasticSearch:
+
+```python
+from elasticsearch import Elasticsearch
+from datapackage import Package
+from tableschema_elasticsearch import Storage
+
+# Get resource
+package = Package('data/ferc1-test/datapackage.json')
+resource = package.get_resource('fuel_ferc1')
+
+# Create storage
+engine=Elasticsearch()
+storage=Storage(engine)
+
+# Write data
+storage.create('ferc1-test', [('fuel_ferc1', resource.schema.descriptor)])
+list(storage.write('ferc1-test', 'fuel_ferc1', resource.read(keyed=True), ['id']))
+```
+
+It allows us to visualize data using a simple UI:
+
+![](https://i.imgur.com/2MzT4rl.png)
+
+This is just an example of what you can do by having the ability to easily load datasets into other analytical software.
 
 ## Getting Data (Datapackage Pipelines)
 
